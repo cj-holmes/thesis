@@ -1,691 +1,600 @@
-\begin{thebibliography}{100}
-
-\bibitem{Reinitzer1888}
-\textsc{Reinitzer, F.}
-\newblock {Contributions to the understanding of cholesterol}.
-\newblock \emph{Monatshefte fur Chemie (Wien)}, \textbf{9}, 421 (1888).
-
-\bibitem{Sluckin2004}
-\textsc{Sluckin, T.J., Dunmur, D.A., and Stegemeyer, H.}
-\newblock \emph{{Crystals that flow: classic papers from the history of liquid
-  crystals}}.
-\newblock Taylor and Francis (2004).
-
-\bibitem{Bruce2006}
-\textsc{Bruce, D.W., Goodby, J.W., Sambles, J.R., and Coles, H.J.}
-\newblock {New directions in liquid crystal science.}
-\newblock \emph{Philosophical transactions. Series A, Mathematical, physical,
-  and engineering sciences}, \textbf{364}, 2567 (2006).
-
-\bibitem{Collings1997}
-\textsc{Collings, P.J. and Hird, M.}
-\newblock \emph{{Introduction to liquid crystals}}.
-\newblock Taylor and Francis (1997).
-\newblock ISBN 0-7484-0643-3.
-
-\bibitem{Burroughes1990}
-\textsc{Burroughes, J., Bradley, D., Brown, A., Marks, R., Mackay, K., Friend,
-  R., Burns, P., and Holmes, A.}
-\newblock {Light-emitting diodes based on conjugated polymers}.
-\newblock \emph{Nature}, \textbf{347}, 539 (1990).
-
-\bibitem{Fleury2009}
-\textsc{Fleury, J.B., Pires, D., and Galerne, Y.}
-\newblock {Self-Connected 3D Architecture of Microwires}.
-\newblock \emph{Physical Review Letters}, \textbf{103}, 267801 (2009).
-
-\bibitem{Imrie2010}
-\textsc{Imrie, C.T.}
-\newblock {Editorial: The 2009 Luckhurst-Samulski Prize}.
-\newblock \emph{Liquid Crystals}, \textbf{37}, 497 (2010).
-
-\bibitem{Nguyen2010}
-\textsc{Nguyen, Z., Atkinson, M., Park, C., Maclennan, J., Glaser, M., and
-  Clark, N.}
-\newblock {Crossover between 2D and 3D Fluid Dynamics in the Diffusion of
-  Islands in Ultrathin Freely Suspended Smectic Films}.
-\newblock \emph{Physical Review Letters}, \textbf{105}, 1 (2010).
-
-\bibitem{Vollrath2001}
-\textsc{Vollrath, F. and Knight, D.P.}
-\newblock {Liquid crystalline spinning of spider silk.}
-\newblock \emph{Nature}, \textbf{410}, 541 (2001).
-
-\bibitem{Lydon2004}
-\textsc{Lydon, J.}
-\newblock {Silk: the original liquid crystalline polymer}.
-\newblock \emph{Liquid Crystals Today}, \textbf{13}, 1 (2004).
-
-\bibitem{Gupta2005}
-\textsc{Gupta, G. and Rey, A.}
-\newblock {Texture Rules for Concentrated Filled Nematics}.
-\newblock \emph{Physical Review Letters}, \textbf{95}, 3 (2005).
-
-\bibitem{Muller2007}
-\textsc{M\"{u}ller, F., Kornek, U., and Stannarius, R.}
-\newblock {Experimental study of the bursting of inviscid bubbles}.
-\newblock \emph{Physical Review E}, \textbf{75}, 1 (2007).
-
-\bibitem{Bird2010}
-\textsc{Bird, J.C., de~Ruiter, R., Courbin, L., and Stone, H.a.}
-\newblock {Daughter bubble cascades produced by folding of ruptured thin
-  films.}
-\newblock \emph{Nature}, \textbf{465}, 759 (2010).
-
-\bibitem{Fernandez-Nieves2007}
-\textsc{Fern\'{a}ndez-Nieves, a., Vitelli, V., Utada, a., Link, D.,
-  M\'{a}rquez, M., Nelson, D., and Weitz, D.}
-\newblock {Novel Defect Structures in Nematic Liquid Crystal Shells}.
-\newblock \emph{Physical Review Letters}, \textbf{99}, 1 (2007).
-
-\bibitem{Bawden1936}
-\textsc{Bawden, F., Pirie, N., Bernal, J., and Fankuchen, I.}
-\newblock {Liquid crystalline substances from virus-infected plants}.
-\newblock \emph{Nature}, page 1051 (1936).
-
-\bibitem{Lettinga2007}
-\textsc{Lettinga, M. and Grelet, E.}
-\newblock {Self-Diffusion of Rodlike Viruses through Smectic Layers}.
-\newblock \emph{Physical Review Letters}, \textbf{99}, 197802 (2007).
-
-\bibitem{Tkachenko1996}
-\textsc{Tkachenko, A.}
-\newblock {Nematic-Smectic Transition of Semiflexible Chains.}
-\newblock \emph{Physical review letters}, \textbf{77}, 4218 (1996).
-
-\bibitem{Helfrich1969}
-\textsc{Helfrich, W.}
-\newblock {Capillary flow of cholesteric and smectic liquid crystals}.
-\newblock \emph{Physical Review Letters}, \textbf{23}, 372 (1969).
-
-\bibitem{Yablonovitch1987}
-\textsc{Yablonovitch, E.}
-\newblock {Inhibited spontaneous emission in solid-state physics and
-  electronics}.
-\newblock \emph{Physical review letters}, \textbf{58}, 2059 (1987).
-
-\bibitem{Humar2010}
-\textsc{Humar, M. and Mu\v{s}evi\v{c}, I.}
-\newblock {3D microlasers from self-assembled cholesteric liquid-crystal
-  microdroplets}.
-\newblock \emph{Optics Express}, \textbf{18}, 26995 (2010).
-
-\bibitem{Schafer2008}
-\textsc{Sch\"{a}fer, J., Mondia, J.P., Sharma, R., Lu, Z.H., Susha, a.S.,
-  Rogach, a.L., and Wang, L.J.}
-\newblock {Quantum dot microdrop laser.}
-\newblock \emph{Nano letters}, \textbf{8}, 1709 (2008).
-
-\bibitem{Doane1986}
-\textsc{Doane, J.W., Vaz, N.a., Wu, B.G., and Zumer, S.}
-\newblock {Field controlled light scattering from nematic microdroplets}.
-\newblock \emph{Applied Physics Letters}, \textbf{48}, 269 (1986).
-
-\bibitem{Smalyukh2005}
-\textsc{Smalyukh, I.I., Kuzmin, a.N., Kachynski, a.V., Prasad, P.N., and
-  Lavrentovich, O.D.}
-\newblock {Optical trapping of colloidal particles and measurement of the
-  defect line tension and colloidal forces in a thermotropic nematic liquid
-  crystal}.
-\newblock \emph{Applied Physics Letters}, \textbf{86}, 021913 (2005).
-
-\bibitem{Yada2004}
-\textsc{Yada, M., Yamamoto, J., and Yokoyama, H.}
-\newblock {Direct Observation of Anisotropic Interparticle Forces in Nematic
-  Colloids with Optical Tweezers}.
-\newblock \emph{Physical Review Letters}, \textbf{92}, 1 (2004).
-
-\bibitem{Vertogen1988}
-\textsc{Vertogen, G. and de~Jeu, W.H.}
-\newblock \emph{{Thermotropic Liquid Crystals, Fundamentals}}.
-\newblock Springer-Verlag (1988).
-\newblock ISBN 3-540-17946-1.
-
-\bibitem{Lydon2006}
-\textsc{Lydon, J.}
-\newblock {Microtubules: Nature's smartest mesogens — a liquid crystal model
-  for cell division}.
-\newblock \emph{Liquid Crystals Today}, \textbf{15}, 1 (2006).
-
-\bibitem{Taphouse2007}
-\textsc{Taphouse, T.S.}
-\newblock \emph{{Time Resolved Optical Characterisation of Hybrid Aligned
-  Nematic Liquid Crystal Cells}}.
-\newblock Ph.D. thesis (2007).
-
-\bibitem{Friedel1922}
-\textsc{Friedel, G.}
-\newblock {The mesomorphic states of matter}.
-\newblock \emph{Annales de Physique}, \textbf{18}, 273 (1922).
-
-\bibitem{Li2005}
-\textsc{Li, J., Wen, C.h., Gauza, S., Lu, R., and Wu, S.t.}
-\newblock {Refractive Indices of Liquid Crystals for Display Applications}.
-\newblock \textbf{1}, 51 (2005).
-
-\bibitem{Stewart2004}
-\textsc{Stewart, I.}
-\newblock \emph{{The static and dynamic continuum theory of liquid crystals: a
-  mathematical introduction}}.
-\newblock Taylor \& Francis (2004).
-\newblock ISBN 0-748-40895-9.
-
-\bibitem{Miesowicz1946}
-\textsc{Miesowicz, M.}
-\newblock {The three coefficients of viscosity of anisotropic liquids.pdf}.
-\newblock \emph{Nature}, \textbf{158} (1946).
-
-\bibitem{Helfrich1969a}
-\textsc{Helfrich, W.}
-\newblock {Conduction-Induced Alignment of Nematic Liquid Crystals: Basic Model
-  and Stability Considerations}.
-\newblock \emph{J. Chem. Phys.}, \textbf{51}, 4092 (1969).
-
-\bibitem{Janik1992}
-\textsc{Janik, J.a.}
-\newblock {PROFESSOR MARIAN MIESOWICZ, 1907-1992: A Scientific Appreciation}.
-\newblock \emph{Liquid Crystals Today}, \textbf{2}, 6 (1992).
-
-\bibitem{Taylor1999}
-\textsc{Carlsson, T. and Leslie, F.M.}
-\newblock {The development of theory for flow and dynamic effects for nematic
-  liquid crystals}.
-\newblock \emph{Liquid Crystals}, \textbf{26}, 1267 (1999).
-
-\bibitem{Leslie1992}
-\textsc{Leslie, F.M.}
-\newblock {Continuum theory for nematic liquid crystals}.
-\newblock \emph{Continuum Mech. Thermodyn.}, \textbf{4}, 167 (1992).
-
-\bibitem{Belyaev2001}
-\textsc{Belyaev, V.}
-\newblock {Physical methods for measuring the viscosity coefficients of nematic
-  liquid crystals}.
-\newblock \emph{Physics-Uspekhi}, \textbf{44}, 255 (2001).
-
-\bibitem{Parodi1970}
-\textsc{Parodi, O.}
-\newblock {Stress tensor for a nematic liquid crystal}.
-\newblock \emph{Journal de Physique}, \textbf{31}, 581 (1970).
-
-\bibitem{Currie1974}
-\textsc{Currie, P.K.}
-\newblock {Parodi's Relation as a Stability Condition for Nematics}.
-\newblock \emph{Molecular Crystals and Liquid Crystals}, \textbf{28}, 335
-  (1974).
-
-\bibitem{Cornford2008}
-\textsc{Cornford, S.}
-\newblock \emph{{Recovery and analysis of director profiles in liquid crystal
-  cells}}.
-\newblock Ph.D. thesis, University of Exeter (2008).
-
-\bibitem{Birkett2008}
-\textsc{Birkett, J.E.}
-\newblock \emph{{Chiral HAN cells: a novel liquid crystal arrangement}}.
-\newblock Ph.D. thesis, University of Exeter (2008).
-
-\bibitem{Jewell2002}
-\textsc{Jewell, S.}
-\newblock \emph{{Optical waveguide characterisation of hybrid aligned nematic
-  liquid crystal cells}}.
-\newblock Ph.D. thesis, Exeter (2002).
-
-\bibitem{Feynmann1964}
-\textsc{Feynmann, R.P., Leighton, R.B., and Sands, M.}
-\newblock \emph{{The Feynmann Lectures on Physics, Volume II}}.
-\newblock Addison-Wesley (1964).
-
-\bibitem{Cui2006}
-\textsc{Cui, Z., {Gregory Forest}, M., Wang, Q., and Zhou, H.}
-\newblock {On Weak Plane Couette and Poiseuille Flows of Rigid Rod and Platelet
-  Ensembles}.
-\newblock \emph{SIAM Journal on Applied Mathematics}, \textbf{66}, 1227 (2006).
-
-\bibitem{Choate2008}
-\textsc{Choate, E.P., Cui, Z., and {Gregory Forest}, M.}
-\newblock {Effects of strong anchoring on the dynamic moduli of heterogeneous
-  nematic polymers}.
-\newblock \emph{Rheologica Acta}, \textbf{47}, 223 (2008).
-
-\bibitem{wikipedia}
-{http://en.wikipedia.org/wiki/Conoscopy}.
-
-\bibitem{Horn2001}
-\textsc{Henning, B. and Others}.
-\newblock {Analysis of the conoscopic measurement for uniaxial liquid-crystal
-  tilt angles}.
-\newblock \emph{Appl. Opt}, \textbf{40}, 2089 (2001).
-
-\bibitem{Cornford2009}
-\textsc{Cornford, S.L., Taphouse, T.S., and Sambles, J.R.}
-\newblock {Analysis of the sign-dependent switching observed in a hybrid
-  aligned nematic cell}.
-\newblock \emph{New Journal of Physics}, \textbf{11}, 013045 (2009).
-
-\bibitem{Yang2007}
-\textsc{Yang, F., Jewell, S.A., Ruan, L., and Sambles, J.R.}
-\newblock {Complex permittivities of a nematic liquid crystal in a
-  hybrid-aligned cell}.
-\newblock \emph{Journal of the Optical Society of America B}, \textbf{24}, 527
-  (2007).
-
-\bibitem{Jewell2005a}
-\textsc{Jewell, S.A., Taphouse, T.S., and Sambles, J.R.}
-\newblock {Rapid switching in a dual-frequency hybrid aligned nematic liquid
-  crystal cell}.
-\newblock \emph{Applied Physics Letters}, \textbf{87}, 021106 (2005).
-
-\bibitem{Jewell2006}
-\textsc{Jewell, S.A. and Sambles, J.R.}
-\newblock {Dynamic response of a dual-frequency chiral hybrid aligned nematic
-  liquid-crystal cell}.
-\newblock \emph{Physical Review E}, \textbf{73}, 011706 (2006).
-
-\bibitem{Jewell2007}
-\textsc{Jewell, S.A. and Sambles, J.R.}
-\newblock {Measurement of Azimuthal Backflow in a Dual-Frequency Chiral HAN
-  Cell}.
-\newblock \emph{Molecular Crystals and Liquid Crystals}, \textbf{477}, 551
-  (2007).
-
-\bibitem{Berreman1972}
-\textsc{Berreman, D.W.}
-\newblock {Optics in stratified and anisotropic media: 4x4-matrix formulation}.
-\newblock \emph{J. Opt. Soc. Am}, \textbf{62}, 502 (1972).
-
-\bibitem{Ogasawara2001}
-\textsc{Ogasawara, T., Akizuki, T., Takanishi, Y., Ishikawa, K., and Takezoe,
-  H.}
-\newblock {Simulation of conoscopic figures using 4x4 matrix method}.
-\newblock \emph{Mol. Cryst. Liquid Cryst} (2001).
-
-\bibitem{Parry-Jones2002}
-\textsc{Parry-Jones, L., Kriezis, E., and Elston, S.}
-\newblock {Conoscopic Observations of a Homeotropically Aligned
-  Antiferroelectric Liquid Crystal Device: A Comparison of Theory and
-  Experiment}.
-\newblock \emph{Japanese Journal of Applied Physics}, \textbf{41}, L1485
-  (2002).
-
-\bibitem{Fujikawa1993}
-\textsc{Fujikawa, T., Hiraoka, K., Isozaki, T., Kajikawa, K., Takezoe, H., and
-  Fukuda, A.}
-\newblock {Construction of dynamic conoscope observation system using CCD
-  camera and image processor}.
-\newblock \emph{Japanese Journal of Applied Physics}, \textbf{32}, 985 (1993).
-
-\bibitem{Jewell2003}
-\textsc{Jewell, S.a. and Sambles, J.R.}
-\newblock {Backflow in the relaxation of a hybrid aligned nematic cell}.
-\newblock \emph{Applied Physics Letters}, \textbf{82}, 3156 (2003).
-
-\bibitem{Jewell2004}
-\textsc{Jewell, S.A. and Sambles, J.R.}
-\newblock {Observation of backflow in the switch-on dynamics of a hybrid
-  aligned nematic}.
-\newblock \emph{Applied Physics Letters}, \textbf{84}, 46 (2004).
-
-\bibitem{Jewell2005}
-\textsc{Jewell, S.A. and Sambles, J.R.}
-\newblock {Optical characterization of a dual-frequency hybrid aligned nematic
-  liquid crystal cell.}
-\newblock \emph{Optics express}, \textbf{13}, 2627 (2005).
-
-\bibitem{Jewell2002a}
-\textsc{Jewell, S.a. and Sambles, J.R.}
-\newblock {Fully leaky guided mode study of the flexoelectric effect and
-  surface polarization in hybrid aligned nematic cells}.
-\newblock \emph{Journal of Applied Physics}, \textbf{92}, 19 (2002).
-
-\bibitem{Boudreau1999}
-\textsc{Boudreau, D.M., Winter, H.H., Lillya, C.P., and Stein, R.S.}
-\newblock {Conoscopic observations of shear-induced rotations in nematic liquid
-  crystals}.
-\newblock \emph{Rheologica Acta}, \textbf{38}, 503 (1999).
-
-\bibitem{Horn2003}
-\textsc{Horn, B.L.V., Boudreau, D.M., and Winter, H.H.}
-\newblock {Shear response of monodomains of flow-aligning nematic liquid
-  crystals: TIF model comparisons and effect of pre-tilt}.
-\newblock \emph{Rheologica Acta}, \textbf{42}, 585 (2003).
-
-\bibitem{VanHorn2000}
-\textsc{{Van Horn}, B.L. and Winter, H.H.}
-\newblock {Dynamics of shear aligning of nematic liquid crystal monodomains}.
-\newblock \emph{Rheologica Acta}, \textbf{39}, 294 (2000).
-
-\bibitem{Pieranski1973}
-\textsc{Pieranski, P. and Guyon, E.}
-\newblock {Shear-flow-induced transition in nematics}.
-\newblock \emph{Solid State Communications}, \textbf{13}, 435 (1973).
-
-\bibitem{Graf1992}
-\textsc{Graf, H.H., Kneppe, H., and Schneider, F.}
-\newblock {Shear and rotational viscosity coefficients of two nematic liquid
-  crystals}.
-\newblock \emph{Molecular Physics}, \textbf{77}, 521 (1992).
-
-\bibitem{Borzsonyi1998}
-\textsc{B\"{o}rzs\"{o}nyi, T., Buka, A., Krekhov, A., and Kramer, L.}
-\newblock {Response of a homeotropic nematic liquid crystal to rectilinear
-  oscillatory shear}.
-\newblock \emph{Physical Review E}, \textbf{58}, 7419 (1998).
-
-\bibitem{Kemp1971}
-\textsc{Kemp, K. and Letcher, S.}
-\newblock {Ultrasonic determination of anisotropic shear and bulk viscosities
-  in nematic liquid crystals}.
-\newblock \emph{Physical review letters}, \textbf{27}, 1634 (1971).
-
-\bibitem{Pieranski1974}
-\textsc{Pieranski, P. and Guyon, E.}
-\newblock {Instability of certain shear flows in nematic liquids}.
-\newblock \emph{Physical Review A}, \textbf{9}, 404 (1974).
-
-\bibitem{Pieranski2005}
-\textsc{Pieranski, P.}
-\newblock \emph{{Nematic and Cholesteric Liquid Crystals Concepts and Physical
-  Properties Illustrated by Experiments}}.
-\newblock CRC Press (2005).
-
-\bibitem{Jewell2009}
-\textsc{Jewell, S.A., Cornford, S.L., Yang, F., Cann, P.S., and Sambles, J.R.}
-\newblock {Flow-driven transition and associated velocity profiles in a nematic
-  liquid-crystal cell}.
-\newblock \emph{Physical Review E}, \textbf{80}, 041706 (2009).
-
-\bibitem{Geary1987}
-\textsc{Geary, J.M., Goodby, J.W., Kmetz, A.R., and Patel, J.S.}
-\newblock {The mechanism of polymer alignment of liquid-crystal materials}.
-\newblock \emph{Journal of Applied Physics}, \textbf{62}, 4100 (1987).
-
-\bibitem{Mallard1882}
-\textsc{Mallard, E.}
-\newblock {On the measurement of the angle of the optical axes}.
-\newblock \emph{Bull. Soc. Mineral. Fr.}, \textbf{5}, 77 (1882).
-
-\bibitem{Kumar2005}
-\textsc{Kumar, S., Kim, J.H., and Shi, Y.}
-\newblock {What Aligns Liquid Crystals on Solid Substrates? The Role of Surface
-  Roughness Anisotropy}.
-\newblock \emph{Physical Review Letters}, \textbf{94}, 077803 (2005).
-
-\bibitem{Berreman1972a}
-\textsc{Berreman, D.}
-\newblock {Solid surface shape and the alignment of an adjacent nematic liquid
-  crystal}.
-\newblock \emph{Physical Review Letters}, \textbf{28}, 1683 (1972).
-
-\bibitem{Faetti1987}
-\textsc{Faetti, S.}
-\newblock {Azimuthal anchoring energy of a nematic liquid crystal at a grooved
-  interface}.
-\newblock \emph{Physical review A}, \textbf{36}, 408 (1987).
-
-\bibitem{Mahajan1998}
-\textsc{Mahajan, M.P. and Rosenblatt, C.}
-\newblock {Correlation between rub-induced grooves in a polyimide-treated
-  substrate and microstructure of rubbing fiber: An atomic force microscopy
-  study}.
-\newblock \emph{Journal of Applied Physics}, \textbf{83}, 7649 (1998).
-
-\bibitem{Nov1987}
-\textsc{Filas, R. and Patel, J.}
-\newblock {Chemically induced high-tilt surfaces for liquid crystals}.
-\newblock \emph{Applied Physics Letters}, \textbf{50}, 1426 (1987).
-
-\bibitem{Fuh2009}
-\textsc{Fuh, A.Y.g., Liu, C.k., Cheng, K.t., Ting, C.l., Chen, C.c., Chao,
-  P.C.p., Hsu, H.k., Lc, M., Addlc, T., and Addlcs, A.}
-\newblock {Variable liquid crystal pretilt angles generated by photoalignment
-  in homeotropically aligned azo dye-doped liquid crystals}.
-\newblock \emph{Applied Physics Letters}, \textbf{95}, 161104 (2009).
-
-\bibitem{Honma2007}
-\textsc{Honma, M. and Nose, T.}
-\newblock {Friction as the fundamental factor controlling the pretilt angle of
-  homeotropic liquid crystal cells: A microrubbing investigation}.
-\newblock \emph{Journal of Applied Physics}, \textbf{101}, 104903 (2007).
-
-\bibitem{Kim2002}
-\textsc{Kim, J.h., Yoneya, M., and Yokoyama, H.}
-\newblock {Tristable nematic liquid-crystal device using micropatterned surface
-  alignment}.
-\newblock \emph{Nature}, pages 159--162 (2002).
-
-\bibitem{Paek1998}
-\textsc{Paek, S.H., Durning, C.J., Lee, K.W., and Lien, A.}
-\newblock {A mechanistic picture of the effects of rubbing on polyimide
-  surfaces and liquid crystal pretilt angles}.
-\newblock \emph{Journal of Applied Physics}, \textbf{83}, 1270 (1998).
-
-\bibitem{Reznikov2000}
-\textsc{Reznikov, Y., Ostroverkhova, O., Singer, K., Kim, J., Kumar, S.,
-  Lavrentovich, O., Wang, B., and West, J.}
-\newblock {Photoalignment of liquid crystals by liquid crystals}.
-\newblock \emph{Physical review letters}, \textbf{84}, 1930 (2000).
-
-\bibitem{Sakamoto1996}
-\textsc{Sakamoto, K., Arafune, R., Ito, N., Ushioda, S., Suzuki, Y., and
-  Morokawa, S.}
-\newblock {Determination of molecular orientation of very thin rubbed and
-  unrubbed polyimide films}.
-\newblock \emph{Journal of Applied Physics}, \textbf{80}, 431 (1996).
-
-\bibitem{Search1991}
-\textsc{Jerome, B.}
-\newblock {Surface effects and anchoring in liquid crystals}.
-\newblock \emph{Rep. Prog. Phys.}, \textbf{54}, 391 (1991).
-
-\bibitem{Shah2001}
-\textsc{Shah, R.R. and Abbott, N.L.}
-\newblock {Principles for measurement of chemical exposure based on
-  recognition-driven anchoring transitions in liquid crystals.}
-\newblock \emph{Science (New York, N.Y.)}, \textbf{293}, 1296 (2001).
-
-\bibitem{Yeung2006}
-\textsc{Yeung, F.S.Y. and Kwok, H.S.}
-\newblock {Fast-response no-bias-bend liquid crystal displays using
-  nanostructured surfaces}.
-\newblock \emph{Applied Physics Letters}, \textbf{88}, 063505 (2006).
-
-\bibitem{Yu2004}
-\textsc{Yu, X.J. and Kwok, H.S.}
-\newblock {Bistable bend-splay liquid crystal display}.
-\newblock \emph{Applied Physics Letters}, \textbf{85}, 3711 (2004).
-
-\bibitem{Yeung2005}
-\textsc{Yeung, F.S.Y., Xie, F.C., Kwok, H.S., Wan, J., Tsui, O., and Sheng, P.}
-\newblock {High Pretilt Angles by Nano-Structured Surfaces and their
-  Applications}.
-\newblock \emph{SID Symposium Digest of Technical Papers}, \textbf{36}, 1080
-  (2005).
-
-\bibitem{Janning1972}
-\textsc{Janning, J.L.}
-\newblock {Thin film surface orientation for liquid crystals}.
-\newblock \emph{Applied Physics Letters}, \textbf{21}, 173 (1972).
-
-\bibitem{Yeung2006a}
-\textsc{Yeung, F.S., Ho, J.Y., Li, Y.W., Xie, F.C., Tsui, O.K., Sheng, P., and
-  Kwok, H.S.}
-\newblock {Variable liquid crystal pretilt angles by nanostructured surfaces}.
-\newblock \emph{Applied Physics Letters}, \textbf{88}, 051910 (2006).
-
-\bibitem{Vaughn2007}
-\textsc{Vaughn, K., Sousa, M., Kang, D., and Rosenblatt, C.}
-\newblock {Continuous control of liquid crystal pretilt angle from homeotropic
-  to planar}.
-\newblock \emph{Applied Physics Letters}, \textbf{90}, 194102 (2007).
-
-\bibitem{Wu2008}
-\textsc{Wu, W.Y., Wang, C.C., and Fuh, A.Y.}
-\newblock {Controlling pre-tilt angles of liquid crystal using mixed polyimide
-  alignment layer.}
-\newblock \emph{Optics express}, \textbf{16}, 17131 (2008).
-
-\bibitem{Ahn2009}
-\textsc{Ahn, D., Jeong, Y.C., Lee, S., Lee, J., Heo, Y., and Park, J.K.}
-\newblock {Control of liquid crystal pretilt angles by using organic/inorganic
-  hybrid interpenetrating networks.}
-\newblock \emph{Optics express}, \textbf{17}, 16603 (2009).
-
-\bibitem{Lee2009}
-\textsc{Lee, J.H., Kang, D., Clarke, C.M., and Rosenblatt, C.}
-\newblock {Full control of nematic pretilt angle using spatially homogeneous
-  mixtures of two polyimide alignment materials}.
-\newblock \emph{Journal of Applied Physics}, \textbf{105}, 023508 (2009).
-
-\bibitem{Kang2009}
-\textsc{Kang, H., Park, J.S., Sohn, E.H., Kang, D., Rosenblatt, C., and Lee,
-  J.C.}
-\newblock {Polyimide blend alignment layers for control of liquid crystal
-  pretilt angle through baking}.
-\newblock \emph{Polymer}, \textbf{50}, 522 (2009).
-
-\bibitem{Hwang2010}
-\textsc{Hwang, S.J., Jeng, S.C., and Hsieh, I.M.}
-\newblock {Nanoparticle-doped polyimide for controlling the pretilt angle of
-  liquid crystals devices.}
-\newblock \emph{Optics express}, \textbf{18}, 16507 (2010).
-
-\bibitem{Jeng2007}
-\textsc{Jeng, S.C., Kuo, C.W., Wang, H.L., and Liao, C.C.}
-\newblock {Nanoparticles-induced vertical alignment in liquid crystal cell}.
-\newblock \emph{Applied Physics Letters}, \textbf{91}, 061112 (2007).
-
-\bibitem{Chen2008}
-\textsc{Chen, T.J. and Chu, K.L.}
-\newblock {Pretilt angle control for single-cell-gap transflective liquid
-  crystal cells}.
-\newblock \emph{Applied Physics Letters}, \textbf{92}, 091102 (2008).
-
-\bibitem{Hallam1999}
-\textsc{Hallam, B.T.}
-\newblock \emph{{Grating alignment of liquid crystals}}.
-\newblock Ph.D. thesis (1999).
-
-\bibitem{Flanders1978}
-\textsc{Flanders, D.C., Shaver, D.C., and Smith, H.I.}
-\newblock {Alignment of liquid crystals using submicrometer periodicity
-  gratings}.
-\newblock \emph{Applied Physics Letters}, \textbf{32}, 597 (1978).
-
-\bibitem{Zhang2003}
-\textsc{Zhang, B., Lee, F., Tsui, O., and Sheng, P.}
-\newblock {Liquid crystal orientation transition on microtextured substrates}.
-\newblock \emph{Physical review letters}, \textbf{91}, 215501 (2003).
-
-\bibitem{Rastegar2001}
-\textsc{Rastegar, a., Skarabot, M., Blij, B., and Rasing, T.}
-\newblock {Mechanism of liquid crystal alignment on submicron patterned
-  surfaces}.
-\newblock \emph{Journal of Applied Physics}, \textbf{89}, 960 (2001).
-
-\bibitem{Ruetschi1994}
-\textsc{R\"{u}etschi, M., Gr\"{u}tter, P., F\"{u}nfschilling, J., and
-  G\"{u}ntherodt, H.J.}
-\newblock {Creation of liquid crystal waveguides with scanning force
-  microscopy.}
-\newblock \emph{Science (New York, N.Y.)}, \textbf{265}, 512 (1994).
-
-\bibitem{Wang2007}
-\textsc{Wang, R., Atherton, T., Zhu, M., Petschek, R., and Rosenblatt, C.}
-\newblock {Naturally occurring reverse tilt domains in a high-pretilt alignment
-  nematic liquid crystal}.
-\newblock \emph{Physical Review E}, \textbf{76}, 021702 (2007).
-
-\bibitem{Huang2005}
-\textsc{Huang, Z. and Rosenblatt, C.}
-\newblock {Large polar pretilt for the liquid crystal homologous series
-  alkylcyanobiphenyl}.
-\newblock \emph{Applied Physics Letters}, \textbf{86}, 011908 (2005).
-
-\bibitem{Shioda2003}
-\textsc{Shioda, T., Wen, B., and Rosenblatt, C.}
-\newblock {Continuous nematic anchoring transition due to surface-induced
-  smectic order}.
-\newblock \emph{Physical Review E}, \textbf{67}, 1 (2003).
-
-\bibitem{Syed2003}
-\textsc{Syed, I. and Rosenblatt, C.}
-\newblock {Surface-induced molecular tilt above the smectic-A–smectic-C phase
-  transition in a nonchiral liquid crystal}.
-\newblock \emph{Physical Review E}, \textbf{68}, 1 (2003).
-
-\bibitem{Zheng2007}
-\textsc{Zheng, B., Zheng, W., Lin, B., Wang, J., and Yu, S.}
-\newblock {Double polyimide}.
-\newblock \emph{Annual meeting of ROC TLCS}, page~43 (2007).
-
-\bibitem{Edwards2010}
-\textsc{Edwards, E.G., Taphouse, T.S., Cornford, S.L., and Kitson, S.C.}
-\newblock {High throughput technique for characterizing liquid crystal
-  alignment in complex geometries}.
-\newblock \emph{Applied Physics Letters}, \textbf{96}, 021104 (2010).
-
-\bibitem{Kitson2002}
-\textsc{Kitson, S. and Geisow, A.}
-\newblock {Controllable alignment of nematic liquid crystals around microscopic
-  posts: Stabilization of multiple states}.
-\newblock \emph{Applied Physics Letters}, \textbf{80}, 3635 (2002).
-
-\bibitem{Lueder2001}
-\textsc{Lueder, E.}
-\newblock {Liquid Crystal Displays: Addressing Schemes and Electro-Optical
-  Effects}.
-\newblock Wiley, Chichester (2001).
-
-\bibitem{Pidduck1996}
-\textsc{Pidduck, A.J., Bryan-Brown, G.P., Haslam, S.D., and Bannister, R.}
-\newblock {Estimation of microscopic rubbing alignment parameters}.
-\newblock \emph{Liquid Crystals}, \textbf{21}, 759 (1996).
-
-\bibitem{Cognard1982}
-\textsc{Cognard, J.}
-\newblock {Alignment of nematic liquid crystals and their mixtures}.
-\newblock \emph{Molecular Crystals and Liquid Crystals}, pages 1--77 (1982).
-
-\bibitem{Cammanual}
-\emph{{Operation Manual, CAM Contact angle and urface tension meter, version
-  1.32. KSV Instruments}}.
-
-\bibitem{Owens1969}
-\textsc{Owens, D. and Wendt, R.}
-\newblock {Estimation of the Surface Free Energy of Polymers}.
-\newblock \emph{Journal of applied polymer science}, \textbf{13}, 1741 (1969).
-
-\bibitem{Skarp1979}
-\textsc{Skarp, K., Lagerwall, S., Stebler, B., and McQueen, D.}
-\newblock {Flow alignment in cyanobiphenyl liquid crystals}.
-\newblock \emph{Physica Scripta}, \textbf{19}, 339 (1979).
-
-\bibitem{Cladis1972}
-\textsc{Cladis, P. and Kleman, M.}
-\newblock {Non-singular disclinations of strength S=+ 1 in nematics}.
-\newblock \emph{Le Journal de Physique}, \textbf{33}, 591 (1972).
-
-\bibitem{Palffy-muhoray1993}
-\textsc{Palffy-muhoray, P., Sparavigna, a., and Strigazzi, a.}
-\newblock {Saddle-splay and mechanical instability in nematics confined to a
-  cylindrical annular geometry}.
-\newblock \emph{Liquid Crystals}, \textbf{14}, 1143 (1993).
-
-\bibitem{Ziherl1996}
-\textsc{Ziherl, P. and Zumer, S.}
-\newblock {Nematic order director fluctuations in cylindrical capillaries.}
-\newblock \emph{Physical review. E, Statistical physics, plasmas, fluids, and
-  related interdisciplinary topics}, \textbf{54}, 1592 (1996).
-
-\bibitem{Athertona}
-\textsc{Atherton, T.J.}
-\newblock {Private communication}.
-
-\bibitem{Jewell2008}
-\textsc{Jewell, S.A. and Sambles, J.R.}
-\newblock {Optical imaging of the effect of in-plane fields on cholesteric
-  liquid crystals}.
-\newblock \emph{Physical Review E}, \textbf{78}, 012701 (2008).
-
-\end{thebibliography}
+%merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+%Control: key (0)
+%Control: author (8) initials jnrlst
+%Control: editor formatted (1) identically to author
+%Control: production of article title (-1) disabled
+%Control: page (0) single
+%Control: year (1) truncated
+%Control: production of eprint (0) enabled
+\begin{thebibliography}{66}%
+\makeatletter
+\providecommand \@ifxundefined [1]{%
+ \@ifx{#1\undefined}
+}%
+\providecommand \@ifnum [1]{%
+ \ifnum #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \@ifx [1]{%
+ \ifx #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \natexlab [1]{#1}%
+\providecommand \enquote  [1]{``#1''}%
+\providecommand \bibnamefont  [1]{#1}%
+\providecommand \bibfnamefont [1]{#1}%
+\providecommand \citenamefont [1]{#1}%
+\providecommand \href@noop [0]{\@secondoftwo}%
+\providecommand \href [0]{\begingroup \@sanitize@url \@href}%
+\providecommand \@href[1]{\@@startlink{#1}\@@href}%
+\providecommand \@@href[1]{\endgroup#1\@@endlink}%
+\providecommand \@sanitize@url [0]{\catcode `\\12\catcode `\$12\catcode
+  `\&12\catcode `\#12\catcode `\^12\catcode `\_12\catcode `\%12\relax}%
+\providecommand \@@startlink[1]{}%
+\providecommand \@@endlink[0]{}%
+\providecommand \url  [0]{\begingroup\@sanitize@url \@url }%
+\providecommand \@url [1]{\endgroup\@href {#1}{\urlprefix }}%
+\providecommand \urlprefix  [0]{URL }%
+\providecommand \Eprint [0]{\href }%
+\providecommand \doibase [0]{http://dx.doi.org/}%
+\providecommand \selectlanguage [0]{\@gobble}%
+\providecommand \bibinfo  [0]{\@secondoftwo}%
+\providecommand \bibfield  [0]{\@secondoftwo}%
+\providecommand \translation [1]{[#1]}%
+\providecommand \BibitemOpen [0]{}%
+\providecommand \bibitemStop [0]{}%
+\providecommand \bibitemNoStop [0]{.\EOS\space}%
+\providecommand \EOS [0]{\spacefactor3000\relax}%
+\providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
+\let\auto@bib@innerbib\@empty
+%</preamble>
+\bibitem [{\citenamefont {Reinitzer}(1888)}]{Reinitzer1888}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.}~\bibnamefont
+  {Reinitzer}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Monatshefte fur Chemie (Wien)}\ }\textbf {\bibinfo {volume} {9}},\ \bibinfo
+  {pages} {421} (\bibinfo {year} {1888})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Sluckin}\ \emph {et~al.}(2004)\citenamefont
+  {Sluckin}, \citenamefont {Dunmur},\ and\ \citenamefont
+  {Stegemeyer}}]{Sluckin2004}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.~J.}\ \bibnamefont
+  {Sluckin}}, \bibinfo {author} {\bibfnamefont {D.~A.}\ \bibnamefont {Dunmur}},
+  \ and\ \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Stegemeyer}},\
+  }\href@noop {} {\emph {\bibinfo {title} {{Crystals that flow: classic papers
+  from the history of liquid crystals}}}}\ (\bibinfo  {publisher} {Taylor and
+  Francis},\ \bibinfo {year} {2004})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Bruce}\ \emph {et~al.}(2006)\citenamefont {Bruce},
+  \citenamefont {Goodby}, \citenamefont {Sambles},\ and\ \citenamefont
+  {Coles}}]{Bruce2006}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.~W.}\ \bibnamefont
+  {Bruce}}, \bibinfo {author} {\bibfnamefont {J.~W.}\ \bibnamefont {Goodby}},
+  \bibinfo {author} {\bibfnamefont {J.~R.}\ \bibnamefont {Sambles}}, \ and\
+  \bibinfo {author} {\bibfnamefont {H.~J.}\ \bibnamefont {Coles}},\ }\href
+  {\doibase 10.1098/rsta.2006.1840} {\bibfield  {journal} {\bibinfo  {journal}
+  {Philosophical transactions. Series A, Mathematical, physical, and
+  engineering sciences}\ }\textbf {\bibinfo {volume} {364}},\ \bibinfo {pages}
+  {2567} (\bibinfo {year} {2006})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Collings}\ and\ \citenamefont
+  {Hird}(1997)}]{Collings1997}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.~J.}\ \bibnamefont
+  {Collings}}\ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Hird}},\ }\href@noop {} {\emph {\bibinfo {title} {{Introduction to liquid
+  crystals}}}}\ (\bibinfo  {publisher} {Taylor and Francis},\ \bibinfo {year}
+  {1997})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Burroughes}\ \emph {et~al.}(1990)\citenamefont
+  {Burroughes}, \citenamefont {Bradley}, \citenamefont {Brown}, \citenamefont
+  {Marks}, \citenamefont {Mackay}, \citenamefont {Friend}, \citenamefont
+  {Burns},\ and\ \citenamefont {Holmes}}]{Burroughes1990}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Burroughes}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Bradley}},
+  \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Brown}}, \bibinfo
+  {author} {\bibfnamefont {R.}~\bibnamefont {Marks}}, \bibinfo {author}
+  {\bibfnamefont {K.}~\bibnamefont {Mackay}}, \bibinfo {author} {\bibfnamefont
+  {R.}~\bibnamefont {Friend}}, \bibinfo {author} {\bibfnamefont
+  {P.}~\bibnamefont {Burns}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Holmes}},\ }\href {\doibase 10.1038/348352a0} {\bibfield
+  {journal} {\bibinfo  {journal} {Nature}\ }\textbf {\bibinfo {volume} {347}},\
+  \bibinfo {pages} {539} (\bibinfo {year} {1990})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Fleury}\ \emph {et~al.}(2009)\citenamefont {Fleury},
+  \citenamefont {Pires},\ and\ \citenamefont {Galerne}}]{Fleury2009}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.-B.}\ \bibnamefont
+  {Fleury}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Pires}}, \
+  and\ \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Galerne}},\ }\href
+  {\doibase 10.1103/PhysRevLett.103.267801} {\bibfield  {journal} {\bibinfo
+  {journal} {Physical Review Letters}\ }\textbf {\bibinfo {volume} {103}},\
+  \bibinfo {pages} {267801} (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Imrie}(2010)}]{Imrie2010}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.~T.}\ \bibnamefont
+  {Imrie}},\ }\href {\doibase 10.1080/02678292.2010.488878} {\bibfield
+  {journal} {\bibinfo  {journal} {Liquid Crystals}\ }\textbf {\bibinfo {volume}
+  {37}},\ \bibinfo {pages} {497} (\bibinfo {year} {2010})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Nguyen}\ \emph {et~al.}(2010)\citenamefont {Nguyen},
+  \citenamefont {Atkinson}, \citenamefont {Park}, \citenamefont {Maclennan},
+  \citenamefont {Glaser},\ and\ \citenamefont {Clark}}]{Nguyen2010}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont
+  {Nguyen}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Atkinson}},
+  \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Park}}, \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {Maclennan}}, \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {Glaser}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {N.}~\bibnamefont {Clark}},\ }\href {\doibase
+  10.1103/PhysRevLett.105.268304} {\bibfield  {journal} {\bibinfo  {journal}
+  {Physical Review Letters}\ }\textbf {\bibinfo {volume} {105}},\ \bibinfo
+  {pages} {1} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Vollrath}\ and\ \citenamefont
+  {Knight}(2001)}]{Vollrath2001}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.}~\bibnamefont
+  {Vollrath}}\ and\ \bibinfo {author} {\bibfnamefont {D.~P.}\ \bibnamefont
+  {Knight}},\ }\href {\doibase 10.1038/35069000} {\bibfield  {journal}
+  {\bibinfo  {journal} {Nature}\ }\textbf {\bibinfo {volume} {410}},\ \bibinfo
+  {pages} {541} (\bibinfo {year} {2001})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Lydon}(2004)}]{Lydon2004}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Lydon}},\ }\href {\doibase 10.1080/14645180512331340171} {\bibfield
+  {journal} {\bibinfo  {journal} {Liquid Crystals Today}\ }\textbf {\bibinfo
+  {volume} {13}},\ \bibinfo {pages} {1} (\bibinfo {year} {2004})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Gupta}\ and\ \citenamefont {Rey}(2005)}]{Gupta2005}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
+  {Gupta}}\ and\ \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Rey}},\
+  }\href {\doibase 10.1103/PhysRevLett.95.127802} {\bibfield  {journal}
+  {\bibinfo  {journal} {Physical Review Letters}\ }\textbf {\bibinfo {volume}
+  {95}},\ \bibinfo {pages} {3} (\bibinfo {year} {2005})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {M\"{u}ller}\ \emph {et~al.}(2007)\citenamefont
+  {M\"{u}ller}, \citenamefont {Kornek},\ and\ \citenamefont
+  {Stannarius}}]{Muller2007}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.}~\bibnamefont
+  {M\"{u}ller}}, \bibinfo {author} {\bibfnamefont {U.}~\bibnamefont {Kornek}},
+  \ and\ \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Stannarius}},\
+  }\href {\doibase 10.1103/PhysRevE.75.065302} {\bibfield  {journal} {\bibinfo
+  {journal} {Physical Review E}\ }\textbf {\bibinfo {volume} {75}},\ \bibinfo
+  {pages} {1} (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Bird}\ \emph {et~al.}(2010)\citenamefont {Bird},
+  \citenamefont {de~Ruiter}, \citenamefont {Courbin},\ and\ \citenamefont
+  {Stone}}]{Bird2010}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~C.}\ \bibnamefont
+  {Bird}}, \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {de~Ruiter}},
+  \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont {Courbin}}, \ and\
+  \bibinfo {author} {\bibfnamefont {H.~a.}\ \bibnamefont {Stone}},\ }\href
+  {\doibase 10.1038/nature09069} {\bibfield  {journal} {\bibinfo  {journal}
+  {Nature}\ }\textbf {\bibinfo {volume} {465}},\ \bibinfo {pages} {759}
+  (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Fern\'{a}ndez-Nieves}\ \emph
+  {et~al.}(2007)\citenamefont {Fern\'{a}ndez-Nieves}, \citenamefont {Vitelli},
+  \citenamefont {Utada}, \citenamefont {Link}, \citenamefont {M\'{a}rquez},
+  \citenamefont {Nelson},\ and\ \citenamefont {Weitz}}]{Fernandez-Nieves2007}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {a.}~\bibnamefont
+  {Fern\'{a}ndez-Nieves}}, \bibinfo {author} {\bibfnamefont {V.}~\bibnamefont
+  {Vitelli}}, \bibinfo {author} {\bibfnamefont {a.}~\bibnamefont {Utada}},
+  \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Link}}, \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {M\'{a}rquez}}, \bibinfo {author}
+  {\bibfnamefont {D.}~\bibnamefont {Nelson}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {D.}~\bibnamefont {Weitz}},\ }\href {\doibase
+  10.1103/PhysRevLett.99.157801} {\bibfield  {journal} {\bibinfo  {journal}
+  {Physical Review Letters}\ }\textbf {\bibinfo {volume} {99}},\ \bibinfo
+  {pages} {1} (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Bawden}\ \emph {et~al.}(1936)\citenamefont {Bawden},
+  \citenamefont {Pirie}, \citenamefont {Bernal},\ and\ \citenamefont
+  {Fankuchen}}]{Bawden1936}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.}~\bibnamefont
+  {Bawden}}, \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont {Pirie}},
+  \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Bernal}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {I.}~\bibnamefont {Fankuchen}},\ }\href
+  {http://www.nature.com/nature/journal/v138/n3503/abs/1381051a0.html}
+  {\bibfield  {journal} {\bibinfo  {journal} {Nature}\ ,\ \bibinfo {pages}
+  {1051}} (\bibinfo {year} {1936})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Lettinga}\ and\ \citenamefont
+  {Grelet}(2007)}]{Lettinga2007}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Lettinga}}\ and\ \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
+  {Grelet}},\ }\href {\doibase 10.1103/PhysRevLett.99.197802} {\bibfield
+  {journal} {\bibinfo  {journal} {Physical Review Letters}\ }\textbf {\bibinfo
+  {volume} {99}},\ \bibinfo {pages} {197802} (\bibinfo {year}
+  {2007})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Tkachenko}(1996)}]{Tkachenko1996}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Tkachenko}},\ }\href {http://www.ncbi.nlm.nih.gov/pubmed/10062478}
+  {\bibfield  {journal} {\bibinfo  {journal} {Physical review letters}\
+  }\textbf {\bibinfo {volume} {77}},\ \bibinfo {pages} {4218} (\bibinfo {year}
+  {1996})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Helfrich}(1969{\natexlab{a}})}]{Helfrich1969}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {W.}~\bibnamefont
+  {Helfrich}},\ }\href {\doibase 10.1016/j.sleep.2006.07.181} {\bibfield
+  {journal} {\bibinfo  {journal} {Physical Review Letters}\ }\textbf {\bibinfo
+  {volume} {23}},\ \bibinfo {pages} {372} (\bibinfo {year}
+  {1969}{\natexlab{a}})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Yablonovitch}(1987)}]{Yablonovitch1987}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
+  {Yablonovitch}},\ }\href
+  {http://link.aps.org/doi/10.1103/PhysRevLett.58.2059} {\bibfield  {journal}
+  {\bibinfo  {journal} {Physical review letters}\ }\textbf {\bibinfo {volume}
+  {58}},\ \bibinfo {pages} {2059} (\bibinfo {year} {1987})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Humar}\ and\ \citenamefont
+  {Mu\v{s}evi\v{c}}(2010)}]{Humar2010}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Humar}}\ and\ \bibinfo {author} {\bibfnamefont {I.}~\bibnamefont
+  {Mu\v{s}evi\v{c}}},\ }\href
+  {http://www.opticsinfobase.org/abstract.cfm?id=208709} {\bibfield  {journal}
+  {\bibinfo  {journal} {Optics Express}\ }\textbf {\bibinfo {volume} {18}},\
+  \bibinfo {pages} {26995} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Sch\"{a}fer}\ \emph {et~al.}(2008)\citenamefont
+  {Sch\"{a}fer}, \citenamefont {Mondia}, \citenamefont {Sharma}, \citenamefont
+  {Lu}, \citenamefont {Susha}, \citenamefont {Rogach},\ and\ \citenamefont
+  {Wang}}]{Schafer2008}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Sch\"{a}fer}}, \bibinfo {author} {\bibfnamefont {J.~P.}\ \bibnamefont
+  {Mondia}}, \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Sharma}},
+  \bibinfo {author} {\bibfnamefont {Z.~H.}\ \bibnamefont {Lu}}, \bibinfo
+  {author} {\bibfnamefont {a.~S.}\ \bibnamefont {Susha}}, \bibinfo {author}
+  {\bibfnamefont {a.~L.}\ \bibnamefont {Rogach}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {L.~J.}\ \bibnamefont {Wang}},\ }\href {\doibase
+  10.1021/nl080661a} {\bibfield  {journal} {\bibinfo  {journal} {Nano letters}\
+  }\textbf {\bibinfo {volume} {8}},\ \bibinfo {pages} {1709} (\bibinfo {year}
+  {2008})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Doane}\ \emph {et~al.}(1986)\citenamefont {Doane},
+  \citenamefont {Vaz}, \citenamefont {Wu},\ and\ \citenamefont
+  {Zumer}}]{Doane1986}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~W.}\ \bibnamefont
+  {Doane}}, \bibinfo {author} {\bibfnamefont {N.~a.}\ \bibnamefont {Vaz}},
+  \bibinfo {author} {\bibfnamefont {B.-G.}\ \bibnamefont {Wu}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {S.}~\bibnamefont {Zumer}},\ }\href {\doibase
+  10.1063/1.96577} {\bibfield  {journal} {\bibinfo  {journal} {Applied Physics
+  Letters}\ }\textbf {\bibinfo {volume} {48}},\ \bibinfo {pages} {269}
+  (\bibinfo {year} {1986})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Smalyukh}\ \emph {et~al.}(2005)\citenamefont
+  {Smalyukh}, \citenamefont {Kuzmin}, \citenamefont {Kachynski}, \citenamefont
+  {Prasad},\ and\ \citenamefont {Lavrentovich}}]{Smalyukh2005}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {I.~I.}\ \bibnamefont
+  {Smalyukh}}, \bibinfo {author} {\bibfnamefont {a.~N.}\ \bibnamefont
+  {Kuzmin}}, \bibinfo {author} {\bibfnamefont {a.~V.}\ \bibnamefont
+  {Kachynski}}, \bibinfo {author} {\bibfnamefont {P.~N.}\ \bibnamefont
+  {Prasad}}, \ and\ \bibinfo {author} {\bibfnamefont {O.~D.}\ \bibnamefont
+  {Lavrentovich}},\ }\href {\doibase 10.1063/1.1849839} {\bibfield  {journal}
+  {\bibinfo  {journal} {Applied Physics Letters}\ }\textbf {\bibinfo {volume}
+  {86}},\ \bibinfo {pages} {021913} (\bibinfo {year} {2005})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Yada}\ \emph {et~al.}(2004)\citenamefont {Yada},
+  \citenamefont {Yamamoto},\ and\ \citenamefont {Yokoyama}}]{Yada2004}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Yada}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Yamamoto}}, \
+  and\ \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Yokoyama}},\ }\href
+  {\doibase 10.1103/PhysRevLett.92.185501} {\bibfield  {journal} {\bibinfo
+  {journal} {Physical Review Letters}\ }\textbf {\bibinfo {volume} {92}},\
+  \bibinfo {pages} {1} (\bibinfo {year} {2004})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Vertogen}\ and\ \citenamefont
+  {de~Jeu}(1988)}]{Vertogen1988}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
+  {Vertogen}}\ and\ \bibinfo {author} {\bibfnamefont {W.~H.}\ \bibnamefont
+  {de~Jeu}},\ }\href@noop {} {\emph {\bibinfo {title} {{Thermotropic Liquid
+  Crystals, Fundamentals}}}}\ (\bibinfo  {publisher} {Springer-Verlag},\
+  \bibinfo {year} {1988})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Lydon}(2006)}]{Lydon2006}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Lydon}},\ }\href {\doibase 10.1080/14645180600916367} {\bibfield  {journal}
+  {\bibinfo  {journal} {Liquid Crystals Today}\ }\textbf {\bibinfo {volume}
+  {15}},\ \bibinfo {pages} {1} (\bibinfo {year} {2006})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Taphouse}(2007)}]{Taphouse2007}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.~S.}\ \bibnamefont
+  {Taphouse}},\ }\emph {\bibinfo {title} {{Time Resolved Optical
+  Characterisation of Hybrid Aligned Nematic Liquid Crystal Cells}}},\
+  \href@noop {} {Ph.D. thesis} (\bibinfo {year} {2007})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Friedel}(1922)}]{Friedel1922}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
+  {Friedel}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Annales de Physique}\ }\textbf {\bibinfo {volume} {18}},\ \bibinfo {pages}
+  {273} (\bibinfo {year} {1922})}\BibitemShut {NoStop}%
+\bibitem [{Note1()}]{Note1}%
+  \BibitemOpen
+  \bibinfo {note} {There are many smectic phases, running from
+  $S_A,S_B,...S_I$, differing in molecular orientation and layer
+  spacing}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Li}\ \emph {et~al.}(2005)\citenamefont {Li},
+  \citenamefont {Wen}, \citenamefont {Gauza}, \citenamefont {Lu},\ and\
+  \citenamefont {Wu}}]{Li2005}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Li}}, \bibinfo {author} {\bibfnamefont {C.-h.}\ \bibnamefont {Wen}},
+  \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Gauza}}, \bibinfo
+  {author} {\bibfnamefont {R.}~\bibnamefont {Lu}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {S.-t.}\ \bibnamefont {Wu}},\ }\href@noop {} {\ \textbf
+  {\bibinfo {volume} {1}},\ \bibinfo {pages} {51} (\bibinfo {year}
+  {2005})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Stewart}(2004)}]{Stewart2004}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {I.}~\bibnamefont
+  {Stewart}},\ }\href@noop {} {\emph {\bibinfo {title} {{The static and dynamic
+  continuum theory of liquid crystals: a mathematical introduction}}}}\
+  (\bibinfo  {publisher} {Taylor \& Francis},\ \bibinfo {year}
+  {2004})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Miesowicz}(1946)}]{Miesowicz1946}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Miesowicz}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Nature}\ }\textbf {\bibinfo {volume} {158}} (\bibinfo {year}
+  {1946})}\BibitemShut {NoStop}%
+\bibitem [{Note2()}]{Note2}%
+  \BibitemOpen
+  \bibinfo {note} {For the liquid crystal PPA at 122$^{\circ }$ C (in the
+  nematic phase)}\BibitemShut {NoStop}%
+\bibitem [{Note3()}]{Note3}%
+  \BibitemOpen
+  \bibinfo {note} {The notation adopted here is the notation used by Miesowicz,
+  but some texts adopt the Helfrich notation \cite {Helfrich1969a} which
+  interchanges the above definitions of $\eta _1$ and $\eta _2$.}\BibitemShut
+  {Stop}%
+\bibitem [{\citenamefont {Janik}(1992)}]{Janik1992}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~a.}\ \bibnamefont
+  {Janik}},\ }\href {\doibase 10.1080/13583149208628598} {\bibfield  {journal}
+  {\bibinfo  {journal} {Liquid Crystals Today}\ }\textbf {\bibinfo {volume}
+  {2}},\ \bibinfo {pages} {6} (\bibinfo {year} {1992})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Carlsson}\ and\ \citenamefont
+  {Leslie}(1999)}]{Taylor1999}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {Carlsson}}\ and\ \bibinfo {author} {\bibfnamefont {F.~M.}\ \bibnamefont
+  {Leslie}},\ }\href {\doibase 10.1080/026782999203931} {\bibfield  {journal}
+  {\bibinfo  {journal} {Liquid Crystals}\ }\textbf {\bibinfo {volume} {26}},\
+  \bibinfo {pages} {1267} (\bibinfo {year} {1999})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Leslie}(1992)}]{Leslie1992}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.~M.}\ \bibnamefont
+  {Leslie}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Continuum Mech. Thermodyn.}\ }\textbf {\bibinfo {volume} {4}},\ \bibinfo
+  {pages} {167} (\bibinfo {year} {1992})}\BibitemShut {NoStop}%
+\bibitem [{Note4()}]{Note4}%
+  \BibitemOpen
+  \bibinfo {note} {For a rigorous analysis of equation \ref
+  {eq:rate_of_work_hypothesis} and a full derivation of the dissipation
+  function (equation \ref {eq:Dissipation}), the reader is directed to the
+  \protect \textit {Static and Dynamic Continuum Theory of Liquid Crystals} by
+  Iain W. Stewart \cite {Stewart2004}, which gives a comprehensive mathematical
+  introduction to the dynamic theory of nematic liquid crystals.}\BibitemShut
+  {Stop}%
+\bibitem [{\citenamefont {Belyaev}(2001)}]{Belyaev2001}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {V.}~\bibnamefont
+  {Belyaev}},\ }\href {\doibase 10.1070/PU2001v044n03ABEH000831} {\bibfield
+  {journal} {\bibinfo  {journal} {Physics-Uspekhi}\ }\textbf {\bibinfo {volume}
+  {44}},\ \bibinfo {pages} {255} (\bibinfo {year} {2001})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Parodi}(1970)}]{Parodi1970}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {O.}~\bibnamefont
+  {Parodi}},\ }\href
+  {http://epjb.edpsciences.org/articles/jphys/pdf/1970/07/jphys_1970__31_7_581_0.pdf}
+  {\bibfield  {journal} {\bibinfo  {journal} {Journal de Physique}\ }\textbf
+  {\bibinfo {volume} {31}},\ \bibinfo {pages} {581} (\bibinfo {year}
+  {1970})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Currie}(1974)}]{Currie1974}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.~K.}\ \bibnamefont
+  {Currie}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Molecular Crystals and Liquid Crystals}\ }\textbf {\bibinfo {volume} {28}},\
+  \bibinfo {pages} {335} (\bibinfo {year} {1974})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Cornford}(2008)}]{Cornford2008}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Cornford}},\ }\emph {\bibinfo {title} {eric.exeter.ac.uk}},\ \href
+  {http://eric.exeter.ac.uk/exeter/handle/10036/42125} {Ph.D. thesis},\
+  \bibinfo  {school} {University of Exeter} (\bibinfo {year}
+  {2008})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Birkett}(2008)}]{Birkett2008}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~E.}\ \bibnamefont
+  {Birkett}},\ }\emph {\bibinfo {title} {{Chiral HAN cells: a novel liquid
+  crystal arrangement}}},\ \href@noop {} {Ph.D. thesis},\ \bibinfo  {school}
+  {University of Exeter} (\bibinfo {year} {2008})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Jewell}(2002)}]{Jewell2002}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Jewell}},\ }\emph {\bibinfo {title} {Cell}},\ \href@noop {} {Ph.D. thesis},\
+  \bibinfo  {school} {Exeter} (\bibinfo {year} {2002})\BibitemShut {NoStop}%
+\bibitem [{Note5()}]{Note5}%
+  \BibitemOpen
+  \bibinfo {note} {The model described here takes into account the possibility
+  of an applied electric field through ITO coated substrates, the flexoelectric
+  effect or space charges.}\BibitemShut {Stop}%
+\bibitem [{\citenamefont {Feynmann}\ \emph {et~al.}(1964)\citenamefont
+  {Feynmann}, \citenamefont {Leighton},\ and\ \citenamefont
+  {Sands}}]{Feynmann1964}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.~P.}\ \bibnamefont
+  {Feynmann}}, \bibinfo {author} {\bibfnamefont {R.~B.}\ \bibnamefont
+  {Leighton}}, \ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Sands}},\ }\href@noop {} {\emph {\bibinfo {title} {{The Feynmann Lectures on
+  Physics, Volume II}}}}\ (\bibinfo  {publisher} {Addison-Wesley},\ \bibinfo
+  {year} {1964})\ p.\ \bibinfo {pages} {Chapter 41}\BibitemShut {NoStop}%
+\bibitem [{Note6()}]{Note6}%
+  \BibitemOpen
+  \bibinfo {note} {Some relevant material is included in references \cite
+  {Cui2006} and \cite {Choate2008}.}\BibitemShut {Stop}%
+\bibitem [{wik()}]{wikipedia}%
+  \BibitemOpen
+  \href@noop {} {\enquote {\bibinfo {title}
+  {{http://en.wikipedia.org/wiki/Conoscopy}},}\ }\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Henning}\ and\ \citenamefont
+  {Others}(2001)}]{Horn2001}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
+  {Henning}}\ and\ \bibinfo {author} {\bibnamefont {Others}},\ }\href
+  {http://www.opticsinfobase.org/abstract.cfm?id=64143} {\bibfield  {journal}
+  {\bibinfo  {journal} {Appl. Opt}\ }\textbf {\bibinfo {volume} {40}},\
+  \bibinfo {pages} {2089} (\bibinfo {year} {2001})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Cornford}\ \emph {et~al.}(2009)\citenamefont
+  {Cornford}, \citenamefont {Taphouse},\ and\ \citenamefont
+  {Sambles}}]{Cornford2009}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~L.}\ \bibnamefont
+  {Cornford}}, \bibinfo {author} {\bibfnamefont {T.~S.}\ \bibnamefont
+  {Taphouse}}, \ and\ \bibinfo {author} {\bibfnamefont {J.~R.}\ \bibnamefont
+  {Sambles}},\ }\href {\doibase 10.1088/1367-2630/11/1/013045} {\bibfield
+  {journal} {\bibinfo  {journal} {New Journal of Physics}\ }\textbf {\bibinfo
+  {volume} {11}},\ \bibinfo {pages} {013045} (\bibinfo {year}
+  {2009})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Yang}\ \emph {et~al.}(2007)\citenamefont {Yang},
+  \citenamefont {Jewell}, \citenamefont {Ruan},\ and\ \citenamefont
+  {Sambles}}]{Yang2007}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.}~\bibnamefont
+  {Yang}}, \bibinfo {author} {\bibfnamefont {S.~A.}\ \bibnamefont {Jewell}},
+  \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont {Ruan}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {J.~R.}\ \bibnamefont {Sambles}},\ }\href {\doibase
+  10.1364/JOSAB.24.000527} {\bibfield  {journal} {\bibinfo  {journal} {Journal
+  of the Optical Society of America B}\ }\textbf {\bibinfo {volume} {24}},\
+  \bibinfo {pages} {527} (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Jewell}\ \emph {et~al.}(2005)\citenamefont {Jewell},
+  \citenamefont {Taphouse},\ and\ \citenamefont {Sambles}}]{Jewell2005a}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~A.}\ \bibnamefont
+  {Jewell}}, \bibinfo {author} {\bibfnamefont {T.~S.}\ \bibnamefont
+  {Taphouse}}, \ and\ \bibinfo {author} {\bibfnamefont {J.~R.}\ \bibnamefont
+  {Sambles}},\ }\href {\doibase 10.1063/1.1992672} {\bibfield  {journal}
+  {\bibinfo  {journal} {Applied Physics Letters}\ }\textbf {\bibinfo {volume}
+  {87}},\ \bibinfo {pages} {021106} (\bibinfo {year} {2005})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Jewell}\ and\ \citenamefont
+  {Sambles}(2006)}]{Jewell2006}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~A.}\ \bibnamefont
+  {Jewell}}\ and\ \bibinfo {author} {\bibfnamefont {J.~R.}\ \bibnamefont
+  {Sambles}},\ }\href {\doibase 10.1103/PhysRevE.73.011706} {\bibfield
+  {journal} {\bibinfo  {journal} {Physical Review E}\ }\textbf {\bibinfo
+  {volume} {73}},\ \bibinfo {pages} {011706} (\bibinfo {year}
+  {2006})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Jewell}\ and\ \citenamefont
+  {Sambles}(2007)}]{Jewell2007}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~A.}\ \bibnamefont
+  {Jewell}}\ and\ \bibinfo {author} {\bibfnamefont {J.~R.}\ \bibnamefont
+  {Sambles}},\ }\href {\doibase 10.1080/15421400701675382} {\bibfield
+  {journal} {\bibinfo  {journal} {Molecular Crystals and Liquid Crystals}\
+  }\textbf {\bibinfo {volume} {477}},\ \bibinfo {pages} {551} (\bibinfo {year}
+  {2007})}\BibitemShut {NoStop}%
+\bibitem [{Note7()}]{Note7}%
+  \BibitemOpen
+  \bibinfo {note} {White light can also be used}\BibitemShut {NoStop}%
+\bibitem [{Note8()}]{Note8}%
+  \BibitemOpen
+  \bibinfo {note} {The conoscopic images shown in Figure \ref {fig:con_samples}
+  are calculated from the uniaxial modelling script described
+  later}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Berreman}(1972)}]{Berreman1972}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.~W.}\ \bibnamefont
+  {Berreman}},\ }\href
+  {http://www.opticsinfobase.org/jon/viewmedia.cfm?id=54639&amp;seq=0}
+  {\bibfield  {journal} {\bibinfo  {journal} {J. Opt. Soc. Am}\ }\textbf
+  {\bibinfo {volume} {62}},\ \bibinfo {pages} {502} (\bibinfo {year}
+  {1972})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Ogasawara}\ \emph {et~al.}(2001)\citenamefont
+  {Ogasawara}, \citenamefont {Akizuki}, \citenamefont {Takanishi},
+  \citenamefont {Ishikawa},\ and\ \citenamefont {Takezoe}}]{Ogasawara2001}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {Ogasawara}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Akizuki}},
+  \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Takanishi}}, \bibinfo
+  {author} {\bibfnamefont {K.}~\bibnamefont {Ishikawa}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {H.}~\bibnamefont {Takezoe}},\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {Mol. Cryst. Liquid Cryst}\ }
+  (\bibinfo {year} {2001})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Parry-Jones}\ \emph {et~al.}(2002)\citenamefont
+  {Parry-Jones}, \citenamefont {Kriezis},\ and\ \citenamefont
+  {Elston}}]{Parry-Jones2002}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
+  {Parry-Jones}}, \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
+  {Kriezis}}, \ and\ \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Elston}},\ }\href {\doibase 10.1143/JJAP.41.L1485} {\bibfield  {journal}
+  {\bibinfo  {journal} {Japanese Journal of Applied Physics}\ }\textbf
+  {\bibinfo {volume} {41}},\ \bibinfo {pages} {L1485} (\bibinfo {year}
+  {2002})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Fujikawa}\ \emph {et~al.}(1993)\citenamefont
+  {Fujikawa}, \citenamefont {Hiraoka}, \citenamefont {Isozaki}, \citenamefont
+  {Kajikawa}, \citenamefont {Takezoe},\ and\ \citenamefont
+  {Fukuda}}]{Fujikawa1993}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {Fujikawa}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Hiraoka}},
+  \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Isozaki}}, \bibinfo
+  {author} {\bibfnamefont {K.}~\bibnamefont {Kajikawa}}, \bibinfo {author}
+  {\bibfnamefont {H.}~\bibnamefont {Takezoe}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Fukuda}},\ }\href
+  {http://jjap.ipap.jp/link?JJAP/32/985/} {\bibfield  {journal} {\bibinfo
+  {journal} {Japanese Journal of Applied Physics}\ }\textbf {\bibinfo {volume}
+  {32}},\ \bibinfo {pages} {985} (\bibinfo {year} {1993})}\BibitemShut
+  {NoStop}%
+\bibitem [{Note9()}]{Note9}%
+  \BibitemOpen
+  \bibinfo {note} {In order to achieve a good alignment layer, a small amount
+  of lecithin is dissolved in the ether until the solution becomes pale yellow
+  in colour. The face is then coated by dragging a lens tissue soaked in the
+  solution across the glass surface.}\BibitemShut {Stop}%
+\bibitem [{Note10()}]{Note10}%
+  \BibitemOpen
+  \bibinfo {note} {The slight displacement of the locus from the centre of the
+  field of view in Figure \ref {fig:homeotropic_cell} (c) and (d) when compared
+  with (a) and (b) suggests that the director may be slightly tilted away from
+  vertical alignment}\BibitemShut {NoStop}%
+\bibitem [{Note11()}]{Note11}%
+  \BibitemOpen
+  \bibinfo {note} {One must take care not to use the same end of the cotton bud
+  twice as this can result in contamination of the solvent
+  reservoir}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Helfrich}(1969{\natexlab{b}})}]{Helfrich1969a}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {W.}~\bibnamefont
+  {Helfrich}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {J.
+  Chem. Phys.}\ }\textbf {\bibinfo {volume} {51}},\ \bibinfo {pages} {4092}
+  (\bibinfo {year} {1969}{\natexlab{b}})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Cui}\ \emph {et~al.}(2006)\citenamefont {Cui},
+  \citenamefont {{Gregory Forest}}, \citenamefont {Wang},\ and\ \citenamefont
+  {Zhou}}]{Cui2006}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont
+  {Cui}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {{Gregory
+  Forest}}}, \bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont {Wang}}, \ and\
+  \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Zhou}},\ }\href {\doibase
+  10.1137/04061934x} {\bibfield  {journal} {\bibinfo  {journal} {SIAM Journal
+  on Applied Mathematics}\ }\textbf {\bibinfo {volume} {66}},\ \bibinfo {pages}
+  {1227} (\bibinfo {year} {2006})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Choate}\ \emph {et~al.}(2008)\citenamefont {Choate},
+  \citenamefont {Cui},\ and\ \citenamefont {{Gregory Forest}}}]{Choate2008}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {E.~P.}\ \bibnamefont
+  {Choate}}, \bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont {Cui}}, \ and\
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {{Gregory Forest}}},\
+  }\href {\doibase 10.1007/s00397-007-0235-2} {\bibfield  {journal} {\bibinfo
+  {journal} {Rheologica Acta}\ }\textbf {\bibinfo {volume} {47}},\ \bibinfo
+  {pages} {223} (\bibinfo {year} {2008})}\BibitemShut {NoStop}%
+\end{thebibliography}%

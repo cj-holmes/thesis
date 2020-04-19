@@ -1,5 +1,4 @@
-\documentclass[10pt, a4paper]{report}
-
+\documentclass[prb,reprint,superscriptaddress,showpacs]{revtex4-1}
 % PAGE FORMATTING ----------------------------------------
 % Fancyheadr for customising footers and headers
 \usepackage{fancyhdr}
@@ -8,36 +7,36 @@
 \renewcommand{\headrulewidth}{0pt}
 
 % Setspace - for document line spacing to be defined easily
-\usepackage{setspace}
-\onehalfspacing % Set spacing (\singlespacing, \onehalfspacing, \doublespacing, \setstretch{1.1})
-
-% Define the look of captions (figure captions, table captions, ...)
-\usepackage[font={onehalfspacing, small}, skip=0pt, labelfont=bf, width={0.98\textwidth}]{caption}
+% \usepackage{setspace}
+% \onehalfspacing % Set spacing (\singlespacing, \onehalfspacing, \doublespacing, \setstretch{1.1})
+% 
+% % Define the look of captions (figure captions, table captions, ...)
+% \usepackage[font={onehalfspacing, small}, skip=0pt, labelfont=bf, width={0.98\textwidth}]{caption}
 
 % geometry gives flexible and complete interface to document dimensions
 % \usepackage[left = 1.5in,
 %             right = 1in,
 %             top=1in,
 %             bottom=0.8in,
-%             includefoot, 
+%             includefoot,
 %             headheight=13.6pt]{geometry}
 
 
 % SECTION HEADER STYLE -----------------------------------
 % Control sectional headers (section style)
-\usepackage{sectsty}
-\chapterfont{\large \sc \centering} % Chapter sectional headers Largefont, small caps, centred
-\chaptertitlefont{\centering}
-\subsubsectionfont{\centering} 
+% \usepackage{sectsty}
+% \chapterfont{\large \sc \centering} % Chapter sectional headers Largefont, small caps, centred
+% \chaptertitlefont{\centering}
+% \subsubsectionfont{\centering}
 
 
 % MATHS --------------------------------------------------
 \usepackage{amsmath} % AMS mathematical facilities (aligning and formatting maths)
 
 % Access bold symbols in maths mode (\bm)
-% \bm is closely related to the specification of the \boldsymbol command in AMS-LATEX, 
+% \bm is closely related to the specification of the \boldsymbol command in AMS-LATEX,
 % but \bm is rather more careful in the way it does things.
-\usepackage{bm} 
+\usepackage{bm}
 
 
 % FIGURE FORMATTING --------------------------------------
@@ -48,6 +47,10 @@
 
 % graphicx builds upon the graphics package
 \usepackage{graphicx}
+\usepackage{graphicx}
+    \setkeys{Gin}{width=0.4\textwidth}
+    % in your case, you'd obviously only specify the width
+    % I just used height as well for demonstration purposes.
 
 % subfigure provides support for the manipulation and reference of small or ‘sub’ figures and tables
 \usepackage{subfigure}
@@ -58,7 +61,7 @@
 
 
 % BIBLIOGRAPHY --------------------------------------------
-\usepackage[square, sort&compress, numbers]{natbib}
+% \usepackage[square, sort&compress, numbers]{natbib}
 
 
 % HYPER-REFERENCES ----------------------------------------
@@ -72,13 +75,26 @@
             citecolor = blue,
             anchorcolor = green,
             hyperindex = true]{hyperref}
-            
-% --------------------------------------------------------
-% END OF PREAMBLE ----------------------------------------
-% --------------------------------------------------------
-
 
 \begin{document}
+\title{Surface alignment control of nematodynamics}
+\author{C. J. \surname{Holmes}}
+\affiliation{School of Physics, University of Exeter, Stocker Road, Exeter, EX4 4QL, UK}
+\email{c.holmes4@gmail.com}
+
+\begin{abstract}
+The primary study of this thesis is the response of the nematic director to pressure driven flow. Dynamic flow experiments using optical conoscopy and pressure gradient measurements are used to explore the physics behind the flow alignment seen to occur for some nematic liquid crystals. New research into the techniques and methods for aligning the director at a glass interface is also presented, the results of which are used towards the latter end of this thesis in the production of a highly novel flow cell. A bespoke technique for fabricating robust liquid crystal flow cells is also presented.
+
+The observation of flow alignment for the nematic liquid crystal 5CB is detailed for pressure driven flow via optical conoscopy when the director is initially aligned planar homogeneously at $45^{\circ}$ to the direction of flow. The results of this experiment are compared to the theory of Ericksen and Leslie through a one dimensional dynamic model that provides simulated director profiles and corresponding simulated conoscopic images. Good agreement between the data and simulation is observed, whereby the director is seen to rotate to become parallel to the flow direction whilst exhibiting no net tilt distortion at all flow rates.
+
+The presence of small surface pretilt from a rubbed planar aligning polyimide layer and its effect on director rotation is also examined for cells that are rubbed in both the parallel and anti-parallel directions. The result observed is a striking difference in the mean director rotation when initially aligned close to normal to the direction of flow. The results of these experiments are also compared to the theory of Ericksen and Leslie through the one dimensional dynamic model. Good agreement is seen, highlighting the dramatic effect that a small amount of surface pretilt can have on the overall director orientation, whilst also demonstrating the need for caution when assuming that rubbed conventional alignment techniques provide true planar orientation.
+
+Two methods for producing intermediate or large pretilt angles at liquid crystal alignment surfaces are also examined. Here, two recipes involving the commercial polyimides Nissan SE-1211, Nissan SE-130 and Nissan SE-4811 are experimentally investigated, with results showing the ability to tune the director pretilt angle as a function of the rubbing strength used to align the sample. The results also show an interesting dependance on the material upon which the aligning layer is deposited for the recipe involving Nissan SE-1211. Here, vastly different pretilt angles are observed for cells constructed with glass and indium tin oxide (ITO) layers.
+
+Finally, the large pretilt angles produced from the recipes mentioned above are also used to fabricate pressure driven flow cells exhibiting large pretilt angles on both surfaces, constraining the director to align in a splayed state. When aligned parallel to the flow direction, experiments examining the valve-like nature of the director profile suggest that a preferential flow direction exists in what here is termed the `diode cell'. Measurements of the pressure gradient required to achieve a constant volumetric flow rate through the cell are compared for flow in both directions relative to the splayed director profile. A striking difference is observed for flow `with' the splay and `against' the splay, leading to the realisation of a cell exhibiting a preferential flow direction through surface treatment. Again, results are compared to the theory of Ericksen and Leslie through the one dimensional dynamic model, showing good agreement.
+\end{abstract}
+
+\maketitle
 
 % Front matter
 \pagenumbering{roman}  
@@ -87,28 +103,28 @@
 % Content
 \pagestyle{fancy}
 \pagenumbering{arabic}
+
 \include{introduction/introduction}
 \include{lc/lc}
 \include{theory/theory}
-\include{45/45}
-\include{splay_parallel/splay_parallel}
-\include{pretilt/pretilt}
-\include{diode/diode}
-\include{conclusions/conclusions}
-\include{publications/publications}
+% \include{45/45}
+% \include{splay_parallel/splay_parallel}
+% \include{pretilt/pretilt}
+% \include{diode/diode}
+% \include{conclusions/conclusions}
+% \include{publications/publications}
 
 % References
-\bibliographystyle{bibliography/ESExeter.bst} 
+% \bibliographystyle{bibliography/ESExeter.bst}
 \bibliography{bibliography/library}
 
 % Thanks to Alex
-\newpage \vspace*{5cm}
+\section{Alex}
 \begin{figure}[h]
 \begin{center}
-\includegraphics[width=0.5\textwidth]{figures/alex.jpg}
+\includegraphics[width=0.4\textwidth]{figures/alex.jpg}
 \end{center}
 \end{figure}
-\hrule
 
 \begin{center}
 Alex - thank you for your help, advice and friendship during my time at Exeter. You are sorely missed.

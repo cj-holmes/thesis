@@ -1,6 +1,6 @@
-\chapter{Theory / Methods}
+\section{Theory / Methods}
 \label{sec:theory}
-\section{Introduction}
+\subsection{Introduction}
 In this chapter, the theoretical background and one dimensional computational model (used to simulate the dynamic behaviour of nematic liquid crystals throughout this thesis) is discussed. This will begin with a brief look at the underlying equations and relations which ultimately lead to the one dimensional model and it's application in this research. The simulation of conoscopic figures based upon the director profiles obtained from the one dimensional model are also discussed. Finally, this chapter will look at the experimental methods for capturing conoscopic figures and the fabrication of bespoke cells allowing pressure driven flow from a syringe drive.
 
 It should be noted that this chapter aims to give an introduction to the highly involved theoretical study of nematic liquid crystal dynamics, allowing insight into the results recorded in the experimental chapters to follow. Where relevant, references are provided to the original source material so that a deeper and fully exhaustive background can be obtained if desired.
@@ -16,7 +16,7 @@ In the 1950s, along with the development of the modern theory of rational mechan
 
 The following section goes on to introduce the Leslie-Ericksen theory in a form that is widely used today, starting from the constitutive equations and the definition of the dissipation function.
 
-\section{Constitutive equations and the Leslie viscosities}
+\subsection{Constitutive equations and the Leslie viscosities}
 
 \label{sec:con_eq}
 Constitutive equations, or constitutive relations (reference \cite{Stewart2004} page 142), are expressions that provide a relationship between two physical quantities of a specific material or substance. In general, the constitutive equations provide a relationship between the response of a specific material and the forces applied to it. For the case of nematodynamics, the constitutive relationship considered links the rate of viscous dissipation (or, in an alternative but equivalent formulation, the stress tensor) and the motion of the liquid crystal. It is important to note here that constitutive equations are used to describe the mechanical properties \textit{particular to a given medium} and will thus change from one medium to another. 
@@ -111,13 +111,13 @@ In 1970, Parodi \cite{Parodi1970} proposed, through Onsager relations, that \tex
 
 \noindent was verified by Currie \cite{Currie1974} in 1974, and is a generally accepted addition to the Leslie-Ericksen theory, which is sometimes termed the Leslie-Ericksen-Parodi (LEP) theory of nematic liquid crystals.
 
-\section{Flow-alignment (``logs in rivers'')}
+\subsection{Flow-alignment (``logs in rivers'')}
 \label{sec:logs}
 As is carried through the rest of this thesis, the Euler angles $\theta\left(z,t\right)$ and $\phi\left(z,t\right)$ are used to specify the director $\mathbf{n}$. Here, as is traditional in the Exeter group, the tilt angle $\theta$ is defined to be measured from the $z$ axis and the twist angle $\phi$ is defined to be the angle between the projection of $\mathbf{n}$ on to the $x-y$ plane and the $x$ axis. The flow direction throughout this thesis is also defined to be in the positive $x$ direction, with the gradient in velocity in the $z$ direction as also shown in Figure \ref{fig:coords}. 
 
 \begin{figure}
 \begin{center}
-\includegraphics[width=0.3\textwidth]{Figures/Theory/coords}
+\includegraphics{Figures/Theory/coords}
 \end{center}
 \caption[Coordinate system]{\label{fig:coords}Coordinate system used throughout this thesis. The tilt angle $\theta$ is defined to be measured from the $z$ axis and the twist angle $\phi$ is defined to be the angle between the projection of $\mathbf{n}$ on to the $x-y$ plane and the $x$ axis}
 \end{figure}
@@ -128,7 +128,7 @@ In order to answer this question, a simplified picture of nematic liquid crystal
 
 \begin{figure}
 \begin{center}
-\includegraphics[width=0.7\textwidth]{Figures/Theory/river}
+\includegraphics{Figures/Theory/river}
 \end{center}
 \caption[`Timber being floated to Vancouver, Canada']{\label{fig:logging} `Timber being floated to Vancouver, Canada'. This photograph illustrates how the idea of logs in a river can greatly aid the visualisation of nematic flow-alignment. Here, individual logs are considered the analogue of calamitic liquid crystal molecules, with one long and two short axes. The photograph is licensed under the Creative Commons Attribution 2.0 Generic license and can be found at \href{http://en.wikipedia.org/wiki/File:Log_driving_in_Vancouver.jpg}{http://en.wikipedia.org/wiki/File:Log\_driving\_in\_Vancouver.jpg}}
 \end{figure}
@@ -231,12 +231,12 @@ After this introduction to the theoretical background of nematic liquid crystal 
 
 \newpage
 
-\section{A 1-D numerical model of liquid crystal dynamics}
+\subsection{A 1-D numerical model of liquid crystal dynamics}
 This section introduces the one dimensional model of liquid crystal dynamics that is used extensively in later chapters of this thesis. The rigorous and full details of the model's design and operation are provided by its creator, Stephen Cornford, in his thesis ``Recovery and analysis of director profiles in liquid crystal cells'' \cite{Cornford2008} where a substantial amount of effort has gone into creating the model and comparing its output to other simulation packages available (such as DIMOS). As is described in reference \cite{Cornford2008}, although other computer programs that can model simple liquid crystal cells have been used before in the Exeter group \cite{Birkett2008,Jewell2002}, this model was created in order to compute the dynamics of rather more complex situations including simulation of the flexo-electric effect, ion motion in cells, use in optimisation problems and, most importantly in the context of this thesis, the effects of pressure-driven flow upon director distortion.
 
 This section aims to provide a brief introduction to the key equations of the model which govern the dynamic behaviour that will be seen in later experimental chapters of this thesis. In addition to that, this section also intends to give a brief introduction to how the model is used in this thesis, including what difficulties have been overcome in order for it to operate.
  
-\subsection{Assumptions}
+\subsubsection{Assumptions}
 The dynamical behaviour of the liquid crystal described by this one dimensional model is governed by the Leslie-Ericksen equations (as introduced earlier in this chapter). That is to say, the model is derived from the continuum theory of nematic liquid crystals, where the liquid crystal is described by a director field \cite{Cornford2008}.
 
 For a simple cell, the liquid crystal can be described by this director field $\mathbf{n}\left(z,t\right)$, and a flow field $\mathbf{u}\left(z,t\right)$. Given this assumption, the model is based upon a Cartesian co-ordinate system that has been chosen so the cell walls (upper and lower) lie parallel to the $xy$ plane at $z=0$ and $z=d$. As this is only a one dimensional simulation, the cell is also assumed to be infinitely large in both the $x$ and $y$ directions so that only variations in the director parallel to the $z$ axis need to be considered \cite{Cornford2008}. As was described at the start of Section \ref{sec:logs} (Figure \ref{fig:coords}), the Euler angles $\theta\left(z,t\right)$ and $\phi\left(z,t\right)$ are used to specify the director $\mathbf{n}$. As is traditional in the Exeter group, the tilt angle $\theta$ is defined to be measured from the $z$ axis and the twist angle $\phi$ is defined to be the angle between the projection of $\mathbf{n}$ on to the $x-y$ plane and the $x$ axis, expressed as
@@ -261,7 +261,7 @@ Another result of the one dimensional assumption is that only two variables $u_x
 
 It is worth noting that as well as the director and flow fields described above, the electric field $\mathbf{E}$ within the cell must be taken into account if simulations involving the effects of an applied electric potential are also to be considered\footnote{The model described here takes into account the possibility of an applied electric field through ITO coated substrates, the flexoelectric effect or space charges.}. In such a case, the electric displacement vector $\mathbf{D}$, must be constant in a one dimensional system \cite{Cornford2008}. As $\mathbf{D}$ is confined to be parallel to the $z$ axis at the cell boundaries, it must therefore be parallel to $z$ at all points in the cell and hence only components of $\mathbf{E}$ parallel to the $z$ axis are considered in the simulation equations.
 
-\section{The Leslie-Ericksen equations}
+\subsection{The Leslie-Ericksen equations}
 The time and space dependent behaviour of $\mathbf{n}$ and $\mathbf{u}$ can be found by solving the Leslie-Ericksen equations. These equations boil down to four partial differential equations in the variables $\theta,\space\phi,\space u_x$ and $u_y$. Prior to examining these equations, some auxiliary functions of $\theta$ are defined for convenience \cite{Cornford2008}
 
 \begin{eqnarray}
@@ -295,43 +295,6 @@ If a uniform $\left(d\phi/dz=0\right)$, planar aligned $\left(\theta=90^{\circ}\
 
 Another important point to note about equation \ref{eq:phi} is that in steady state, where $d\phi/dt=0$, (ignoring the contribution from $u_y$) $\sin\phi\left(\partial u_x/\partial z\right)$ in the final term must also equal zero. Given that under flow $\partial u_x/\partial z$ will not equal zero, then the value of $\sin\phi$ must equal zero, yielding steady state values of $\phi=0^{\circ},180^{\circ}$, or the director lying parallel to the $x$ axis (flow direction). Therefore, considering the more involved equations describing the dynamic behaviour of a nematic liquid crystal under pressure driven flow between two parallel plates, the same steady state azimuthal alignment angles of the director are recovered, as were seen earlier for the highly simplified case in the azimuthal component of equation \ref{eq:ss_2}.
 
-
-
-
-
-
-
-
-%\begin{equation}
-%g\left(\theta\right)=\sin^2\theta\left(\left(k_{22}-k_{33}\right)\sin^2\theta+k_{33}\right) 
-%\end{equation}
-%\begin{equation}
-%g'\left(\theta\right)=\frac{dg}{d\theta}
-%\end{equation}
-%Azimuthal distortion as a function of volumetric flow rate is independent of cell depth.
-%Expression (\ref{eq:phi}) is second order in $z$ and first order in $t$, so boundary conditions which determine $\phi\left(z=0,t\right)$, $\phi\left(z=d,t\right)$ and $\phi\left(z,t=0\right)$ must be provided (in physical terms, the initial rubbing direction and cell orientation is specified by the user). It can be seen that when $\theta=0$ (a homeotropically aligned cell), the equation becomes meaningless, as all terms vanish (there is no azimuthal component of the director).
-%
-%If we use the expressions $z=\zeta d$ and $u_{x,y} = U/d$, introducing $d$ as the cell thickness, $\zeta$ as a dimensionless parameter and $U$ as the volumetric flow rate, along with the relations,
-%
-%\begin{equation}
-%\frac{\partial F}{\partial z} = \frac{1}{d}\frac{\partial F}{\partial \zeta}
-%\label{eq:sub1}
-%\end{equation}
-%\begin{equation}
-%\frac{\partial^2 F}{\partial z^2} = \frac{1}{d^2}\frac{\partial^2 F}{\partial \zeta^2}
-%\label{eq:sub2}
-%\end{equation}
-%
-%where $F$ is any given function, we can substitute into equation (\ref{eq:phi}) and obtain an expression for the azimuthal force balance in terms of the cell thickness.
-%
-%\begin{equation}
-%0=g\left(\theta\right)\frac{1}{d^2}\frac{\partial^2\phi}{\partial \zeta^2} + g'\left(\theta\right)\frac{1}{d^2}\frac{\partial\theta}{\partial \zeta}\frac{\partial\phi}{\partial \zeta}-\frac{1}{2}\alpha_2\sin2\theta\left(\cos\phi\frac{1}{d^2}\frac{\partial U}{\partial \zeta}-\sin\phi\frac{1}{d^2}\frac{\partial U}{\partial \zeta}\right)
-%\label{azimuthal_independent_of_d}
-%\end{equation}
-%
-%In steady state $\left(d\phi/dt=0\right)$, the left hand side of equation (\ref{azimuthal_independent_of_d}) is set to equal 0. Now it is clear that the steady state solution for a given volumetric flow rate is independent of cell thickness, as the $1/d^2$ terms disappear.
-
-
 \subsection{Tilt}
 A similar governing equation for the zenithal (tilt) angle $\theta$ is derived from \cite{Cornford2008} and \cite{Stewart2004},
 
@@ -346,17 +309,6 @@ A similar governing equation for the zenithal (tilt) angle $\theta$ is derived f
 Again, boundary conditions for equation \ref{eq:theta} must be provided, giving $\theta\left(z=0,t=0\right)$, $\theta\left(z=d,t=0\right)$ and $\theta\left(z,t=0\right)$. That is, the initial tilt director alignment has to be provided, again, this is provided physically by the type of surface alignment layer that is deposited on cell walls.
 
 Here, in steady state and assuming a uniform alignment $\left(\partial\theta / \partial t=0\right)$, $c\left(\theta\right)$ must equal zero, which from equation \ref{eq:Leslie_angle} is shown to occur at the Leslie angle.
-
-%Making the same substitutions of $z=\zeta d$ and $u_{x,y} = U/d$, and using equations (\ref{eq:sub1}) and (\ref{eq:sub2}) as was done in section \ref{sec:phi}, we obtain an expression for the zenith or tilt force balance in terms of the cell thickness, $d$,
-%
-%\begin{eqnarray*}
-%	0 & = & \left(k_{11}+\left(k_{33}-k_{11}\right)\cos^2\theta\right)\frac{1}{d^2}\frac{\partial^2\theta}{\partial \zeta^2}\\
-%	& & {} + \frac{1}{2}\left(k_{11}-k_{33}\right)\sin2\theta\left(\frac{1}{d}\frac{\partial\theta}{\partial \zeta}\right)^2\\
-%	& & {} + 						\frac{1}{2}g'\left(\theta\right)\left(\frac{1}{d}\frac{\partial\phi}{\partial\zeta}\right)^2+c\left(\theta\right)\left(\cos\phi\frac{1}{d^2}\frac{\partial U}{\partial \zeta}+\sin\phi\frac{1}{d^2}\frac{\partial U}{\partial \zeta}\right)
-%\end{eqnarray*}
-%
-%Again, it is seen that the $1/d^2$ terms cancel out, leaving no dependence on cell thickness.
-%
 
 \subsection{Flow field}
 The last two governing equations are those for the simulated flow field and are derived from the linear momentum balance equations \cite{Cornford2008} where the pressure gradients $G_x$ and $G_y$ are defined along the $x$ and $y$ axes respectively. These are given in \ref{eq:Gx} and \ref{eq:Gy} below.
@@ -385,7 +337,7 @@ G_y = \frac{\partial}{\partial z}\left(\left[\frac{1}{2}a\left(\theta\right)\sin
 Finally, this chapter will go on to introduce the experimental technique of conoscopy as a means of extracting information about nematic liquid crystal alignment. Conoscopy is used widely in later experimental chapters of this thesis and here, a computational method of simulating conoscopic figures is introduced along with some characteristic figures recorded in the experiments.
 
 \newpage
-\section{Conoscopy}
+\subsection{Conoscopy}
 Conoscopy, from the greek \textit{konos} meaning cone, and \textit{skopeo} meaning examine \cite{wikipedia}, has long been used as a tool for studying the physical nature and alignment of geological crystals and their birefringence. More recently, it has been used to explore liquid crystal mono-domain alignment \cite{Horn2001}. As will be seen later in the experimental chapters of this thesis, conoscopy is also a relatively simple and powerful tool for gaining a large amount of information about a liquid crystal director profile in a relatively quick manner. Not withstanding it's relative speed-of-use and ease of implementation, it does have certain shortcomings when directly compared to more detailed and rigorous analysis methods such as the Fully Leaky Guided Mode (FLGM) technique \cite{Cornford2009,Yang2007,Jewell2005a,Jewell2006,Jewell2007}.
 
 Optical conoscopy, as used in this work, gives a broad (lacking in fine detail) picture of how the director behaves or reacts to an external perturbation such as an applied pressure gradient inducing flow. As such, the aim of conoscopy is not to accurately determine the director profile at a high spatial resolution, but rather to give a broad overview of the alignment present within the cell.
@@ -397,9 +349,9 @@ Figure \ref{fig:con_samples} shows a schematic representation of the common cono
 
 \begin{figure}
 \begin{center}
-\subfigure[Planar]{\includegraphics[width=0.5\textwidth]{Figures/conoscopy/1}}
-\subfigure[Vertical]{\includegraphics[width=0.5\textwidth]{Figures/conoscopy/2}}
-\subfigure[Tilted]{\includegraphics[width=0.5\textwidth]{Figures/conoscopy/3}}
+\subfigure[Planar]{\includegraphics[width=0.3\textwidth]{Figures/conoscopy/1}}
+\subfigure[Vertical]{\includegraphics[width=0.3\textwidth]{Figures/conoscopy/2}}
+\subfigure[Tilted]{\includegraphics[width=0.3\textwidth]{Figures/conoscopy/3}}
 \end{center}
 \caption[Simulated conoscopic images for planar, vertical and tilted alignment]{\label{fig:con_samples}Simulated conoscopic figures for the director profiles shown schematically on the left. (a) the double set of hyperbolae signalling planar alignment. (b) The maltese cross from vertical alignment of the director. (c) A series of dark fringes from a uniformly tilted sample.}
 \end{figure}
@@ -431,15 +383,15 @@ Figure \ref{fig:figures} shows a table of simulated conoscopic figures from the 
 \begin{tabular}{ccCCCCC}
 &&&&$\theta$&&\\
 &&90$^{\circ}$&85$^{\circ}$&45$^{\circ}$&5$^{\circ}$&0$^{\circ}$\\
-&\centering{90}$^{\circ}$&\includegraphics[scale=0.1]{Figures/conoscopy/table/90_90}&\includegraphics[scale=0.1]{Figures/conoscopy/table/90_85}&\includegraphics[scale=0.1]{Figures/conoscopy/table/90_45}&\includegraphics[scale=0.1]{Figures/conoscopy/table/90_05}&\includegraphics[scale=0.1]{Figures/conoscopy/table/90_00}\\
+&\centering{90}$^{\circ}$&\includegraphics[scale=0.02]{Figures/conoscopy/table/90_90}&\includegraphics[scale=0.02]{Figures/conoscopy/table/90_85}&\includegraphics[scale=0.02]{Figures/conoscopy/table/90_45}&\includegraphics[scale=0.02]{Figures/conoscopy/table/90_05}&\includegraphics[scale=0.02]{Figures/conoscopy/table/90_00}\\
 
-&60$^{\circ}$&\includegraphics[scale=0.1]{Figures/conoscopy/table/60_90}&\includegraphics[scale=0.1]{Figures/conoscopy/table/60_85}&\includegraphics[scale=0.1]{Figures/conoscopy/table/60_45}&\includegraphics[scale=0.1]{Figures/conoscopy/table/60_05}&\includegraphics[scale=0.1]{Figures/conoscopy/table/60_00}\\
+&60$^{\circ}$&\includegraphics[scale=0.02]{Figures/conoscopy/table/60_90}&\includegraphics[scale=0.02]{Figures/conoscopy/table/60_85}&\includegraphics[scale=0.02]{Figures/conoscopy/table/60_45}&\includegraphics[scale=0.02]{Figures/conoscopy/table/60_05}&\includegraphics[scale=0.02]{Figures/conoscopy/table/60_00}\\
 
-$\phi$&45$^{\circ}$&\includegraphics[scale=0.1]{Figures/conoscopy/table/45_90}&\includegraphics[scale=0.1]{Figures/conoscopy/table/45_85}&\includegraphics[scale=0.1]{Figures/conoscopy/table/45_45}&\includegraphics[scale=0.1]{Figures/conoscopy/table/45_05}&\includegraphics[scale=0.1]{Figures/conoscopy/table/45_00}\\
+$\phi$&45$^{\circ}$&\includegraphics[scale=0.02]{Figures/conoscopy/table/45_90}&\includegraphics[scale=0.02]{Figures/conoscopy/table/45_85}&\includegraphics[scale=0.02]{Figures/conoscopy/table/45_45}&\includegraphics[scale=0.02]{Figures/conoscopy/table/45_05}&\includegraphics[scale=0.02]{Figures/conoscopy/table/45_00}\\
 
-&30$^{\circ}$&\includegraphics[scale=0.1]{Figures/conoscopy/table/30_90}&\includegraphics[scale=0.1]{Figures/conoscopy/table/30_85}&\includegraphics[scale=0.1]{Figures/conoscopy/table/30_45}&\includegraphics[scale=0.1]{Figures/conoscopy/table/30_05}&\includegraphics[scale=0.1]{Figures/conoscopy/table/30_00}\\
+&30$^{\circ}$&\includegraphics[scale=0.02]{Figures/conoscopy/table/30_90}&\includegraphics[scale=0.02]{Figures/conoscopy/table/30_85}&\includegraphics[scale=0.02]{Figures/conoscopy/table/30_45}&\includegraphics[scale=0.02]{Figures/conoscopy/table/30_05}&\includegraphics[scale=0.02]{Figures/conoscopy/table/30_00}\\
 
-&0$^{\circ}$&\includegraphics[scale=0.1]{Figures/conoscopy/table/00_90}&\includegraphics[scale=0.1]{Figures/conoscopy/table/00_85}&\includegraphics[scale=0.1]{Figures/conoscopy/table/00_45}&\includegraphics[scale=0.1]{Figures/conoscopy/table/00_05}&\includegraphics[scale=0.1]{Figures/conoscopy/table/00_00}\\
+&0$^{\circ}$&\includegraphics[scale=0.02]{Figures/conoscopy/table/00_90}&\includegraphics[scale=0.02]{Figures/conoscopy/table/00_85}&\includegraphics[scale=0.02]{Figures/conoscopy/table/00_45}&\includegraphics[scale=0.02]{Figures/conoscopy/table/00_05}&\includegraphics[scale=0.02]{Figures/conoscopy/table/00_00}\\
 \end{tabular}
 \caption[Characteristic conoscopic figures]{\label{fig:figures}A table showing characteristic conoscopic figures for varying values of $\theta$ and $\phi$ from the optical simulation package. Note that the polarisers are set at $\phi+45^{\circ}$, otherwise some of the figures in the $\theta>0$ column would appear nearly or entirely black. This accounts for the rotation of the $\theta=0$ figure, which would be independent of $\phi$ if the polariser angle did not change.}
 \end{table}
@@ -460,7 +412,7 @@ Figure \ref{fig:conoscope_schem} is a schematic diagram of the experimental set 
 
 \begin{figure}
 \begin{center}
-\includegraphics[width=\textwidth]{Figures/conoscopy/conoscope_setup}
+\includegraphics{Figures/conoscopy/conoscope_setup}
 \end{center}
 \caption[Schematic diagram of the conoscope setup]{\label{fig:conoscope_schem}A schematic diagram of the conoscope used in this research. Based on a designs from the literature \cite{Parry-Jones2002,Fujikawa1993} and built by Cornford in reference \cite{Cornford2008}. Here, a collimated beam passes through the polariser, main assembly and sample, before passing through the analyser and focussed on to the CCD to capture a figure.}
 \end{figure}
@@ -478,24 +430,24 @@ Firstly, Figure \ref{fig:rotate_cell_data} shows how the planar conoscopic figur
 
 \begin{figure}
 \begin{center}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/00.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/01.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/02.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/03.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/04.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/05.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/06.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/07.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/08.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/09.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/10.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/11.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/12.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/13.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/14.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/15.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/16.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/17.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/00.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/01.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/02.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/03.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/04.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/05.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/06.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/07.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/08.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/09.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/10.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/11.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/12.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/13.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/14.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/15.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/16.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/17.jpg}}
 %\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/18.jpg}}
 \end{center}
 \caption[Conoscopic images of a planar cell - rotating]{\label{fig:rotate_cell_data}Data conoscopic figures for a planar aligned cell. The polariser and analyser remain crossed at $0^\circ$ and $90^\circ$ to the figure's $x$ axis whilst the cell is rotated in increments of approximately $5^\circ$ through images (a) to (r). When the cell is rotated so that the rubbing direction becomes parallel to either the polariser or analyser (image (i)), the field of view is shown to be  completely dark. This is due to the incident light experiencing only one of the refractive indices of the liquid crystal, resulting in no polarisation conversion and all light being blocked by the analyser.}
@@ -505,24 +457,24 @@ Figure \ref{fig:rotate_cell_model} now shows the simulated conoscopic figures fo
  
 \begin{figure}
 \begin{center}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/01.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/02.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/03.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/04.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/05.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/06.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/07.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/08.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/09.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/10.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/11.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/12.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/13.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/14.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/15.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/16.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/17.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/18.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/01.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/02.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/03.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/04.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/05.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/06.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/07.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/08.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/09.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/10.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/11.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/12.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/13.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/14.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/15.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/16.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/17.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Rotate_cell/modelled/cropped/18.jpg}}
 %\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Rotate_cell/18.jpg}}
 \end{center}
 \caption[Simulated conoscopic images of a planar cell - rotating]{\label{fig:rotate_cell_model}Simulated conoscopic figures as the director azimuthal alignment is rotated in increments of $5^\circ$ from (a) to (r). These figures can be directly compared to the data conoscopic figures shown in Figure \ref{fig:rotate_cell_data} where a good agreement is seen.}
@@ -533,16 +485,16 @@ A second experiment was also carried out, in which the cell was maintained in th
 
 \begin{figure}
 \begin{center}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Stationary_cell/00.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Stationary_cell/01.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Stationary_cell/02.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Stationary_cell/03.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Stationary_cell/04.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Stationary_cell/05.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Stationary_cell/06.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Stationary_cell/07.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Stationary_cell/08.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Stationary_cell/09.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Stationary_cell/00.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Stationary_cell/01.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Stationary_cell/02.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Stationary_cell/03.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Stationary_cell/04.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Stationary_cell/05.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Stationary_cell/06.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Stationary_cell/07.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Stationary_cell/08.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Stationary_cell/09.jpg}}
 \end{center}
 \caption[Conoscopic images of a planar cell - rotating polarisers]{\label{fig:stationary_cell_data}Planar cell with the rubbing direction at at $45^\circ$ to the $x$ axis. The polariser and analyser remain crossed to one another whilst they are rotated in approximately $10^\circ$ increments from (a) to (j)}
 \end{figure}
@@ -551,16 +503,16 @@ Figure \ref{fig:stationary_cell_model} again shows the simulated conoscopic figu
 
 \begin{figure}
 \begin{center}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Stationary_cell/modelled/cropped/00.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Stationary_cell/modelled/cropped/01.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Stationary_cell/modelled/cropped/02.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Stationary_cell/modelled/cropped/03.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Stationary_cell/modelled/cropped/04.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Stationary_cell/modelled/cropped/05.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Stationary_cell/modelled/cropped/06.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Stationary_cell/modelled/cropped/07.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Stationary_cell/modelled/cropped/08.jpg}}
-\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/conoscopy/Stationary_cell/modelled/cropped/09.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Stationary_cell/modelled/cropped/00.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Stationary_cell/modelled/cropped/01.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Stationary_cell/modelled/cropped/02.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Stationary_cell/modelled/cropped/03.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Stationary_cell/modelled/cropped/04.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Stationary_cell/modelled/cropped/05.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Stationary_cell/modelled/cropped/06.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Stationary_cell/modelled/cropped/07.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Stationary_cell/modelled/cropped/08.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Stationary_cell/modelled/cropped/09.jpg}}
 \end{center}
 \caption[Simulated conoscopic images of a planar cell - rotating polarisers]{\label{fig:stationary_cell_model}Simulated conoscopic figures whereby the polariser and analyser remain crossed to one another and are rotated in increments of $10^\circ$ from (a) to (j). These figures can be directly compared to the data conoscopic figures shown in Figure \ref{fig:stationary_cell_data} whereby a good agreement is seen.}
 \end{figure}
@@ -570,13 +522,13 @@ Figure \ref{fig:planar_thickness} demonstrates how the planar alignment conoscop
 
 \begin{figure}
 \begin{center}
-\subfigure[]{\includegraphics[width=0.17\textwidth]{Figures/conoscopy/Planar_thickness/0}}
-\subfigure[]{\includegraphics[width=0.17\textwidth]{Figures/conoscopy/Planar_thickness/1.jpg}}
-\subfigure[]{\includegraphics[width=0.17\textwidth]{Figures/conoscopy/Planar_thickness/2.jpg}}
-\subfigure[]{\includegraphics[width=0.17\textwidth]{Figures/conoscopy/Planar_thickness/3.jpg}}
-\subfigure[]{\includegraphics[width=0.17\textwidth]{Figures/conoscopy/Planar_thickness/4.jpg}}
-\subfigure[]{\includegraphics[width=0.17\textwidth]{Figures/conoscopy/Planar_thickness/5.jpg}}
-\subfigure[]{\includegraphics[width=0.17\textwidth]{Figures/conoscopy/Planar_thickness/6.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Planar_thickness/0}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Planar_thickness/1.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Planar_thickness/2.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Planar_thickness/3.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Planar_thickness/4.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Planar_thickness/5.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/Planar_thickness/6.jpg}}
 \end{center}
 \caption[Conoscopic images of thickness variations in a planar cell]{\label{fig:planar_thickness}Conoscopic interference figure for a planar cell rubbed at 45$^\circ$ to the figure's $x$ axis. Polariser and analyser are crossed and at 0$^\circ$ and 90$^\circ$ to the figure's $x$ axis. Figures (a) through (g) show how the figure changes when moving the cell approximately 5 mm in the x-direction due to a depth gradient across the cell.}
 \begin{center}
@@ -590,10 +542,10 @@ Figure \ref{fig:homeotropic_cell} shows captured conoscopic figures for a cell t
 
 \begin{figure}
 \begin{center}
-\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/conoscopy/homeotropic/00.jpg}}
-\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/conoscopy/homeotropic/01.jpg}}\\
-\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/conoscopy/homeotropic/03.jpg}}
-\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/conoscopy/homeotropic/04.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/homeotropic/00.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/homeotropic/01.jpg}}\\
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/homeotropic/03.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/homeotropic/04.jpg}}
 \end{center}
 \caption[Conoscopic figures from a vertically aligned cell]{\label{fig:homeotropic_cell}Data conoscopic figure captures of a a cell aligned vertically through a surface treatment of lecithin dissolved in ether. Figures (a) and (b) show figures where the crossed polarisers are at $0^{\circ}$ and $45^{\circ}$ to the $x$ axis respectively. Figures (c) and (d) depict a vertically aligned cell whereby (d) is captured in a slightly thicker part of the cell, with more fringes visible around the maltese cross.}
 \end{figure}
@@ -603,15 +555,15 @@ Finally, Figure \ref{fig:pol_crossed_parallel} shows a comparison between planar
 
 \begin{figure}
 \begin{center}
-\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/conoscopy/polarisers/00.jpg}}
-\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/conoscopy/polarisers/01.jpg}}\\
-\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/conoscopy/polarisers/02.jpg}}
-\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/conoscopy/polarisers/03.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/polarisers/00.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/polarisers/01.jpg}}\\
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/polarisers/02.jpg}}
+\subfigure[]{\includegraphics[width=0.1\textwidth]{Figures/conoscopy/polarisers/03.jpg}}
 \end{center}
 \caption[Conoscopic images when polarisers are crossed and parallel]{\label{fig:pol_crossed_parallel}A comparison between data conoscopic figures for a planar aligned cell and a vertically aligned cell viewed when the polariser and analyser are crossed to one another and also when they are parallel to one another. Images (a) and (b) show a planar aligned cell viewed conoscopically between crossed and parallel polarisers respectively. Images (c) and (d) show a vertically aligned cell viewed conoscopically between crossed and parallel polarisers respectively. In both cases, the conoscopic figures are essentially the inverse of the original.}
 \end{figure}
 
-\section{Tracking conoscopic figure alignment}
+\subsection{Tracking conoscopic figure alignment}
 In order to accurately determine the alignment angle of the conjugate hyperbolae present in the planar conoscopic figure, a computer minimisation routine was created to automatically iterate down to the correct angle. Typical output figures from this program can be seen in Figure \ref{fig:figure_rotation1}. Before the automated routine can be run, the conoscopic figures must be lightly processed in order for them to work with the computer program. This processing involves cropping the images to be square, and smoothing the figures to remove any artefacts that may give misleading results (simple gaussian smoothing in ImageJ is suitable for this). Examples of an original simulated planar conoscopic figure and the smoothed version can be seen in Figure \ref{fig:figure_rotation1} (a) and (b). 
 
 In order to accurately determine the angle at which the hyperbolae are aligned, the program plots an initial line running through the centre of the field of view at a pre-defined angle (normally measured from the $x$ axis of the figure). Two further test lines are then plotted parallel and at a fixed distance to the initial line. The automated routine then plots the values of the pixel intensities along these two test lines and plots them as a function of position along the test line. Pairs of images can be seen in Figure \ref{fig:figure_rotation1} (c) to (j) in which the test lines plotted on the conoscopic figure (left column) correspond to the pixel intensities as a function of position on the line (plotted in the right column). The program then alters the angle at which the initial line is plotted (each time re-plotting two new parallel test lines) and measuring the difference between the pixel intensities for this given initial line. The automated routine varies the initial line angle to iterate down to a line which best minimises the difference in sum of the pixel intensities between the two test lines. At this point, the angle of the plotted line defines the angle at which the conjugate hyperbolae of the conoscopic figure are aligned.
@@ -622,23 +574,23 @@ As will be seen in later chapters, the fits between the plotted pixel intensitie
 
 \begin{figure}
 \begin{center}
-\subfigure[Original]{\includegraphics[width=0.18\textwidth]{Figures/Mirror/bob}}\hspace{0.4cm}
-\subfigure[Smoothed]{\includegraphics[width=0.18\textwidth]{Figures/Mirror/bobsmooth}}\\
-\scalebox{0.9}[1]{\subfigure[]{\includegraphics[width=0.25\textwidth]{Figures/Mirror/1}}}
-\scalebox{0.9}[1]{\subfigure[]{\includegraphics[width=0.25\textwidth]{Figures/Mirror/2}}}\\
-\scalebox{0.9}[1]{\subfigure[]{\includegraphics[width=0.25\textwidth]{Figures/Mirror/3}}}
-\scalebox{0.9}[1]{\subfigure[]{\includegraphics[width=0.25\textwidth]{Figures/Mirror/4}}}\\
-\scalebox{0.9}[1]{\subfigure[]{\includegraphics[width=0.25\textwidth]{Figures/Mirror/5}}}
-\scalebox{0.9}[1]{\subfigure[]{\includegraphics[width=0.25\textwidth]{Figures/Mirror/6}}}\\
-\scalebox{0.9}[1]{\subfigure[]{\includegraphics[width=0.25\textwidth]{Figures/Mirror/9}}}
-\scalebox{0.9}[1]{\subfigure[]{\includegraphics[width=0.25\textwidth]{Figures/Mirror/10}}}
+\subfigure[Original]{\includegraphics[width=0.15\textwidth]{Figures/Mirror/bob}}\hspace{0.4cm}
+\subfigure[Smoothed]{\includegraphics[width=0.15\textwidth]{Figures/Mirror/bobsmooth}}\\
+\scalebox{0.9}[1]{\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/Mirror/1}}}
+\scalebox{0.9}[1]{\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/Mirror/2}}}\\
+\scalebox{0.9}[1]{\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/Mirror/3}}}
+\scalebox{0.9}[1]{\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/Mirror/4}}}\\
+\scalebox{0.9}[1]{\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/Mirror/5}}}
+\scalebox{0.9}[1]{\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/Mirror/6}}}\\
+\scalebox{0.9}[1]{\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/Mirror/9}}}
+\scalebox{0.9}[1]{\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/Mirror/10}}}
 \end{center}
 \caption[Automated conoscopic figure tracking routine]{\label{fig:figure_rotation1}(a) Original simulated conoscopic figure. (b) Original figure after smoothing in ImageJ. Images (c) to (j) show pairs of images whereby the pixel intensities plotted along the two lines either side of the central test line are plotted. After three iterations, the difference between the left and right test lines has been minimised resulting in determination of the azimuthal alignment angle of the conoscopic figure.}
 \end{figure}
 
 This chapter will now go on to discuss the cell fabrication methods developed during this study in order to conduct the pressure driven flow experiments that will be detailed in the following chapters.
 
-\section{Cell fabrication}
+\subsection{Cell fabrication}
 \label{sec:cell_fabrication}
 In order to conduct dynamic pressure driven flow experiments, robust cells that allow flow of a liquid crystal from a syringe drive must be fabricated. During the course of this investigation, a set technique has been developed, refined and improved upon, to become what is now a standard process for the production of pressure driven flow cells within the group at Exeter.
 
@@ -662,7 +614,7 @@ At this stage, aligning layers can be deposited onto the glass slides. Conventio
 
 \begin{figure}
 \begin{center}
-\includegraphics[width=0.9\textwidth]{Figures/45/cell_fabrication}
+\includegraphics[width=0.49\textwidth]{Figures/45/cell_fabrication}
 \end{center}
 \caption[Cell fabrication]{\label{fig:cell_fabrication}(a) The glass slides are placed on a clean and flat surface ready for cell construction. (b) Stretched strips of \textit{Parafilm} are placed either side of the inlet/outlet holes to define a flow channel. (c) The plates are sandwiched together and the excess \textit{Parafilm} is removed. The cell is then placed on a hot plate to bond the  \textit{Parafilm} to the glass. (d) UV curing glue is introduced to seal the channel ends and cured under a UV lamp. (e) Inlet and outlet pipes are attached to the flow cell with an epoxy resin adhesive.}
 \end{figure}
@@ -684,15 +636,15 @@ A diagram showing a typical flow cell in relation to the syringe drive and conos
 
 \begin{figure}
 \begin{center}
-\subfigure[]{\includegraphics[width=0.25\textwidth]{Figures/45/collar_photo}}\hspace{0.5in}
-\subfigure[]{\includegraphics[width=0.25\textwidth]{Figures/45/collar}}
+\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/45/collar_photo}}\hspace{0.5in}
+\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/45/collar}}
 \end{center}
 \caption[Flow cell connections]{\label{fig:collar}(a) Shows a photograph of epoxy resin being applied to a collar with a cocktail stick. (b) A schematic diagram of the collar on the pipe as it is inserted into a slide. The collar and glue form a robust contact around the joint ensuring there is no leakage.}
 \end{figure}
 
 \begin{figure}
 \begin{center}
-\includegraphics[width=0.6\textwidth]{Figures/Theory/cell_cono}
+\includegraphics{Figures/Theory/cell_cono}
 \end{center}
 \caption[Schematic depiction of flow cell in the conoscope]{\label{fig:conoscope_schem1} A schematic representation of a flow cell in relation to the syringe drive and convergent part of the conoscopic beam.}
 \end{figure}
