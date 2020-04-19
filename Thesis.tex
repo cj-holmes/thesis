@@ -1,0 +1,118 @@
+\documentclass[10pt, a4paper]{report}
+
+% PAGE FORMATTING ----------------------------------------
+% Fancyheadr for customising footers and headers
+\usepackage{fancyhdr}
+\rhead{}
+\lhead{\nouppercase{\textsc{\leftmark}}}
+\renewcommand{\headrulewidth}{0pt}
+
+% Setspace - for document line spacing to be defined easily
+\usepackage{setspace}
+\onehalfspacing % Set spacing (\singlespacing, \onehalfspacing, \doublespacing, \setstretch{1.1})
+
+% Define the look of captions (figure captions, table captions, ...)
+\usepackage[font={onehalfspacing, small}, skip=0pt, labelfont=bf, width={0.98\textwidth}]{caption}
+
+% geometry gives flexible and complete interface to document dimensions
+% \usepackage[left = 1.5in,
+%             right = 1in,
+%             top=1in,
+%             bottom=0.8in,
+%             includefoot, 
+%             headheight=13.6pt]{geometry}
+
+
+% SECTION HEADER STYLE -----------------------------------
+% Control sectional headers (section style)
+\usepackage{sectsty}
+\chapterfont{\large \sc \centering} % Chapter sectional headers Largefont, small caps, centred
+\chaptertitlefont{\centering}
+\subsubsectionfont{\centering} 
+
+
+% MATHS --------------------------------------------------
+\usepackage{amsmath} % AMS mathematical facilities (aligning and formatting maths)
+
+% Access bold symbols in maths mode (\bm)
+% \bm is closely related to the specification of the \boldsymbol command in AMS-LATEX, 
+% but \bm is rather more careful in the way it does things.
+\usepackage{bm} 
+
+
+% FIGURE FORMATTING --------------------------------------
+% Prevent single figures taking a whole page (gives less 'float-only' pages)
+% The default value = 60%. Now it is set to 80%.
+% So if a figure consumes 75% of the page it will get its own float-page
+\renewcommand{\floatpagefraction}{0.8}
+
+% graphicx builds upon the graphics package
+\usepackage{graphicx}
+
+% subfigure provides support for the manipulation and reference of small or ‘sub’ figures and tables
+\usepackage{subfigure}
+
+
+% TABLE FORMATTING --------------------------------------
+\usepackage{array} % Advanced table and array formatting options
+
+
+% BIBLIOGRAPHY --------------------------------------------
+\usepackage[square, sort&compress, numbers]{natbib}
+
+
+% HYPER-REFERENCES ----------------------------------------
+\usepackage[plainpages = false,
+            bookmarksopen = true,
+            bookmarksnumbered = true,
+            breaklinks = true,
+            colorlinks = true,
+            linkcolor = blue,
+            urlcolor  = blue,
+            citecolor = blue,
+            anchorcolor = green,
+            hyperindex = true]{hyperref}
+            
+% --------------------------------------------------------
+% END OF PREAMBLE ----------------------------------------
+% --------------------------------------------------------
+
+
+\begin{document}
+
+% Front matter
+\pagenumbering{roman}  
+\include{gumf/gumf}
+
+% Content
+\pagestyle{fancy}
+\pagenumbering{arabic}
+\include{introduction/introduction}
+\include{lc/lc}
+\include{theory/theory}
+\include{45/45}
+\include{splay_parallel/splay_parallel}
+\include{pretilt/pretilt}
+\include{diode/diode}
+\include{conclusions/conclusions}
+\include{publications/publications}
+
+% References
+\bibliographystyle{bibliography/ESExeter.bst} 
+\bibliography{bibliography/library}
+
+% Thanks to Alex
+\newpage \vspace*{5cm}
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=0.5\textwidth]{figures/alex.jpg}
+\end{center}
+\end{figure}
+\hrule
+
+\begin{center}
+Alex - thank you for your help, advice and friendship during my time at Exeter. You are sorely missed.
+\end{center}
+
+
+\end{document}

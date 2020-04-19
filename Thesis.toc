@@ -1,0 +1,118 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Thesis outline}{3}{section.1.1}%
+\contentsline {chapter}{\numberline {2}The Liquid Crystalline phase of matter}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Thermotropic liquid crystals}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Nematic liquid crystals}{6}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Nematic Order}{7}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Optical Anisotropy}{8}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Dielectric Anisotropy}{8}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Elastic Constants and Free Energy}{9}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}Surface alignment}{10}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Nematic viscosities}{10}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Theory / Methods}{13}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{13}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Background}{13}{subsection.3.1.1}%
+\contentsline {section}{\numberline {3.2}Constitutive equations and the Leslie viscosities}{14}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Comments and Constraints on the Leslie viscosities}{16}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}The Parodi relation}{18}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Flow-alignment (``logs in rivers'')}{18}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Simplified flow-alignment}{20}{subsection.3.3.1}%
+\contentsline {section}{\numberline {3.4}A 1-D numerical model of liquid crystal dynamics}{23}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Assumptions}{23}{subsection.3.4.1}%
+\contentsline {section}{\numberline {3.5}The Leslie-Ericksen equations}{24}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Twist}{25}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Tilt}{26}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Flow field}{26}{subsection.3.5.3}%
+\contentsline {section}{\numberline {3.6}Conoscopy}{28}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Simulation}{28}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Experimental}{31}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}Planar alignment - rotating the cell}{33}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.4}Planar alignment - rotating the polarisers}{34}{subsection.3.6.4}%
+\contentsline {subsection}{\numberline {3.6.5}Planar alignment - thickness variation}{36}{subsection.3.6.5}%
+\contentsline {subsection}{\numberline {3.6.6}Vertical alignment}{37}{subsection.3.6.6}%
+\contentsline {subsection}{\numberline {3.6.7}Polarisers crossed and parallel}{38}{subsection.3.6.7}%
+\contentsline {section}{\numberline {3.7}Tracking conoscopic figure alignment}{39}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Cell fabrication}{40}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}Microscope slide preparation}{42}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.2}Cell construction}{42}{subsection.3.8.2}%
+\contentsline {chapter}{\numberline {4}Flow alignment}{45}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{45}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Azimuthal alignment}{45}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Simulated pressure driven flow}{47}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}The Pieranski-Guyon instability}{48}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Tilt alignment}{50}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Experiment}{52}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Analysis}{56}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Director profiles}{58}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Torque balance}{60}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Experimentally varying}{62}{subsection.4.5.3}%
+\contentsline {section}{\numberline {4.6}Terminating flow}{63}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Further simulation}{65}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Conclusions}{68}{section.4.8}%
+\contentsline {chapter}{\numberline {5}Uniform and splayed pretilt profiles}{69}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{69}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Uniform and splayed director profiles}{69}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Uniform tilt alignment}{70}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Azimuthal rotation (uniform tilt alignment)}{71}{subsection.5.3.1}%
+\contentsline {section}{\numberline {5.4}Experiment}{73}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Estimating the crystal pretilt angle}{75}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Conoscopic figure rotation}{77}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Uniform director profiles}{78}{subsection.5.4.3}%
+\contentsline {section}{\numberline {5.5}Splayed tilt alignment experiment}{81}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}`With' the splay}{82}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}`Against' the splay}{83}{subsection.5.5.2}%
+\contentsline {section}{\numberline {5.6}Conclusions}{84}{section.5.6}%
+\contentsline {chapter}{\numberline {6}Producing intermediate surface pretilt}{91}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Introduction}{92}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Small pretilt angles from a rubbed polyimide}{93}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}Production and control of intermediate pretilt angles}{94}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Nano domains of planar and vertical aligning layers}{95}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Mixing polyimide solutions}{96}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}POSS Nano-particle doped polyimides}{96}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}Polymer stabilised alignment}{97}{subsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.2.5}Grating alignment}{97}{subsection.6.2.5}%
+\contentsline {section}{\numberline {6.3}Two experimental recipes for the production of intermediate pretilt}{98}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Rubbed vertical polyimides}{98}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Bi-layer alignment surfaces}{99}{subsection.6.3.2}%
+\contentsline {section}{\numberline {6.4}High throughput technique for rapid analysis of liquid crystal devices}{100}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}High throughput technique theory}{100}{subsection.6.4.1}%
+\contentsline {section}{\numberline {6.5}Experiment}{102}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}Over-baked Nissan SE-1211 recipe}{102}{subsection.6.5.1}%
+\contentsline {subsection}{\numberline {6.5.2}Over-baked Nissan SE-1211 results}{103}{subsection.6.5.2}%
+\contentsline {subsection}{\numberline {6.5.3}Contact angles and surface energies}{106}{subsection.6.5.3}%
+\contentsline {subsection}{\numberline {6.5.4}OWRK surface energies}{108}{subsection.6.5.4}%
+\contentsline {subsection}{\numberline {6.5.5}OWRK equation derivation}{108}{subsection.6.5.5}%
+\contentsline {subsection}{\numberline {6.5.6}Surface energy results}{110}{subsection.6.5.6}%
+\contentsline {subsection}{\numberline {6.5.7}Bi-layer polyimide recipe}{111}{subsection.6.5.7}%
+\contentsline {subsection}{\numberline {6.5.8}Bi-layer polyimide results}{112}{subsection.6.5.8}%
+\contentsline {section}{\numberline {6.6}Analysis/Conclusions}{113}{section.6.6}%
+\contentsline {chapter}{\numberline {7}Diode cell}{117}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Introduction}{117}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}The idea}{117}{subsection.7.1.1}%
+\contentsline {section}{\numberline {7.2}Experimental setup}{118}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Cell clamp}{119}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Valve}{119}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Polystyrene housing}{120}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}Data acquisition}{121}{subsection.7.2.4}%
+\contentsline {section}{\numberline {7.3}Results}{122}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}First diode behaviour}{122}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}Second diode}{123}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.3.3}Isotropic phase}{125}{subsection.7.3.3}%
+\contentsline {subsection}{\numberline {7.3.4}Heating the cell}{125}{subsection.7.3.4}%
+\contentsline {subsection}{\numberline {7.3.5}Isotropic experiment}{127}{subsection.7.3.5}%
+\contentsline {section}{\numberline {7.4}Director profiles}{128}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Fully Leaky Guided Modes}{129}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Bend state (vertical at cell mid-plane)}{130}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.3}Splay state (planar at cell mid-plane)}{130}{subsection.7.4.3}%
+\contentsline {subsection}{\numberline {7.4.4}Data}{130}{subsection.7.4.4}%
+\contentsline {section}{\numberline {7.5}Simulation}{131}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}Planar}{131}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.2}Vertical}{132}{subsection.7.5.2}%
+\contentsline {subsection}{\numberline {7.5.3}Splayed}{133}{subsection.7.5.3}%
+\contentsline {subsection}{\numberline {7.5.4}Data and simulation}{134}{subsection.7.5.4}%
+\contentsline {section}{\numberline {7.6}Conclusions}{135}{section.7.6}%
+\contentsline {chapter}{\numberline {8}Conclusions and summary}{159}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Future work and thoughts}{161}{section.8.1}%
+\contentsline {chapter}{\numberline {9}Publications and Presentations}{163}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Publications}{163}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Poster Presentations}{163}{section.9.2}%
