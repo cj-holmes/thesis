@@ -58,61 +58,61 @@
 \contentsline {subsection}{\numberline {5.4.1}Estimating the crystal pretilt angle}{75}{subsection.5.4.1}%
 \contentsline {subsection}{\numberline {5.4.2}Conoscopic figure rotation}{77}{subsection.5.4.2}%
 \contentsline {subsection}{\numberline {5.4.3}Uniform director profiles}{78}{subsection.5.4.3}%
-\contentsline {section}{\numberline {5.5}Splayed tilt alignment experiment}{81}{section.5.5}%
-\contentsline {subsection}{\numberline {5.5.1}`With' the splay}{82}{subsection.5.5.1}%
-\contentsline {subsection}{\numberline {5.5.2}`Against' the splay}{83}{subsection.5.5.2}%
-\contentsline {section}{\numberline {5.6}Conclusions}{84}{section.5.6}%
-\contentsline {chapter}{\numberline {6}Producing intermediate surface pretilt}{91}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Introduction}{92}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Small pretilt angles from a rubbed polyimide}{93}{subsection.6.1.1}%
-\contentsline {section}{\numberline {6.2}Production and control of intermediate pretilt angles}{94}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Nano domains of planar and vertical aligning layers}{95}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Mixing polyimide solutions}{96}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3}POSS Nano-particle doped polyimides}{96}{subsection.6.2.3}%
-\contentsline {subsection}{\numberline {6.2.4}Polymer stabilised alignment}{97}{subsection.6.2.4}%
-\contentsline {subsection}{\numberline {6.2.5}Grating alignment}{97}{subsection.6.2.5}%
-\contentsline {section}{\numberline {6.3}Two experimental recipes for the production of intermediate pretilt}{98}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Rubbed vertical polyimides}{98}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}Bi-layer alignment surfaces}{99}{subsection.6.3.2}%
-\contentsline {section}{\numberline {6.4}High throughput technique for rapid analysis of liquid crystal devices}{100}{section.6.4}%
-\contentsline {subsection}{\numberline {6.4.1}High throughput technique theory}{100}{subsection.6.4.1}%
-\contentsline {section}{\numberline {6.5}Experiment}{102}{section.6.5}%
-\contentsline {subsection}{\numberline {6.5.1}Over-baked Nissan SE-1211 recipe}{102}{subsection.6.5.1}%
-\contentsline {subsection}{\numberline {6.5.2}Over-baked Nissan SE-1211 results}{103}{subsection.6.5.2}%
-\contentsline {subsection}{\numberline {6.5.3}Contact angles and surface energies}{106}{subsection.6.5.3}%
-\contentsline {subsection}{\numberline {6.5.4}OWRK surface energies}{108}{subsection.6.5.4}%
-\contentsline {subsection}{\numberline {6.5.5}OWRK equation derivation}{108}{subsection.6.5.5}%
-\contentsline {subsection}{\numberline {6.5.6}Surface energy results}{110}{subsection.6.5.6}%
-\contentsline {subsection}{\numberline {6.5.7}Bi-layer polyimide recipe}{111}{subsection.6.5.7}%
+\contentsline {section}{\numberline {5.5}Splayed tilt alignment experiment}{82}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}`With' the splay}{83}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}`Against' the splay}{84}{subsection.5.5.2}%
+\contentsline {section}{\numberline {5.6}Conclusions}{89}{section.5.6}%
+\contentsline {chapter}{\numberline {6}Producing intermediate surface pretilt}{90}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Introduction}{91}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Small pretilt angles from a rubbed polyimide}{92}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}Production and control of intermediate pretilt angles}{93}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Nano domains of planar and vertical aligning layers}{94}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Mixing polyimide solutions}{95}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}POSS Nano-particle doped polyimides}{95}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}Polymer stabilised alignment}{96}{subsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.2.5}Grating alignment}{96}{subsection.6.2.5}%
+\contentsline {section}{\numberline {6.3}Two experimental recipes for the production of intermediate pretilt}{97}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Rubbed vertical polyimides}{97}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Bi-layer alignment surfaces}{98}{subsection.6.3.2}%
+\contentsline {section}{\numberline {6.4}High throughput technique for rapid analysis of liquid crystal devices}{99}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}High throughput technique theory}{99}{subsection.6.4.1}%
+\contentsline {section}{\numberline {6.5}Experiment}{101}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}Over-baked Nissan SE-1211 recipe}{101}{subsection.6.5.1}%
+\contentsline {subsection}{\numberline {6.5.2}Over-baked Nissan SE-1211 results}{102}{subsection.6.5.2}%
+\contentsline {subsection}{\numberline {6.5.3}Contact angles and surface energies}{105}{subsection.6.5.3}%
+\contentsline {subsection}{\numberline {6.5.4}OWRK surface energies}{107}{subsection.6.5.4}%
+\contentsline {subsection}{\numberline {6.5.5}OWRK equation derivation}{107}{subsection.6.5.5}%
+\contentsline {subsection}{\numberline {6.5.6}Surface energy results}{109}{subsection.6.5.6}%
+\contentsline {subsection}{\numberline {6.5.7}Bi-layer polyimide recipe}{110}{subsection.6.5.7}%
 \contentsline {subsection}{\numberline {6.5.8}Bi-layer polyimide results}{112}{subsection.6.5.8}%
-\contentsline {section}{\numberline {6.6}Analysis/Conclusions}{113}{section.6.6}%
-\contentsline {chapter}{\numberline {7}Diode cell}{117}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Introduction}{117}{section.7.1}%
-\contentsline {subsection}{\numberline {7.1.1}The idea}{117}{subsection.7.1.1}%
-\contentsline {section}{\numberline {7.2}Experimental setup}{118}{section.7.2}%
-\contentsline {subsection}{\numberline {7.2.1}Cell clamp}{119}{subsection.7.2.1}%
-\contentsline {subsection}{\numberline {7.2.2}Valve}{119}{subsection.7.2.2}%
-\contentsline {subsection}{\numberline {7.2.3}Polystyrene housing}{120}{subsection.7.2.3}%
-\contentsline {subsection}{\numberline {7.2.4}Data acquisition}{121}{subsection.7.2.4}%
-\contentsline {section}{\numberline {7.3}Results}{122}{section.7.3}%
-\contentsline {subsection}{\numberline {7.3.1}First diode behaviour}{122}{subsection.7.3.1}%
-\contentsline {subsection}{\numberline {7.3.2}Second diode}{123}{subsection.7.3.2}%
-\contentsline {subsection}{\numberline {7.3.3}Isotropic phase}{125}{subsection.7.3.3}%
-\contentsline {subsection}{\numberline {7.3.4}Heating the cell}{125}{subsection.7.3.4}%
-\contentsline {subsection}{\numberline {7.3.5}Isotropic experiment}{127}{subsection.7.3.5}%
-\contentsline {section}{\numberline {7.4}Director profiles}{128}{section.7.4}%
-\contentsline {subsection}{\numberline {7.4.1}Fully Leaky Guided Modes}{129}{subsection.7.4.1}%
-\contentsline {subsection}{\numberline {7.4.2}Bend state (vertical at cell mid-plane)}{130}{subsection.7.4.2}%
-\contentsline {subsection}{\numberline {7.4.3}Splay state (planar at cell mid-plane)}{130}{subsection.7.4.3}%
-\contentsline {subsection}{\numberline {7.4.4}Data}{130}{subsection.7.4.4}%
-\contentsline {section}{\numberline {7.5}Simulation}{131}{section.7.5}%
-\contentsline {subsection}{\numberline {7.5.1}Planar}{131}{subsection.7.5.1}%
-\contentsline {subsection}{\numberline {7.5.2}Vertical}{132}{subsection.7.5.2}%
-\contentsline {subsection}{\numberline {7.5.3}Splayed}{133}{subsection.7.5.3}%
-\contentsline {subsection}{\numberline {7.5.4}Data and simulation}{134}{subsection.7.5.4}%
-\contentsline {section}{\numberline {7.6}Conclusions}{135}{section.7.6}%
-\contentsline {chapter}{\numberline {8}Conclusions and summary}{159}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Future work and thoughts}{161}{section.8.1}%
-\contentsline {chapter}{\numberline {9}Publications and Presentations}{163}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Publications}{163}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Poster Presentations}{163}{section.9.2}%
+\contentsline {section}{\numberline {6.6}Analysis/Conclusions}{114}{section.6.6}%
+\contentsline {chapter}{\numberline {7}Diode cell}{116}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Introduction}{116}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}The idea}{116}{subsection.7.1.1}%
+\contentsline {section}{\numberline {7.2}Experimental setup}{117}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Cell clamp}{118}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Valve}{118}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Polystyrene housing}{119}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}Data acquisition}{120}{subsection.7.2.4}%
+\contentsline {section}{\numberline {7.3}Results}{121}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}First diode behaviour}{121}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}Second diode}{122}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.3.3}Isotropic phase}{124}{subsection.7.3.3}%
+\contentsline {subsection}{\numberline {7.3.4}Heating the cell}{124}{subsection.7.3.4}%
+\contentsline {subsection}{\numberline {7.3.5}Isotropic experiment}{126}{subsection.7.3.5}%
+\contentsline {section}{\numberline {7.4}Director profiles}{127}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Fully Leaky Guided Modes}{128}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Bend state (vertical at cell mid-plane)}{129}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.3}Splay state (planar at cell mid-plane)}{129}{subsection.7.4.3}%
+\contentsline {subsection}{\numberline {7.4.4}Data}{129}{subsection.7.4.4}%
+\contentsline {section}{\numberline {7.5}Simulation}{130}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}Planar}{130}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.2}Vertical}{131}{subsection.7.5.2}%
+\contentsline {subsection}{\numberline {7.5.3}Splayed}{132}{subsection.7.5.3}%
+\contentsline {subsection}{\numberline {7.5.4}Data and simulation}{133}{subsection.7.5.4}%
+\contentsline {section}{\numberline {7.6}Conclusions}{134}{section.7.6}%
+\contentsline {chapter}{\numberline {8}Conclusions and summary}{158}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Future work and thoughts}{160}{section.8.1}%
+\contentsline {chapter}{\numberline {9}Publications and Presentations}{162}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Publications}{162}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Poster Presentations}{162}{section.9.2}%

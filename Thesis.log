@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.16)  19 APR 2020 13:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.16)  19 APR 2020 22:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2161,93 +2161,100 @@ t line 181.
 led/00.jpg> <./figures/90/Parallel/87refit/00.jpg> <./figures/90/Parallel/87ref
 it/17.jpg> <./figures/90/Parallel/87refit/33.jpg> <./figures/90/Parallel/87refi
 t/50.jpg> <./figures/90/Parallel/87refit/67.jpg> <./figures/90/Parallel/87refit
-/86.jpg>] [80] [81]
-<Figures/90/Splay/with/cropped/00a.png, id=4400, 231.264pt x 231.264pt>
+/86.jpg>] [80 <./figures/90/uniform_twist_profile1.pdf> <./figures/90/uniform_t
+ilt_profile1.pdf> <./figures/90/uniform_velocity_profile1.pdf>] [81] [82]
+<Figures/90/Splay/with/cropped/00a.png, id=4419, 231.264pt x 231.264pt>
 File: Figures/90/Splay/with/cropped/00a.png Graphic file (type png)
 <use Figures/90/Splay/with/cropped/00a.png>
 Package pdftex.def Info: Figures/90/Splay/with/cropped/00a.png  used on input l
 ine 209.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/Splay/with/cropped/02.jpg, id=4401, 289.08pt x 289.08pt>
+<Figures/90/Splay/with/cropped/02.jpg, id=4420, 289.08pt x 289.08pt>
 File: Figures/90/Splay/with/cropped/02.jpg Graphic file (type jpg)
 <use Figures/90/Splay/with/cropped/02.jpg>
 Package pdftex.def Info: Figures/90/Splay/with/cropped/02.jpg  used on input li
 ne 211.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/Splay/with/cropped/04.jpg, id=4402, 289.08pt x 289.08pt>
+<Figures/90/Splay/with/cropped/04.jpg, id=4421, 289.08pt x 289.08pt>
 File: Figures/90/Splay/with/cropped/04.jpg Graphic file (type jpg)
 <use Figures/90/Splay/with/cropped/04.jpg>
 Package pdftex.def Info: Figures/90/Splay/with/cropped/04.jpg  used on input li
 ne 213.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/Splay/with/cropped/06.jpg, id=4403, 289.08pt x 289.08pt>
+<Figures/90/Splay/with/cropped/06.jpg, id=4422, 289.08pt x 289.08pt>
 File: Figures/90/Splay/with/cropped/06.jpg Graphic file (type jpg)
 <use Figures/90/Splay/with/cropped/06.jpg>
 Package pdftex.def Info: Figures/90/Splay/with/cropped/06.jpg  used on input li
 ne 215.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/Splay/with/cropped/08.jpg, id=4404, 289.08pt x 289.08pt>
+<Figures/90/Splay/with/cropped/08.jpg, id=4423, 289.08pt x 289.08pt>
 File: Figures/90/Splay/with/cropped/08.jpg Graphic file (type jpg)
 <use Figures/90/Splay/with/cropped/08.jpg>
 Package pdftex.def Info: Figures/90/Splay/with/cropped/08.jpg  used on input li
 ne 217.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/Splay/with/cropped/10a.png, id=4405, 231.264pt x 231.264pt>
+<Figures/90/Splay/with/cropped/10a.png, id=4424, 231.264pt x 231.264pt>
 File: Figures/90/Splay/with/cropped/10a.png Graphic file (type png)
 <use Figures/90/Splay/with/cropped/10a.png>
 Package pdftex.def Info: Figures/90/Splay/with/cropped/10a.png  used on input l
 ine 219.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/Splay/with/cropped/12.jpg, id=4406, 289.08pt x 289.08pt>
+<Figures/90/Splay/with/cropped/12.jpg, id=4425, 289.08pt x 289.08pt>
 File: Figures/90/Splay/with/cropped/12.jpg Graphic file (type jpg)
 <use Figures/90/Splay/with/cropped/12.jpg>
 Package pdftex.def Info: Figures/90/Splay/with/cropped/12.jpg  used on input li
 ne 221.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/Splay/with/cropped/14.jpg, id=4407, 289.08pt x 289.08pt>
+<Figures/90/Splay/with/cropped/14.jpg, id=4426, 289.08pt x 289.08pt>
 File: Figures/90/Splay/with/cropped/14.jpg Graphic file (type jpg)
 <use Figures/90/Splay/with/cropped/14.jpg>
 Package pdftex.def Info: Figures/90/Splay/with/cropped/14.jpg  used on input li
 ne 223.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/Splay/with/cropped/16.jpg, id=4408, 289.08pt x 289.08pt>
+<Figures/90/Splay/with/cropped/16.jpg, id=4427, 289.08pt x 289.08pt>
 File: Figures/90/Splay/with/cropped/16.jpg Graphic file (type jpg)
 <use Figures/90/Splay/with/cropped/16.jpg>
 Package pdftex.def Info: Figures/90/Splay/with/cropped/16.jpg  used on input li
 ne 225.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/Splay/with/cropped/18.jpg, id=4409, 289.08pt x 289.08pt>
+<Figures/90/Splay/with/cropped/18.jpg, id=4428, 289.08pt x 289.08pt>
 File: Figures/90/Splay/with/cropped/18.jpg Graphic file (type jpg)
 <use Figures/90/Splay/with/cropped/18.jpg>
 Package pdftex.def Info: Figures/90/Splay/with/cropped/18.jpg  used on input li
 ne 227.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/Splay/with/cropped/20a.png, id=4410, 231.264pt x 231.264pt>
+<Figures/90/Splay/with/cropped/20a.png, id=4429, 231.264pt x 231.264pt>
 File: Figures/90/Splay/with/cropped/20a.png Graphic file (type png)
 <use Figures/90/Splay/with/cropped/20a.png>
 Package pdftex.def Info: Figures/90/Splay/with/cropped/20a.png  used on input l
 ine 229.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/splay/with/twist_profile.pdf, id=4421, 505.89pt x 504.88625pt>
+
+[83 <./figures/90/Splay/with/cropped/00a.png> <./figures/90/Splay/with/cropped/
+02.jpg> <./figures/90/Splay/with/cropped/04.jpg> <./figures/90/Splay/with/cropp
+ed/06.jpg> <./figures/90/Splay/with/cropped/08.jpg> <./figures/90/Splay/with/cr
+opped/10a.png> <./figures/90/Splay/with/cropped/12.jpg> <./figures/90/Splay/wit
+h/cropped/14.jpg> <./figures/90/Splay/with/cropped/16.jpg> <./figures/90/Splay/
+with/cropped/18.jpg> <./figures/90/Splay/with/cropped/20a.png>]
+<Figures/90/splay/with/twist_profile.pdf, id=4458, 505.89pt x 504.88625pt>
 File: Figures/90/splay/with/twist_profile.pdf Graphic file (type pdf)
 <use Figures/90/splay/with/twist_profile.pdf>
 Package pdftex.def Info: Figures/90/splay/with/twist_profile.pdf  used on input
  line 245.
 (pdftex.def)             Requested size: 169.0519pt x 168.71614pt.
-<Figures/90/splay/with/tilt_profile.pdf, id=4422, 505.89pt x 504.88625pt>
+<Figures/90/splay/with/tilt_profile.pdf, id=4459, 505.89pt x 504.88625pt>
 File: Figures/90/splay/with/tilt_profile.pdf Graphic file (type pdf)
 <use Figures/90/splay/with/tilt_profile.pdf>
 Package pdftex.def Info: Figures/90/splay/with/tilt_profile.pdf  used on input 
 line 246.
 (pdftex.def)             Requested size: 169.0519pt x 168.71614pt.
-<Figures/90/splay/with/velocity_profile.pdf, id=4423, 505.89pt x 504.88625pt>
+<Figures/90/splay/with/velocity_profile.pdf, id=4460, 505.89pt x 504.88625pt>
 File: Figures/90/splay/with/velocity_profile.pdf Graphic file (type pdf)
 <use Figures/90/splay/with/velocity_profile.pdf>
 Package pdftex.def Info: Figures/90/splay/with/velocity_profile.pdf  used on in
 put line 247.
 (pdftex.def)             Requested size: 169.0519pt x 168.71614pt.
- [82]
-<Figures/90/Splay/against/cropped/levelled/00a.png, id=4435, 231.264pt x 231.26
+<Figures/90/Splay/against/cropped/levelled/00a.png, id=4468, 231.264pt x 231.26
 4pt>
 File: Figures/90/Splay/against/cropped/levelled/00a.png Graphic file (type png)
 
@@ -2255,28 +2262,28 @@ File: Figures/90/Splay/against/cropped/levelled/00a.png Graphic file (type png)
 Package pdftex.def Info: Figures/90/Splay/against/cropped/levelled/00a.png  use
 d on input line 257.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/Splay/against/cropped/levelled/02.jpg, id=4436, 289.08pt x 289.08pt
+<Figures/90/Splay/against/cropped/levelled/02.jpg, id=4469, 289.08pt x 289.08pt
 >
 File: Figures/90/Splay/against/cropped/levelled/02.jpg Graphic file (type jpg)
 <use Figures/90/Splay/against/cropped/levelled/02.jpg>
 Package pdftex.def Info: Figures/90/Splay/against/cropped/levelled/02.jpg  used
  on input line 259.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/Splay/against/cropped/levelled/04.jpg, id=4437, 289.08pt x 289.08pt
+<Figures/90/Splay/against/cropped/levelled/04.jpg, id=4470, 289.08pt x 289.08pt
 >
 File: Figures/90/Splay/against/cropped/levelled/04.jpg Graphic file (type jpg)
 <use Figures/90/Splay/against/cropped/levelled/04.jpg>
 Package pdftex.def Info: Figures/90/Splay/against/cropped/levelled/04.jpg  used
  on input line 261.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/Splay/against/cropped/levelled/06.jpg, id=4438, 289.08pt x 289.08pt
+<Figures/90/Splay/against/cropped/levelled/06.jpg, id=4471, 289.08pt x 289.08pt
 >
 File: Figures/90/Splay/against/cropped/levelled/06.jpg Graphic file (type jpg)
 <use Figures/90/Splay/against/cropped/levelled/06.jpg>
 Package pdftex.def Info: Figures/90/Splay/against/cropped/levelled/06.jpg  used
  on input line 263.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/Splay/against/cropped/levelled/08a.png, id=4439, 231.264pt x 231.26
+<Figures/90/Splay/against/cropped/levelled/08a.png, id=4472, 231.264pt x 231.26
 4pt>
 File: Figures/90/Splay/against/cropped/levelled/08a.png Graphic file (type png)
 
@@ -2284,42 +2291,42 @@ File: Figures/90/Splay/against/cropped/levelled/08a.png Graphic file (type png)
 Package pdftex.def Info: Figures/90/Splay/against/cropped/levelled/08a.png  use
 d on input line 265.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/Splay/against/cropped/levelled/10.jpg, id=4440, 289.08pt x 289.08pt
+<Figures/90/Splay/against/cropped/levelled/10.jpg, id=4473, 289.08pt x 289.08pt
 >
 File: Figures/90/Splay/against/cropped/levelled/10.jpg Graphic file (type jpg)
 <use Figures/90/Splay/against/cropped/levelled/10.jpg>
 Package pdftex.def Info: Figures/90/Splay/against/cropped/levelled/10.jpg  used
  on input line 267.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/Splay/against/cropped/levelled/12.jpg, id=4441, 289.08pt x 289.08pt
+<Figures/90/Splay/against/cropped/levelled/12.jpg, id=4474, 289.08pt x 289.08pt
 >
 File: Figures/90/Splay/against/cropped/levelled/12.jpg Graphic file (type jpg)
 <use Figures/90/Splay/against/cropped/levelled/12.jpg>
 Package pdftex.def Info: Figures/90/Splay/against/cropped/levelled/12.jpg  used
  on input line 269.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/Splay/against/cropped/levelled/14.jpg, id=4442, 289.08pt x 289.08pt
+<Figures/90/Splay/against/cropped/levelled/14.jpg, id=4475, 289.08pt x 289.08pt
 >
 File: Figures/90/Splay/against/cropped/levelled/14.jpg Graphic file (type jpg)
 <use Figures/90/Splay/against/cropped/levelled/14.jpg>
 Package pdftex.def Info: Figures/90/Splay/against/cropped/levelled/14.jpg  used
  on input line 271.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/Splay/against/cropped/levelled/16.jpg, id=4443, 289.08pt x 289.08pt
+<Figures/90/Splay/against/cropped/levelled/16.jpg, id=4476, 289.08pt x 289.08pt
 >
 File: Figures/90/Splay/against/cropped/levelled/16.jpg Graphic file (type jpg)
 <use Figures/90/Splay/against/cropped/levelled/16.jpg>
 Package pdftex.def Info: Figures/90/Splay/against/cropped/levelled/16.jpg  used
  on input line 273.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/Splay/against/cropped/levelled/18.jpg, id=4444, 289.08pt x 289.08pt
+<Figures/90/Splay/against/cropped/levelled/18.jpg, id=4477, 289.08pt x 289.08pt
 >
 File: Figures/90/Splay/against/cropped/levelled/18.jpg Graphic file (type jpg)
 <use Figures/90/Splay/against/cropped/levelled/18.jpg>
 Package pdftex.def Info: Figures/90/Splay/against/cropped/levelled/18.jpg  used
  on input line 275.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/Splay/against/cropped/levelled/20a.png, id=4445, 231.264pt x 231.26
+<Figures/90/Splay/against/cropped/levelled/20a.png, id=4478, 231.264pt x 231.26
 4pt>
 File: Figures/90/Splay/against/cropped/levelled/20a.png Graphic file (type png)
 
@@ -2327,72 +2334,65 @@ File: Figures/90/Splay/against/cropped/levelled/20a.png Graphic file (type png)
 Package pdftex.def Info: Figures/90/Splay/against/cropped/levelled/20a.png  use
 d on input line 277.
 (pdftex.def)             Requested size: 58.64937pt x 58.64865pt.
-<Figures/90/splay/against/twist_profile.pdf, id=4450, 505.89pt x 504.88625pt>
+ [84] [85 <./figures/90/Splay/with/twist_profile.pdf> <./figures/90/Splay/with/
+tilt_profile.pdf> <./figures/90/Splay/with/velocity_profile.pdf>]
+<Figures/90/splay/against/twist_profile.pdf, id=4509, 505.89pt x 504.88625pt>
 File: Figures/90/splay/against/twist_profile.pdf Graphic file (type pdf)
 <use Figures/90/splay/against/twist_profile.pdf>
 Package pdftex.def Info: Figures/90/splay/against/twist_profile.pdf  used on in
 put line 287.
 (pdftex.def)             Requested size: 169.0519pt x 168.71614pt.
-<Figures/90/splay/against/tilt_profile.pdf, id=4451, 505.89pt x 504.88625pt>
+<Figures/90/splay/against/tilt_profile.pdf, id=4510, 505.89pt x 504.88625pt>
 File: Figures/90/splay/against/tilt_profile.pdf Graphic file (type pdf)
 <use Figures/90/splay/against/tilt_profile.pdf>
 Package pdftex.def Info: Figures/90/splay/against/tilt_profile.pdf  used on inp
 ut line 288.
 (pdftex.def)             Requested size: 169.0519pt x 168.71614pt.
-<Figures/90/splay/against/velocity_profile.pdf, id=4452, 505.89pt x 504.88625pt
+<Figures/90/splay/against/velocity_profile.pdf, id=4511, 505.89pt x 504.88625pt
 >
 File: Figures/90/splay/against/velocity_profile.pdf Graphic file (type pdf)
 <use Figures/90/splay/against/velocity_profile.pdf>
 Package pdftex.def Info: Figures/90/splay/against/velocity_profile.pdf  used on
  input line 289.
 (pdftex.def)             Requested size: 169.0519pt x 168.71614pt.
- [83]
-<Figures/90/with_against_data_plot.pdf, id=4470, 454.69875pt x 454.69875pt>
+ [86 <./figures/90/Splay/against/cropped/levelled/00a.png> <./figures/90/Splay/
+against/cropped/levelled/02.jpg> <./figures/90/Splay/against/cropped/levelled/0
+4.jpg> <./figures/90/Splay/against/cropped/levelled/06.jpg> <./figures/90/Splay
+/against/cropped/levelled/08a.png> <./figures/90/Splay/against/cropped/levelled
+/10.jpg> <./figures/90/Splay/against/cropped/levelled/12.jpg> <./figures/90/Spl
+ay/against/cropped/levelled/14.jpg> <./figures/90/Splay/against/cropped/levelle
+d/16.jpg> <./figures/90/Splay/against/cropped/levelled/18.jpg> <./figures/90/Sp
+lay/against/cropped/levelled/20a.png>] [87 <./figures/90/Splay/against/twist_pr
+ofile.pdf> <./figures/90/Splay/against/tilt_profile.pdf> <./figures/90/Splay/ag
+ainst/velocity_profile.pdf>]
+<Figures/90/with_against_data_plot.pdf, id=4561, 454.69875pt x 454.69875pt>
 File: Figures/90/with_against_data_plot.pdf Graphic file (type pdf)
 <use Figures/90/with_against_data_plot.pdf>
 Package pdftex.def Info: Figures/90/with_against_data_plot.pdf  used on input l
 ine 304.
 (pdftex.def)             Requested size: 224.2479pt x 224.24747pt.
-) [84] [85 <./figures/90/uniform_twist_profile1.pdf> <./figures/90/uniform_tilt
-_profile1.pdf> <./figures/90/uniform_velocity_profile1.pdf>] [86 <./figures/90/
-Splay/with/cropped/00a.png> <./figures/90/Splay/with/cropped/02.jpg> <./figures
-/90/Splay/with/cropped/04.jpg> <./figures/90/Splay/with/cropped/06.jpg> <./figu
-res/90/Splay/with/cropped/08.jpg> <./figures/90/Splay/with/cropped/10a.png> <./
-figures/90/Splay/with/cropped/12.jpg> <./figures/90/Splay/with/cropped/14.jpg> 
-<./figures/90/Splay/with/cropped/16.jpg> <./figures/90/Splay/with/cropped/18.jp
-g> <./figures/90/Splay/with/cropped/20a.png>]
-[87 <./figures/90/Splay/with/twist_profile.pdf> <./figures/90/Splay/with/tilt_p
-rofile.pdf> <./figures/90/Splay/with/velocity_profile.pdf>] [88 <./figures/90/S
-play/against/cropped/levelled/00a.png> <./figures/90/Splay/against/cropped/leve
-lled/02.jpg> <./figures/90/Splay/against/cropped/levelled/04.jpg> <./figures/90
-/Splay/against/cropped/levelled/06.jpg> <./figures/90/Splay/against/cropped/lev
-elled/08a.png> <./figures/90/Splay/against/cropped/levelled/10.jpg> <./figures/
-90/Splay/against/cropped/levelled/12.jpg> <./figures/90/Splay/against/cropped/l
-evelled/14.jpg> <./figures/90/Splay/against/cropped/levelled/16.jpg> <./figures
-/90/Splay/against/cropped/levelled/18.jpg> <./figures/90/Splay/against/cropped/
-levelled/20a.png>] [89 <./figures/90/Splay/against/twist_profile.pdf> <./figure
-s/90/Splay/against/tilt_profile.pdf> <./figures/90/Splay/against/velocity_profi
-le.pdf>] [90 <./figures/90/with_against_data_plot.pdf>]
+
+[88 <./figures/90/with_against_data_plot.pdf>]) [89]
 \openout2 = `pretilt/pretilt.aux'.
 
  (./pretilt/pretilt.tex
 Chapter 6.
-[91
+[90
 
 
 
-] [92] [93]
-<Figures/Pretilt/rubbing1.pdf, id=4624, 1487.34761pt x 272.43272pt>
+] [91] [92]
+<Figures/Pretilt/rubbing1.pdf, id=4620, 1487.34761pt x 272.43272pt>
 File: Figures/Pretilt/rubbing1.pdf Graphic file (type pdf)
 <use Figures/Pretilt/rubbing1.pdf>
 Package pdftex.def Info: Figures/Pretilt/rubbing1.pdf  used on input line 33.
 (pdftex.def)             Requested size: 103.50105pt x 18.95584pt.
-<Figures/Pretilt/rubbing2.pdf, id=4625, 1487.34761pt x 377.31697pt>
+<Figures/Pretilt/rubbing2.pdf, id=4621, 1487.34761pt x 377.31697pt>
 File: Figures/Pretilt/rubbing2.pdf Graphic file (type pdf)
 <use Figures/Pretilt/rubbing2.pdf>
 Package pdftex.def Info: Figures/Pretilt/rubbing2.pdf  used on input line 34.
 (pdftex.def)             Requested size: 103.50105pt x 26.25368pt.
-<Figures/Pretilt/rubbing3.pdf, id=4626, 1487.34761pt x 388.27977pt>
+<Figures/Pretilt/rubbing3.pdf, id=4622, 1487.34761pt x 388.27977pt>
 File: Figures/Pretilt/rubbing3.pdf Graphic file (type pdf)
 <use Figures/Pretilt/rubbing3.pdf>
 Package pdftex.def Info: Figures/Pretilt/rubbing3.pdf  used on input line 35.
@@ -2402,7 +2402,7 @@ Overfull \hbox (11.44954pt too wide) in paragraph at lines 40--40
 []\OT1/cmr/bx/n/14.4 Production and con-trol of in-ter-me-di-ate pretilt
  []
 
-[94 <./figures/Pretilt/rubbing1.pdf> <./figures/Pretilt/rubbing2.pdf
+[93 <./figures/Pretilt/rubbing1.pdf> <./figures/Pretilt/rubbing2.pdf
 
 pdfTeX warning: pdflatex.exe (file ./figures/Pretilt/rubbing2.pdf): PDF inclusi
 on: multiple pdfs with page group included in a single page
@@ -2410,272 +2410,272 @@ on: multiple pdfs with page group included in a single page
 
 pdfTeX warning: pdflatex.exe (file ./figures/Pretilt/rubbing3.pdf): PDF inclusi
 on: multiple pdfs with page group included in a single page
->] [95] [96] [97] [98] [99] [100]
-<Figures/Pretilt/camera_kit.pdf, id=4743, 501.602pt x 779.91388pt>
+>] [94] [95] [96] [97] [98] [99]
+<Figures/Pretilt/camera_kit.pdf, id=4739, 501.602pt x 779.91388pt>
 File: Figures/Pretilt/camera_kit.pdf Graphic file (type pdf)
 <use Figures/Pretilt/camera_kit.pdf>
 Package pdftex.def Info: Figures/Pretilt/camera_kit.pdf  used on input line 154
 .
 (pdftex.def)             Requested size: 120.7521pt x 187.74248pt.
- [101] [102 <./figures/Pretilt/camera_kit.pdf>]
-<Figures/Pretilt/rubbing_machine.pdf, id=4783, 2282.84338pt x 1306.2282pt>
+ [100] [101 <./figures/Pretilt/camera_kit.pdf>]
+<Figures/Pretilt/rubbing_machine.pdf, id=4779, 2282.84338pt x 1306.2282pt>
 File: Figures/Pretilt/rubbing_machine.pdf Graphic file (type pdf)
 <use Figures/Pretilt/rubbing_machine.pdf>
 Package pdftex.def Info: Figures/Pretilt/rubbing_machine.pdf  used on input lin
 e 170.
 (pdftex.def)             Requested size: 172.5pt x 98.70035pt.
- [103 <./figures/Pretilt/rubbing_machine.pdf>]
-<Figures/Pretilt/ito_glass.pdf, id=4809, 454.69875pt x 454.69875pt>
+[102 <./figures/Pretilt/rubbing_machine.pdf>]
+<Figures/Pretilt/ito_glass.pdf, id=4804, 454.69875pt x 454.69875pt>
 File: Figures/Pretilt/ito_glass.pdf Graphic file (type pdf)
 <use Figures/Pretilt/ito_glass.pdf>
 Package pdftex.def Info: Figures/Pretilt/ito_glass.pdf  used on input line 188.
 
 (pdftex.def)             Requested size: 224.2479pt x 224.24747pt.
- [104] [105 <./figures/Pretilt/ito_glass.pdf>]
+ [103] [104 <./figures/Pretilt/ito_glass.pdf>]
 Overfull \hbox (4.08394pt too wide) in paragraph at lines 197--198
 []\OT1/cmr/m/n/10 Some pre-lim-i-nary ex-per-i-ments have also shown that a sim
 -i-lar trend of stronger
  []
 
-<Figures/Pretilt/scratch.pdf, id=4842, 454.69875pt x 454.69875pt>
+<Figures/Pretilt/scratch.pdf, id=4838, 454.69875pt x 454.69875pt>
 File: Figures/Pretilt/scratch.pdf Graphic file (type pdf)
 <use Figures/Pretilt/scratch.pdf>
 Package pdftex.def Info: Figures/Pretilt/scratch.pdf  used on input line 203.
 (pdftex.def)             Requested size: 224.2479pt x 224.24747pt.
-<Figures/Pretilt/cells.jpg, id=4845, 158.994pt x 282.8166pt>
+<Figures/Pretilt/cells.jpg, id=4841, 158.994pt x 282.8166pt>
 File: Figures/Pretilt/cells.jpg Graphic file (type jpg)
 <use Figures/Pretilt/cells.jpg>
 Package pdftex.def Info: Figures/Pretilt/cells.jpg  used on input line 210.
 (pdftex.def)             Requested size: 269.09958pt x 478.74496pt.
-[106 <./figures/Pretilt/scratch.pdf>] [107 <./figures/Pretilt/cells.jpg>]
-<Figures/Pretilt/Contact_angle/0.jpg, id=4877, 398.48875pt x 398.48875pt>
+[105 <./figures/Pretilt/scratch.pdf>] [106 <./figures/Pretilt/cells.jpg>]
+<Figures/Pretilt/Contact_angle/0.jpg, id=4873, 398.48875pt x 398.48875pt>
 File: Figures/Pretilt/Contact_angle/0.jpg Graphic file (type jpg)
 <use Figures/Pretilt/Contact_angle/0.jpg>
 Package pdftex.def Info: Figures/Pretilt/Contact_angle/0.jpg  used on input lin
 e 226.
 (pdftex.def)             Requested size: 51.7479pt x 51.74454pt.
-<Figures/Pretilt/Contact_angle/1.jpg, id=4878, 398.48875pt x 398.48875pt>
+<Figures/Pretilt/Contact_angle/1.jpg, id=4874, 398.48875pt x 398.48875pt>
 File: Figures/Pretilt/Contact_angle/1.jpg Graphic file (type jpg)
 <use Figures/Pretilt/Contact_angle/1.jpg>
 Package pdftex.def Info: Figures/Pretilt/Contact_angle/1.jpg  used on input lin
 e 227.
 (pdftex.def)             Requested size: 51.7479pt x 51.74454pt.
-<Figures/Pretilt/Contact_angle/2.jpg, id=4879, 398.48875pt x 398.48875pt>
+<Figures/Pretilt/Contact_angle/2.jpg, id=4875, 398.48875pt x 398.48875pt>
 File: Figures/Pretilt/Contact_angle/2.jpg Graphic file (type jpg)
 <use Figures/Pretilt/Contact_angle/2.jpg>
 Package pdftex.def Info: Figures/Pretilt/Contact_angle/2.jpg  used on input lin
 e 228.
 (pdftex.def)             Requested size: 51.7479pt x 51.74454pt.
-<Figures/Pretilt/Contact_angle/3.jpg, id=4880, 398.48875pt x 398.48875pt>
+<Figures/Pretilt/Contact_angle/3.jpg, id=4876, 398.48875pt x 398.48875pt>
 File: Figures/Pretilt/Contact_angle/3.jpg Graphic file (type jpg)
 <use Figures/Pretilt/Contact_angle/3.jpg>
 Package pdftex.def Info: Figures/Pretilt/Contact_angle/3.jpg  used on input lin
 e 229.
 (pdftex.def)             Requested size: 51.7479pt x 51.74454pt.
-<Figures/Pretilt/Contact_angle/fit.jpg, id=4881, 695.59875pt x 497.86pt>
+<Figures/Pretilt/Contact_angle/fit.jpg, id=4877, 695.59875pt x 497.86pt>
 File: Figures/Pretilt/Contact_angle/fit.jpg Graphic file (type jpg)
 <use Figures/Pretilt/Contact_angle/fit.jpg>
 Package pdftex.def Info: Figures/Pretilt/Contact_angle/fit.jpg  used on input l
 ine 230.
 (pdftex.def)             Requested size: 207.0021pt x 148.15126pt.
 
-[108] [109 <./figures/Pretilt/contact_angle/0.jpg> <./figures/Pretilt/contact_a
+[107] [108 <./figures/Pretilt/contact_angle/0.jpg> <./figures/Pretilt/contact_a
 ngle/1.jpg> <./figures/Pretilt/contact_angle/2.jpg> <./figures/Pretilt/contact_
 angle/3.jpg> <./figures/Pretilt/contact_angle/fit.jpg>]
-<Figures/Pretilt/owrk.pdf, id=4909, 538.01pt x 497.86pt>
+<Figures/Pretilt/owrk.pdf, id=4904, 538.01pt x 497.86pt>
 File: Figures/Pretilt/owrk.pdf Graphic file (type pdf)
 <use Figures/Pretilt/owrk.pdf>
 Package pdftex.def Info: Figures/Pretilt/owrk.pdf  used on input line 285.
 (pdftex.def)             Requested size: 224.2479pt x 207.51205pt.
- [110]
-<Figures/pretilt/glass_contact.pdf, id=4921, 454.69875pt x 454.69875pt>
+ [109]
+<Figures/pretilt/glass_contact.pdf, id=4917, 454.69875pt x 454.69875pt>
 File: Figures/pretilt/glass_contact.pdf Graphic file (type pdf)
 <use Figures/pretilt/glass_contact.pdf>
 Package pdftex.def Info: Figures/pretilt/glass_contact.pdf  used on input line 
 313.
 (pdftex.def)             Requested size: 169.0519pt x 169.0546pt.
-<Figures/pretilt/ito_contact.pdf, id=4922, 454.69875pt x 454.69875pt>
+<Figures/pretilt/ito_contact.pdf, id=4918, 454.69875pt x 454.69875pt>
 File: Figures/pretilt/ito_contact.pdf Graphic file (type pdf)
 <use Figures/pretilt/ito_contact.pdf>
 Package pdftex.def Info: Figures/pretilt/ito_contact.pdf  used on input line 31
 4.
 (pdftex.def)             Requested size: 169.0519pt x 169.0546pt.
-<Figures/pretilt/glass_energy.pdf, id=4923, 454.69875pt x 454.69875pt>
+<Figures/pretilt/glass_energy.pdf, id=4919, 454.69875pt x 454.69875pt>
 File: Figures/pretilt/glass_energy.pdf Graphic file (type pdf)
 <use Figures/pretilt/glass_energy.pdf>
 Package pdftex.def Info: Figures/pretilt/glass_energy.pdf  used on input line 3
 15.
 (pdftex.def)             Requested size: 169.0519pt x 169.0546pt.
-<Figures/pretilt/ito_energy.pdf, id=4924, 454.69875pt x 454.69875pt>
+<Figures/pretilt/ito_energy.pdf, id=4920, 454.69875pt x 454.69875pt>
 File: Figures/pretilt/ito_energy.pdf Graphic file (type pdf)
 <use Figures/pretilt/ito_energy.pdf>
 Package pdftex.def Info: Figures/pretilt/ito_energy.pdf  used on input line 316
 .
 (pdftex.def)             Requested size: 169.0519pt x 169.0546pt.
- [111 <./figures/Pretilt/owrk.pdf>] [112]
-<Figures/Pretilt/double_polyimide.pdf, id=4956, 451.6875pt x 451.6875pt>
+ [110 <./figures/Pretilt/owrk.pdf>] [111 <./figures/Pretilt/glass_contact.pdf> 
+<./figures/Pretilt/ito_contact.pdf> <./figures/Pretilt/glass_energy.pdf> <./fig
+ures/Pretilt/ito_energy.pdf>] [112]
+<Figures/Pretilt/double_polyimide.pdf, id=5041, 451.6875pt x 451.6875pt>
 File: Figures/Pretilt/double_polyimide.pdf Graphic file (type pdf)
 <use Figures/Pretilt/double_polyimide.pdf>
 Package pdftex.def Info: Figures/Pretilt/double_polyimide.pdf  used on input li
 ne 337.
 (pdftex.def)             Requested size: 224.2479pt x 224.25108pt.
-<Figures/Pretilt/double_polyimide_5cb.pdf, id=4959, 454.69875pt x 454.69875pt>
+ [113 <./figures/Pretilt/double_polyimide.pdf>]
+<Figures/Pretilt/double_polyimide_5cb.pdf, id=5064, 454.69875pt x 454.69875pt>
 File: Figures/Pretilt/double_polyimide_5cb.pdf Graphic file (type pdf)
 <use Figures/Pretilt/double_polyimide_5cb.pdf>
 Package pdftex.def Info: Figures/Pretilt/double_polyimide_5cb.pdf  used on inpu
 t line 346.
 (pdftex.def)             Requested size: 224.2479pt x 224.24747pt.
- [113]) [114] [115 <./figures/Pretilt/glass_contact.pdf> <./figures/Pretilt/ito
-_contact.pdf> <./figures/Pretilt/glass_energy.pdf> <./figures/Pretilt/ito_energ
-y.pdf>] [116 <./figures/Pretilt/double_polyimide.pdf> <./figures/Pretilt/double
-_polyimide_5cb.pdf>]
+ [114 <./figures/Pretilt/double_polyimide_5cb.pdf>]) [115]
 \openout2 = `diode/diode.aux'.
 
  (./diode/diode.tex
 Chapter 7.
-[117
+[116
 
 
 
 ]
-<Figures/Diode/schematic_diode.pdf, id=5104, 1363.49402pt x 764.45598pt>
+<Figures/Diode/schematic_diode.pdf, id=5100, 1363.49402pt x 764.45598pt>
 File: Figures/Diode/schematic_diode.pdf Graphic file (type pdf)
 <use Figures/Diode/schematic_diode.pdf>
 Package pdftex.def Info: Figures/Diode/schematic_diode.pdf  used on input line 
 19.
 (pdftex.def)             Requested size: 241.49895pt x 135.39151pt.
- [118 <./figures/Diode/schematic_diode.pdf>]
-<Figures/Diode/case.jpg, id=5116, 1357.07pt x 1029.8475pt>
+ [117 <./figures/Diode/schematic_diode.pdf>]
+<Figures/Diode/case.jpg, id=5112, 1357.07pt x 1029.8475pt>
 File: Figures/Diode/case.jpg Graphic file (type jpg)
 <use Figures/Diode/case.jpg>
 Package pdftex.def Info: Figures/Diode/case.jpg  used on input line 33.
 (pdftex.def)             Requested size: 172.5pt x 130.89917pt.
-<Figures/Diode/case_cell_annotated.png, id=5117, 380.622pt x 274.626pt>
+<Figures/Diode/case_cell_annotated.png, id=5113, 380.622pt x 274.626pt>
 File: Figures/Diode/case_cell_annotated.png Graphic file (type png)
 <use Figures/Diode/case_cell_annotated.png>
 Package pdftex.def Info: Figures/Diode/case_cell_annotated.png  used on input l
 ine 34.
 (pdftex.def)             Requested size: 241.49895pt x 174.24728pt.
- [119]
-<Figures/Diode/valve1pdf.pdf, id=5131, 1176.27995pt x 1646.79425pt>
+ [118]
+<Figures/Diode/valve1pdf.pdf, id=5127, 1176.27995pt x 1646.79425pt>
 File: Figures/Diode/valve1pdf.pdf Graphic file (type pdf)
 <use Figures/Diode/valve1pdf.pdf>
 Package pdftex.def Info: Figures/Diode/valve1pdf.pdf  used on input line 46.
 (pdftex.def)             Requested size: 165.59853pt x 231.83115pt.
-<Figures/Diode/valve2pdf.pdf, id=5132, 1167.46123pt x 1646.79425pt>
+<Figures/Diode/valve2pdf.pdf, id=5128, 1167.46123pt x 1646.79425pt>
 File: Figures/Diode/valve2pdf.pdf Graphic file (type pdf)
 <use Figures/Diode/valve2pdf.pdf>
 Package pdftex.def Info: Figures/Diode/valve2pdf.pdf  used on input line 47.
 (pdftex.def)             Requested size: 165.59853pt x 233.59012pt.
-<Figures/Diode/heat_box_perspective.pdf, id=5134, 579.18079pt x 447.66588pt>
+<Figures/Diode/heat_box_perspective.pdf, id=5130, 579.18079pt x 447.66588pt>
 File: Figures/Diode/heat_box_perspective.pdf Graphic file (type pdf)
 <use Figures/Diode/heat_box_perspective.pdf>
 Package pdftex.def Info: Figures/Diode/heat_box_perspective.pdf  used on input 
 line 59.
 (pdftex.def)             Requested size: 276.00105pt x 213.3334pt.
-<Figures/Diode/open_box.jpg, id=5139, 1926.19624pt x 1424.32124pt>
+<Figures/Diode/open_box.jpg, id=5135, 1926.19624pt x 1424.32124pt>
 File: Figures/Diode/open_box.jpg Graphic file (type jpg)
 <use Figures/Diode/open_box.jpg>
 Package pdftex.def Info: Figures/Diode/open_box.jpg  used on input line 68.
 (pdftex.def)             Requested size: 207.0021pt x 153.04634pt.
-<Figures/Diode/closed_box.jpg, id=5140, 1875.005pt x 1406.25375pt>
+<Figures/Diode/closed_box.jpg, id=5136, 1875.005pt x 1406.25375pt>
 File: Figures/Diode/closed_box.jpg Graphic file (type jpg)
 <use Figures/Diode/closed_box.jpg>
 Package pdftex.def Info: Figures/Diode/closed_box.jpg  used on input line 69.
 (pdftex.def)             Requested size: 207.0021pt x 155.24629pt.
- [120]
+ [119]
 Overfull \hbox (7.82687pt too wide) in paragraph at lines 81--82
 \OT1/cmr/m/n/10 the den-sity of the liq-uid crys-tal and $\OML/cmm/m/it/10 g$ \
 OT1/cmr/m/n/10 is ac-cel-er-a-tion due to grav-ity $[]$.
  []
 
-[121]
-<Figures/Diode/first_diode/small_graphs1.pdf, id=5160, 454.69875pt x 454.69875p
+[120]
+<Figures/Diode/first_diode/small_graphs1.pdf, id=5155, 454.69875pt x 454.69875p
 t>
 File: Figures/Diode/first_diode/small_graphs1.pdf Graphic file (type pdf)
 <use Figures/Diode/first_diode/small_graphs1.pdf>
 Package pdftex.def Info: Figures/Diode/first_diode/small_graphs1.pdf  used on i
 nput line 108.
 (pdftex.def)             Requested size: 169.0519pt x 169.0546pt.
-<Figures/Diode/first_diode/small_graphs2.pdf, id=5161, 454.69875pt x 454.69875p
+<Figures/Diode/first_diode/small_graphs2.pdf, id=5156, 454.69875pt x 454.69875p
 t>
 File: Figures/Diode/first_diode/small_graphs2.pdf Graphic file (type pdf)
 <use Figures/Diode/first_diode/small_graphs2.pdf>
 Package pdftex.def Info: Figures/Diode/first_diode/small_graphs2.pdf  used on i
 nput line 109.
 (pdftex.def)             Requested size: 169.0519pt x 169.0546pt.
-<Figures/Diode/first_diode/small_graphs3.pdf, id=5162, 454.69875pt x 454.69875p
+<Figures/Diode/first_diode/small_graphs3.pdf, id=5157, 454.69875pt x 454.69875p
 t>
 File: Figures/Diode/first_diode/small_graphs3.pdf Graphic file (type pdf)
 <use Figures/Diode/first_diode/small_graphs3.pdf>
 Package pdftex.def Info: Figures/Diode/first_diode/small_graphs3.pdf  used on i
 nput line 110.
 (pdftex.def)             Requested size: 169.0519pt x 169.0546pt.
-<Figures/Diode/first_diode/small_graphs4.pdf, id=5163, 454.69875pt x 454.69875p
+<Figures/Diode/first_diode/small_graphs4.pdf, id=5158, 454.69875pt x 454.69875p
 t>
 File: Figures/Diode/first_diode/small_graphs4.pdf Graphic file (type pdf)
 <use Figures/Diode/first_diode/small_graphs4.pdf>
 Package pdftex.def Info: Figures/Diode/first_diode/small_graphs4.pdf  used on i
 nput line 111.
 (pdftex.def)             Requested size: 169.0519pt x 169.0546pt.
- [122]
-<Figures/Diode/first_diode/difference.pdf, id=5176, 454.69875pt x 454.69875pt>
+ [121]
+<Figures/Diode/first_diode/difference.pdf, id=5172, 454.69875pt x 454.69875pt>
 File: Figures/Diode/first_diode/difference.pdf Graphic file (type pdf)
 <use Figures/Diode/first_diode/difference.pdf>
 Package pdftex.def Info: Figures/Diode/first_diode/difference.pdf  used on inpu
 t line 122.
 (pdftex.def)             Requested size: 276.00105pt x 276.00595pt.
-<Figures/Diode/second_diode/small_graphs1.pdf, id=5182, 454.69875pt x 454.69875
+<Figures/Diode/second_diode/small_graphs1.pdf, id=5178, 454.69875pt x 454.69875
 pt>
 File: Figures/Diode/second_diode/small_graphs1.pdf Graphic file (type pdf)
 <use Figures/Diode/second_diode/small_graphs1.pdf>
 Package pdftex.def Info: Figures/Diode/second_diode/small_graphs1.pdf  used on 
 input line 137.
 (pdftex.def)             Requested size: 169.0519pt x 169.0546pt.
-<Figures/Diode/second_diode/small_graphs2.pdf, id=5183, 454.69875pt x 454.69875
+<Figures/Diode/second_diode/small_graphs2.pdf, id=5179, 454.69875pt x 454.69875
 pt>
 File: Figures/Diode/second_diode/small_graphs2.pdf Graphic file (type pdf)
 <use Figures/Diode/second_diode/small_graphs2.pdf>
 Package pdftex.def Info: Figures/Diode/second_diode/small_graphs2.pdf  used on 
 input line 138.
 (pdftex.def)             Requested size: 169.0519pt x 169.0546pt.
-<Figures/Diode/second_diode/small_graphs3.pdf, id=5184, 454.69875pt x 454.69875
+<Figures/Diode/second_diode/small_graphs3.pdf, id=5180, 454.69875pt x 454.69875
 pt>
 File: Figures/Diode/second_diode/small_graphs3.pdf Graphic file (type pdf)
 <use Figures/Diode/second_diode/small_graphs3.pdf>
 Package pdftex.def Info: Figures/Diode/second_diode/small_graphs3.pdf  used on 
 input line 139.
 (pdftex.def)             Requested size: 169.0519pt x 169.0546pt.
-<Figures/Diode/second_diode/small_graphs4.pdf, id=5185, 454.69875pt x 454.69875
+<Figures/Diode/second_diode/small_graphs4.pdf, id=5181, 454.69875pt x 454.69875
 pt>
 File: Figures/Diode/second_diode/small_graphs4.pdf Graphic file (type pdf)
 <use Figures/Diode/second_diode/small_graphs4.pdf>
 Package pdftex.def Info: Figures/Diode/second_diode/small_graphs4.pdf  used on 
 input line 140.
 (pdftex.def)             Requested size: 169.0519pt x 169.0546pt.
- [123]
-<Figures/Diode/second_diode/left_to_right.pdf, id=5192, 454.69875pt x 454.69875
+ [122]
+<Figures/Diode/second_diode/left_to_right.pdf, id=5188, 454.69875pt x 454.69875
 pt>
 File: Figures/Diode/second_diode/left_to_right.pdf Graphic file (type pdf)
 <use Figures/Diode/second_diode/left_to_right.pdf>
 Package pdftex.def Info: Figures/Diode/second_diode/left_to_right.pdf  used on 
 input line 149.
 (pdftex.def)             Requested size: 207.0021pt x 207.0062pt.
-<Figures/Diode/second_diode/right_to_left.pdf, id=5193, 454.69875pt x 454.69875
+<Figures/Diode/second_diode/right_to_left.pdf, id=5189, 454.69875pt x 454.69875
 pt>
 File: Figures/Diode/second_diode/right_to_left.pdf Graphic file (type pdf)
 <use Figures/Diode/second_diode/right_to_left.pdf>
 Package pdftex.def Info: Figures/Diode/second_diode/right_to_left.pdf  used on 
 input line 150.
 (pdftex.def)             Requested size: 207.0021pt x 207.0062pt.
-<Figures/Diode/second_diode/diff.pdf, id=5197, 454.69875pt x 454.69875pt>
+<Figures/Diode/second_diode/diff.pdf, id=5193, 454.69875pt x 454.69875pt>
 File: Figures/Diode/second_diode/diff.pdf Graphic file (type pdf)
 <use Figures/Diode/second_diode/diff.pdf>
 Package pdftex.def Info: Figures/Diode/second_diode/diff.pdf  used on input lin
 e 159.
 (pdftex.def)             Requested size: 241.49895pt x 241.50261pt.
- [124]
-<Figures/Diode/second_diode/isotropic/check_same_as_before.pdf, id=5217, 454.69
+ [123]
+<Figures/Diode/second_diode/isotropic/check_same_as_before.pdf, id=5213, 454.69
 875pt x 454.69875pt>
 File: Figures/Diode/second_diode/isotropic/check_same_as_before.pdf Graphic fil
 e (type pdf)
@@ -2683,23 +2683,23 @@ e (type pdf)
 Package pdftex.def Info: Figures/Diode/second_diode/isotropic/check_same_as_bef
 ore.pdf  used on input line 177.
 (pdftex.def)             Requested size: 241.49895pt x 241.50261pt.
- [125]
-<Figures/Diode/second_diode/isotropic/30.pdf, id=5237, 454.69875pt x 454.69875p
+ [124]
+<Figures/Diode/second_diode/isotropic/30.pdf, id=5233, 454.69875pt x 454.69875p
 t>
 File: Figures/Diode/second_diode/isotropic/30.pdf Graphic file (type pdf)
 <use Figures/Diode/second_diode/isotropic/30.pdf>
 Package pdftex.def Info: Figures/Diode/second_diode/isotropic/30.pdf  used on i
 nput line 191.
 (pdftex.def)             Requested size: 207.0021pt x 207.0062pt.
-<Figures/Diode/second_diode/isotropic/30_temp.pdf, id=5238, 454.69875pt x 454.6
+<Figures/Diode/second_diode/isotropic/30_temp.pdf, id=5234, 454.69875pt x 454.6
 9875pt>
 File: Figures/Diode/second_diode/isotropic/30_temp.pdf Graphic file (type pdf)
 <use Figures/Diode/second_diode/isotropic/30_temp.pdf>
 Package pdftex.def Info: Figures/Diode/second_diode/isotropic/30_temp.pdf  used
  on input line 192.
 (pdftex.def)             Requested size: 207.0021pt x 207.0062pt.
- [126]
-<Figures/Diode/second_diode/isotropic/left_to_right.pdf, id=5254, 454.69875pt x
+ [125]
+<Figures/Diode/second_diode/isotropic/left_to_right.pdf, id=5250, 454.69875pt x
  454.69875pt>
 File: Figures/Diode/second_diode/isotropic/left_to_right.pdf Graphic file (type
  pdf)
@@ -2707,7 +2707,7 @@ File: Figures/Diode/second_diode/isotropic/left_to_right.pdf Graphic file (type
 Package pdftex.def Info: Figures/Diode/second_diode/isotropic/left_to_right.pdf
   used on input line 209.
 (pdftex.def)             Requested size: 207.0021pt x 207.0062pt.
-<Figures/Diode/second_diode/isotropic/left_to_right_temp.pdf, id=5255, 454.6987
+<Figures/Diode/second_diode/isotropic/left_to_right_temp.pdf, id=5251, 454.6987
 5pt x 454.69875pt>
 File: Figures/Diode/second_diode/isotropic/left_to_right_temp.pdf Graphic file 
 (type pdf)
@@ -2715,8 +2715,8 @@ File: Figures/Diode/second_diode/isotropic/left_to_right_temp.pdf Graphic file
 Package pdftex.def Info: Figures/Diode/second_diode/isotropic/left_to_right_tem
 p.pdf  used on input line 210.
 (pdftex.def)             Requested size: 207.0021pt x 207.0062pt.
- [127]
-<Figures/Diode/second_diode/isotropic/right_to_left.pdf, id=5261, 454.69875pt x
+ [126]
+<Figures/Diode/second_diode/isotropic/right_to_left.pdf, id=5256, 454.69875pt x
  454.69875pt>
 File: Figures/Diode/second_diode/isotropic/right_to_left.pdf Graphic file (type
  pdf)
@@ -2724,7 +2724,7 @@ File: Figures/Diode/second_diode/isotropic/right_to_left.pdf Graphic file (type
 Package pdftex.def Info: Figures/Diode/second_diode/isotropic/right_to_left.pdf
   used on input line 217.
 (pdftex.def)             Requested size: 207.0021pt x 207.0062pt.
-<Figures/Diode/second_diode/isotropic/right_to_left_temp.pdf, id=5262, 454.6987
+<Figures/Diode/second_diode/isotropic/right_to_left_temp.pdf, id=5257, 454.6987
 5pt x 454.69875pt>
 File: Figures/Diode/second_diode/isotropic/right_to_left_temp.pdf Graphic file 
 (type pdf)
@@ -2732,7 +2732,7 @@ File: Figures/Diode/second_diode/isotropic/right_to_left_temp.pdf Graphic file
 Package pdftex.def Info: Figures/Diode/second_diode/isotropic/right_to_left_tem
 p.pdf  used on input line 218.
 (pdftex.def)             Requested size: 207.0021pt x 207.0062pt.
-<Figures/Diode/second_diode/isotropic/iso_diff.pdf, id=5267, 454.69875pt x 454.
+<Figures/Diode/second_diode/isotropic/iso_diff.pdf, id=5262, 454.69875pt x 454.
 69875pt>
 File: Figures/Diode/second_diode/isotropic/iso_diff.pdf Graphic file (type pdf)
 
@@ -2740,8 +2740,8 @@ File: Figures/Diode/second_diode/isotropic/iso_diff.pdf Graphic file (type pdf)
 Package pdftex.def Info: Figures/Diode/second_diode/isotropic/iso_diff.pdf  use
 d on input line 227.
 (pdftex.def)             Requested size: 241.49895pt x 241.50261pt.
- [128]
-<Figures/Diode/second_diode/conoscopy/vertical_middle/1.jpg, id=5285, 167.62625
+ [127]
+<Figures/Diode/second_diode/conoscopy/vertical_middle/1.jpg, id=5281, 167.62625
 pt x 166.6225pt>
 File: Figures/Diode/second_diode/conoscopy/vertical_middle/1.jpg Graphic file (
 type jpg)
@@ -2749,7 +2749,7 @@ type jpg)
 Package pdftex.def Info: Figures/Diode/second_diode/conoscopy/vertical_middle/1
 .jpg  used on input line 250.
 (pdftex.def)             Requested size: 68.99895pt x 68.58516pt.
-<Figures/Diode/second_diode/conoscopy/vertical_middle/4.jpg, id=5286, 171.64125
+<Figures/Diode/second_diode/conoscopy/vertical_middle/4.jpg, id=5282, 171.64125
 pt x 171.64125pt>
 File: Figures/Diode/second_diode/conoscopy/vertical_middle/4.jpg Graphic file (
 type jpg)
@@ -2757,7 +2757,7 @@ type jpg)
 Package pdftex.def Info: Figures/Diode/second_diode/conoscopy/vertical_middle/4
 .jpg  used on input line 251.
 (pdftex.def)             Requested size: 68.99895pt x 68.99837pt.
-<Figures/Diode/second_diode/conoscopy/vertical_middle/7.jpg, id=5287, 178.6675p
+<Figures/Diode/second_diode/conoscopy/vertical_middle/7.jpg, id=5283, 178.6675p
 t x 178.6675pt>
 File: Figures/Diode/second_diode/conoscopy/vertical_middle/7.jpg Graphic file (
 type jpg)
@@ -2765,7 +2765,7 @@ type jpg)
 Package pdftex.def Info: Figures/Diode/second_diode/conoscopy/vertical_middle/7
 .jpg  used on input line 252.
 (pdftex.def)             Requested size: 68.99895pt x 68.99847pt.
-<Figures/Diode/second_diode/conoscopy/vertical_middle/a.pdf, id=5288, 267.8256p
+<Figures/Diode/second_diode/conoscopy/vertical_middle/a.pdf, id=5284, 267.8256p
 t x 694.41936pt>
 File: Figures/Diode/second_diode/conoscopy/vertical_middle/a.pdf Graphic file (
 type pdf)
@@ -2773,7 +2773,7 @@ type pdf)
 Package pdftex.def Info: Figures/Diode/second_diode/conoscopy/vertical_middle/a
 .pdf  used on input line 253.
 (pdftex.def)             Requested size: 48.29979pt x 125.22319pt.
-<Figures/Diode/second_diode/conoscopy/vertical_middle/b.pdf, id=5289, 267.8256p
+<Figures/Diode/second_diode/conoscopy/vertical_middle/b.pdf, id=5285, 267.8256p
 t x 694.44441pt>
 File: Figures/Diode/second_diode/conoscopy/vertical_middle/b.pdf Graphic file (
 type pdf)
@@ -2781,7 +2781,7 @@ type pdf)
 Package pdftex.def Info: Figures/Diode/second_diode/conoscopy/vertical_middle/b
 .pdf  used on input line 254.
 (pdftex.def)             Requested size: 48.29979pt x 125.22772pt.
-<Figures/Diode/second_diode/conoscopy/vertical_middle/c.pdf, id=5290, 267.8507p
+<Figures/Diode/second_diode/conoscopy/vertical_middle/c.pdf, id=5286, 267.8507p
 t x 694.44441pt>
 File: Figures/Diode/second_diode/conoscopy/vertical_middle/c.pdf Graphic file (
 type pdf)
@@ -2789,8 +2789,8 @@ type pdf)
 Package pdftex.def Info: Figures/Diode/second_diode/conoscopy/vertical_middle/c
 .pdf  used on input line 255.
 (pdftex.def)             Requested size: 48.29979pt x 125.21712pt.
- [129]
-<Figures/Diode/second_diode/conoscopy/planar_middle/1.jpg, id=5296, 155.58125pt
+ [128]
+<Figures/Diode/second_diode/conoscopy/planar_middle/1.jpg, id=5292, 155.58125pt
  x 154.5775pt>
 File: Figures/Diode/second_diode/conoscopy/planar_middle/1.jpg Graphic file (ty
 pe jpg)
@@ -2798,7 +2798,7 @@ pe jpg)
 Package pdftex.def Info: Figures/Diode/second_diode/conoscopy/planar_middle/1.j
 pg  used on input line 265.
 (pdftex.def)             Requested size: 68.99895pt x 68.55443pt.
-<Figures/Diode/second_diode/conoscopy/planar_middle/4.jpg, id=5297, 149.55875pt
+<Figures/Diode/second_diode/conoscopy/planar_middle/4.jpg, id=5293, 149.55875pt
  x 148.555pt>
 File: Figures/Diode/second_diode/conoscopy/planar_middle/4.jpg Graphic file (ty
 pe jpg)
@@ -2806,7 +2806,7 @@ pe jpg)
 Package pdftex.def Info: Figures/Diode/second_diode/conoscopy/planar_middle/4.j
 pg  used on input line 266.
 (pdftex.def)             Requested size: 68.99895pt x 68.5356pt.
-<Figures/Diode/second_diode/conoscopy/planar_middle/7.jpg, id=5298, 148.555pt x
+<Figures/Diode/second_diode/conoscopy/planar_middle/7.jpg, id=5294, 148.555pt x
  148.555pt>
 File: Figures/Diode/second_diode/conoscopy/planar_middle/7.jpg Graphic file (ty
 pe jpg)
@@ -2814,7 +2814,7 @@ pe jpg)
 Package pdftex.def Info: Figures/Diode/second_diode/conoscopy/planar_middle/7.j
 pg  used on input line 267.
 (pdftex.def)             Requested size: 68.99895pt x 69.00027pt.
-<Figures/Diode/second_diode/conoscopy/planar_middle/a.pdf, id=5299, 267.8256pt 
+<Figures/Diode/second_diode/conoscopy/planar_middle/a.pdf, id=5295, 267.8256pt 
 x 694.41936pt>
 File: Figures/Diode/second_diode/conoscopy/planar_middle/a.pdf Graphic file (ty
 pe pdf)
@@ -2822,7 +2822,7 @@ pe pdf)
 Package pdftex.def Info: Figures/Diode/second_diode/conoscopy/planar_middle/a.p
 df  used on input line 268.
 (pdftex.def)             Requested size: 48.29979pt x 125.22319pt.
-<Figures/Diode/second_diode/conoscopy/planar_middle/b.pdf, id=5300, 267.8507pt 
+<Figures/Diode/second_diode/conoscopy/planar_middle/b.pdf, id=5296, 267.8507pt 
 x 694.41936pt>
 File: Figures/Diode/second_diode/conoscopy/planar_middle/b.pdf Graphic file (ty
 pe pdf)
@@ -2830,7 +2830,7 @@ pe pdf)
 Package pdftex.def Info: Figures/Diode/second_diode/conoscopy/planar_middle/b.p
 df  used on input line 269.
 (pdftex.def)             Requested size: 48.29979pt x 125.2126pt.
-<Figures/Diode/second_diode/conoscopy/planar_middle/c.pdf, id=5301, 267.8256pt 
+<Figures/Diode/second_diode/conoscopy/planar_middle/c.pdf, id=5297, 267.8256pt 
 x 694.41936pt>
 File: Figures/Diode/second_diode/conoscopy/planar_middle/c.pdf Graphic file (ty
 pe pdf)
@@ -2838,139 +2838,139 @@ pe pdf)
 Package pdftex.def Info: Figures/Diode/second_diode/conoscopy/planar_middle/c.p
 df  used on input line 270.
 (pdftex.def)             Requested size: 48.29979pt x 125.22319pt.
- [130]
-<Figures/Diode/second_diode/conoscopy/data_1.jpg, id=5313, 237.88875pt x 237.88
+ [129]
+<Figures/Diode/second_diode/conoscopy/data_1.jpg, id=5309, 237.88875pt x 237.88
 875pt>
 File: Figures/Diode/second_diode/conoscopy/data_1.jpg Graphic file (type jpg)
 <use Figures/Diode/second_diode/conoscopy/data_1.jpg>
 Package pdftex.def Info: Figures/Diode/second_diode/conoscopy/data_1.jpg  used 
 on input line 286.
 (pdftex.def)             Requested size: 68.99895pt x 69.00047pt.
-<Figures/Diode/second_diode/conoscopy/data_2.jpg, id=5314, 238.8925pt x 237.888
+<Figures/Diode/second_diode/conoscopy/data_2.jpg, id=5310, 238.8925pt x 237.888
 75pt>
 File: Figures/Diode/second_diode/conoscopy/data_2.jpg Graphic file (type jpg)
 <use Figures/Diode/second_diode/conoscopy/data_2.jpg>
 Package pdftex.def Info: Figures/Diode/second_diode/conoscopy/data_2.jpg  used 
 on input line 287.
 (pdftex.def)             Requested size: 68.99895pt x 68.70645pt.
-<Figures/Diode/second_diode/conoscopy/model_1.jpg, id=5315, 419.5675pt x 421.57
+<Figures/Diode/second_diode/conoscopy/model_1.jpg, id=5311, 419.5675pt x 421.57
 5pt>
 File: Figures/Diode/second_diode/conoscopy/model_1.jpg Graphic file (type jpg)
 <use Figures/Diode/second_diode/conoscopy/model_1.jpg>
 Package pdftex.def Info: Figures/Diode/second_diode/conoscopy/model_1.jpg  used
  on input line 288.
 (pdftex.def)             Requested size: 68.99895pt x 69.32529pt.
-<Figures/Diode/second_diode/conoscopy/model_2.jpg, id=5316, 396.48125pt x 397.4
+<Figures/Diode/second_diode/conoscopy/model_2.jpg, id=5312, 396.48125pt x 397.4
 85pt>
 File: Figures/Diode/second_diode/conoscopy/model_2.jpg Graphic file (type jpg)
 <use Figures/Diode/second_diode/conoscopy/model_2.jpg>
 Package pdftex.def Info: Figures/Diode/second_diode/conoscopy/model_2.jpg  used
  on input line 289.
 (pdftex.def)             Requested size: 68.99895pt x 69.17274pt.
- [131]
-<Figures/diode/model/planar_tilt.pdf, id=5328, 505.89pt x 504.88625pt>
+ [130]
+<Figures/diode/model/planar_tilt.pdf, id=5324, 505.89pt x 504.88625pt>
 File: Figures/diode/model/planar_tilt.pdf Graphic file (type pdf)
 <use Figures/diode/model/planar_tilt.pdf>
 Package pdftex.def Info: Figures/diode/model/planar_tilt.pdf  used on input lin
 e 304.
 (pdftex.def)             Requested size: 169.0519pt x 168.71614pt.
-<Figures/diode/model/planar_velocity.pdf, id=5329, 505.89pt x 504.88625pt>
+<Figures/diode/model/planar_velocity.pdf, id=5325, 505.89pt x 504.88625pt>
 File: Figures/diode/model/planar_velocity.pdf Graphic file (type pdf)
 <use Figures/diode/model/planar_velocity.pdf>
 Package pdftex.def Info: Figures/diode/model/planar_velocity.pdf  used on input
  line 305.
 (pdftex.def)             Requested size: 169.0519pt x 168.71614pt.
-<Figures/diode/model/planar_flow1.pdf, id=5330, 505.89pt x 504.88625pt>
+<Figures/diode/model/planar_flow1.pdf, id=5326, 505.89pt x 504.88625pt>
 File: Figures/diode/model/planar_flow1.pdf Graphic file (type pdf)
 <use Figures/diode/model/planar_flow1.pdf>
 Package pdftex.def Info: Figures/diode/model/planar_flow1.pdf  used on input li
 ne 306.
 (pdftex.def)             Requested size: 169.0519pt x 168.71614pt.
- [132]
-<Figures/diode/model/homo_tilt.pdf, id=5345, 505.89pt x 504.88625pt>
+ [131]
+<Figures/diode/model/homo_tilt.pdf, id=5341, 505.89pt x 504.88625pt>
 File: Figures/diode/model/homo_tilt.pdf Graphic file (type pdf)
 <use Figures/diode/model/homo_tilt.pdf>
 Package pdftex.def Info: Figures/diode/model/homo_tilt.pdf  used on input line 
 318.
 (pdftex.def)             Requested size: 169.0519pt x 168.71614pt.
-<Figures/diode/model/homo_velocity.pdf, id=5346, 505.89pt x 504.88625pt>
+<Figures/diode/model/homo_velocity.pdf, id=5342, 505.89pt x 504.88625pt>
 File: Figures/diode/model/homo_velocity.pdf Graphic file (type pdf)
 <use Figures/diode/model/homo_velocity.pdf>
 Package pdftex.def Info: Figures/diode/model/homo_velocity.pdf  used on input l
 ine 319.
 (pdftex.def)             Requested size: 169.0519pt x 168.71614pt.
-<Figures/diode/model/homo_flow1.pdf, id=5347, 505.89pt x 504.88625pt>
+<Figures/diode/model/homo_flow1.pdf, id=5343, 505.89pt x 504.88625pt>
 File: Figures/diode/model/homo_flow1.pdf Graphic file (type pdf)
 <use Figures/diode/model/homo_flow1.pdf>
 Package pdftex.def Info: Figures/diode/model/homo_flow1.pdf  used on input line
  320.
 (pdftex.def)             Requested size: 169.0519pt x 168.71614pt.
-<Figures/diode/model/tilt_tilt.pdf, id=5349, 505.89pt x 504.88625pt>
+<Figures/diode/model/tilt_tilt.pdf, id=5345, 505.89pt x 504.88625pt>
 File: Figures/diode/model/tilt_tilt.pdf Graphic file (type pdf)
 <use Figures/diode/model/tilt_tilt.pdf>
 Package pdftex.def Info: Figures/diode/model/tilt_tilt.pdf  used on input line 
 330.
 (pdftex.def)             Requested size: 169.0519pt x 168.71614pt.
-<Figures/diode/model/tilt_velocity.pdf, id=5350, 505.89pt x 504.88625pt>
+<Figures/diode/model/tilt_velocity.pdf, id=5346, 505.89pt x 504.88625pt>
 File: Figures/diode/model/tilt_velocity.pdf Graphic file (type pdf)
 <use Figures/diode/model/tilt_velocity.pdf>
 Package pdftex.def Info: Figures/diode/model/tilt_velocity.pdf  used on input l
 ine 331.
 (pdftex.def)             Requested size: 169.0519pt x 168.71614pt.
-<Figures/diode/model/tilt_flow1.pdf, id=5351, 505.89pt x 504.88625pt>
+<Figures/diode/model/tilt_flow1.pdf, id=5347, 505.89pt x 504.88625pt>
 File: Figures/diode/model/tilt_flow1.pdf Graphic file (type pdf)
 <use Figures/diode/model/tilt_flow1.pdf>
 Package pdftex.def Info: Figures/diode/model/tilt_flow1.pdf  used on input line
  332.
 (pdftex.def)             Requested size: 169.0519pt x 168.71614pt.
 
-[133]
-<Figures/Diode/simulation_new_modeldata.pdf, id=5374, 505.89pt x 504.88625pt>
+[132]
+<Figures/Diode/simulation_new_modeldata.pdf, id=5368, 505.89pt x 504.88625pt>
 File: Figures/Diode/simulation_new_modeldata.pdf Graphic file (type pdf)
 <use Figures/Diode/simulation_new_modeldata.pdf>
 Package pdftex.def Info: Figures/Diode/simulation_new_modeldata.pdf  used on in
 put line 349.
 (pdftex.def)             Requested size: 207.0021pt x 206.59637pt.
-<Figures/Diode/simulation_new_tilt.pdf, id=5375, 505.89pt x 504.88625pt>
+<Figures/Diode/simulation_new_tilt.pdf, id=5369, 505.89pt x 504.88625pt>
 File: Figures/Diode/simulation_new_tilt.pdf Graphic file (type pdf)
 <use Figures/Diode/simulation_new_tilt.pdf>
 Package pdftex.def Info: Figures/Diode/simulation_new_tilt.pdf  used on input l
 ine 350.
 (pdftex.def)             Requested size: 207.0021pt x 206.59637pt.
- [134]
-<Figures/Diode/simulation_new_iso.pdf, id=5390, 505.89pt x 504.88625pt>
+ [133]
+<Figures/Diode/simulation_new_iso.pdf, id=5386, 505.89pt x 504.88625pt>
 File: Figures/Diode/simulation_new_iso.pdf Graphic file (type pdf)
 <use Figures/Diode/simulation_new_iso.pdf>
 Package pdftex.def Info: Figures/Diode/simulation_new_iso.pdf  used on input li
 ne 361.
 (pdftex.def)             Requested size: 207.0021pt x 206.59637pt.
-<Figures/Diode/easy_hard.pdf, id=5394, 1230.81192pt x 756.88062pt>
+<Figures/Diode/easy_hard.pdf, id=5390, 1230.81192pt x 756.88062pt>
 File: Figures/Diode/easy_hard.pdf Graphic file (type pdf)
 <use Figures/Diode/easy_hard.pdf>
 Package pdftex.def Info: Figures/Diode/easy_hard.pdf  used on input line 370.
 (pdftex.def)             Requested size: 172.5pt x 106.07805pt.
- [135]) [136] [137] [138 <./figures/Diode/case.jpg> <./figures/Diode/case_cell_
-annotated.png>] [139 <./figures/Diode/valve1pdf.pdf> <./figures/Diode/valve2pdf
+ [134]) [135] [136] [137 <./figures/Diode/case.jpg> <./figures/Diode/case_cell_
+annotated.png>] [138 <./figures/Diode/valve1pdf.pdf> <./figures/Diode/valve2pdf
 .pdf
 
 pdfTeX warning: pdflatex.exe (file ./figures/Diode/valve2pdf.pdf): PDF inclusio
 n: multiple pdfs with page group included in a single page
->] [140 <./figures/Diode/heat_box_perspective.pdf>] [141 <./figures/Diode/open_
-box.jpg> <./figures/Diode/closed_box.jpg>] [142 <./figures/Diode/first_diode/sm
+>] [139 <./figures/Diode/heat_box_perspective.pdf>] [140 <./figures/Diode/open_
+box.jpg> <./figures/Diode/closed_box.jpg>] [141 <./figures/Diode/first_diode/sm
 all_graphs1.pdf> <./figures/Diode/first_diode/small_graphs2.pdf> <./figures/Dio
 de/first_diode/small_graphs3.pdf> <./figures/Diode/first_diode/small_graphs4.pd
-f>] [143 <./figures/Diode/first_diode/difference.pdf>] [144 <./figures/Diode/se
+f>] [142 <./figures/Diode/first_diode/difference.pdf>] [143 <./figures/Diode/se
 cond_diode/small_graphs1.pdf> <./figures/Diode/second_diode/small_graphs2.pdf> 
 <./figures/Diode/second_diode/small_graphs3.pdf> <./figures/Diode/second_diode/
-small_graphs4.pdf>] [145 <./figures/Diode/second_diode/left_to_right.pdf> <./fi
-gures/Diode/second_diode/right_to_left.pdf>] [146 <./figures/Diode/second_diode
-/diff.pdf>] [147 <./figures/Diode/second_diode/isotropic/check_same_as_before.p
-df>] [148 <./figures/Diode/second_diode/isotropic/30.pdf> <./figures/Diode/seco
-nd_diode/isotropic/30_temp.pdf>] [149 <./figures/Diode/second_diode/isotropic/l
+small_graphs4.pdf>] [144 <./figures/Diode/second_diode/left_to_right.pdf> <./fi
+gures/Diode/second_diode/right_to_left.pdf>] [145 <./figures/Diode/second_diode
+/diff.pdf>] [146 <./figures/Diode/second_diode/isotropic/check_same_as_before.p
+df>] [147 <./figures/Diode/second_diode/isotropic/30.pdf> <./figures/Diode/seco
+nd_diode/isotropic/30_temp.pdf>] [148 <./figures/Diode/second_diode/isotropic/l
 eft_to_right.pdf> <./figures/Diode/second_diode/isotropic/left_to_right_temp.pd
-f>] [150 <./figures/Diode/second_diode/isotropic/right_to_left.pdf> <./figures/
-Diode/second_diode/isotropic/right_to_left_temp.pdf>] [151 <./figures/Diode/sec
-ond_diode/isotropic/iso_diff.pdf>] [152 <./figures/Diode/second_diode/conoscopy
+f>] [149 <./figures/Diode/second_diode/isotropic/right_to_left.pdf> <./figures/
+Diode/second_diode/isotropic/right_to_left_temp.pdf>] [150 <./figures/Diode/sec
+ond_diode/isotropic/iso_diff.pdf>] [151 <./figures/Diode/second_diode/conoscopy
 /vertical_middle/1.jpg> <./figures/Diode/second_diode/conoscopy/vertical_middle
 /4.jpg> <./figures/Diode/second_diode/conoscopy/vertical_middle/7.jpg> <./figur
 es/Diode/second_diode/conoscopy/vertical_middle/a.pdf> <./figures/Diode/second_
@@ -2984,7 +2984,7 @@ ingle page
 pdfTeX warning: pdflatex.exe (file ./figures/Diode/second_diode/conoscopy/verti
 cal_middle/c.pdf): PDF inclusion: multiple pdfs with page group included in a s
 ingle page
->] [153 <./figures/Diode/second_diode/conoscopy/planar_middle/1.jpg> <./figures
+>] [152 <./figures/Diode/second_diode/conoscopy/planar_middle/1.jpg> <./figures
 /Diode/second_diode/conoscopy/planar_middle/4.jpg> <./figures/Diode/second_diod
 e/conoscopy/planar_middle/7.jpg> <./figures/Diode/second_diode/conoscopy/planar
 _middle/a.pdf> <./figures/Diode/second_diode/conoscopy/planar_middle/b.pdf
@@ -2999,44 +2999,44 @@ r_middle/c.pdf): PDF inclusion: multiple pdfs with page group included in a sin
 gle page
 > <./figures/Diode/second_diode/conoscopy/data_1.jpg> <./figures/Diode/second_d
 iode/conoscopy/data_2.jpg> <./figures/Diode/second_diode/conoscopy/model_1.jpg>
- <./figures/Diode/second_diode/conoscopy/model_2.jpg>] [154 <./figures/Diode/mo
+ <./figures/Diode/second_diode/conoscopy/model_2.jpg>] [153 <./figures/Diode/mo
 del/planar_tilt.pdf> <./figures/Diode/model/planar_velocity.pdf> <./figures/Dio
-de/model/planar_flow1.pdf>] [155 <./figures/Diode/model/homo_tilt.pdf> <./figur
+de/model/planar_flow1.pdf>] [154 <./figures/Diode/model/homo_tilt.pdf> <./figur
 es/Diode/model/homo_velocity.pdf> <./figures/Diode/model/homo_flow1.pdf>]
-[156 <./figures/Diode/model/tilt_tilt.pdf> <./figures/Diode/model/tilt_velocity
-.pdf> <./figures/Diode/model/tilt_flow1.pdf>] [157 <./figures/Diode/simulation_
-new_modeldata.pdf> <./figures/Diode/simulation_new_tilt.pdf>] [158 <./figures/D
+[155 <./figures/Diode/model/tilt_tilt.pdf> <./figures/Diode/model/tilt_velocity
+.pdf> <./figures/Diode/model/tilt_flow1.pdf>] [156 <./figures/Diode/simulation_
+new_modeldata.pdf> <./figures/Diode/simulation_new_tilt.pdf>] [157 <./figures/D
 iode/simulation_new_iso.pdf> <./figures/Diode/easy_hard.pdf>]
 \openout2 = `conclusions/conclusions.aux'.
 
 
 (./conclusions/conclusions.tex
 Chapter 8.
-[159
+[158
 
 
 
-] [160] [161]) [162]
+] [159] [160]) [161]
 \openout2 = `publications/publications.aux'.
 
  (./publications/publications.tex
 Chapter 9.
-) [163
+) [162
 
 
 
-] (./Thesis.bbl [164
+] (./Thesis.bbl [163
 
 
-] [165] [166] [167] [168] [169] [170] [171] [172])
-[173]
-<figures/alex.jpg, id=6054, 1278.7775pt x 959.585pt>
+] [164] [165] [166] [167] [168] [169] [170] [171])
+[172]
+<figures/alex.jpg, id=6050, 1278.7775pt x 959.585pt>
 File: figures/alex.jpg Graphic file (type jpg)
 <use figures/alex.jpg>
 Package pdftex.def Info: figures/alex.jpg  used on input line 108.
 (pdftex.def)             Requested size: 172.5pt x 129.43588pt.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 118.
- [174 <./figures/alex.jpg>]
+ [173 <./figures/alex.jpg>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 118.
  (./Thesis.aux (./gumf/gumf.aux)
 (./introduction/introduction.aux) (./lc/lc.aux) (./theory/theory.aux)
@@ -3050,8 +3050,8 @@ Package rerunfilecheck Info: File `Thesis.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 118.
  ) 
 Here is how much of TeX's memory you used:
- 11573 strings out of 482530
- 232411 string characters out of 5949330
+ 11572 strings out of 482530
+ 232403 string characters out of 5949330
  465597 words of memory out of 5000000
  25841 multiletter control sequences out of 15000+600000
  548594 words of font info for 78 fonts, out of 8000000 for 9000
@@ -3096,10 +3096,10 @@ b><c:/Users/Chris/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmti9.pfb><c:/Users/Chris/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/p
 ublic/lm/lmr12.pfb><c:/Users/Chris/AppData/Roaming/TinyTeX/texmf-dist/fonts/typ
 e1/public/lm/lmri10.pfb>
-Output written on Thesis.pdf (192 pages, 30128338 bytes).
+Output written on Thesis.pdf (191 pages, 30128971 bytes).
 PDF statistics:
- 6354 PDF objects out of 7423 (max. 8388607)
- 4854 compressed objects within 49 object streams
- 902 named destinations out of 1000 (max. 500000)
+ 6350 PDF objects out of 7423 (max. 8388607)
+ 4851 compressed objects within 49 object streams
+ 901 named destinations out of 1000 (max. 500000)
  2580 words of extra memory for PDF output out of 10000 (max. 10000000)
 
