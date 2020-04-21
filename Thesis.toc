@@ -1,44 +1,119 @@
 \tocdepth@munge 
-\contentsline {section}{\numberline {}Contents}{i}{section*.3}%
+\contentsline {section}{\numberline {}Contents}{1}{section*.3}%
 \tocdepth@restore 
-\contentsline {section}{\numberline {I}Acknowledgements}{ii}{section*.4}%
-\contentsline {title}{Surface alignment control of nematodynamics}{i}{section*.2}%
-\contentsline {abstract}{Abstract}{i}{section*.1}%
-\contentsline {section}{\numberline {II}Introduction}{1}{section*.5}%
-\contentsline {subsection}{\numberline {A}Thesis outline}{1}{section*.6}%
-\contentsline {section}{\numberline {III}The Liquid Crystalline phase of matter}{3}{section*.7}%
-\contentsline {subsection}{\numberline {A}Thermotropic liquid crystals}{3}{section*.8}%
-\contentsline {subsection}{\numberline {B}Nematic liquid crystals}{3}{section*.9}%
-\contentsline {subsection}{\numberline {C}Nematic Order}{4}{section*.10}%
-\contentsline {subsection}{\numberline {D}Optical Anisotropy}{4}{section*.11}%
-\contentsline {subsection}{\numberline {E}Dielectric Anisotropy}{5}{section*.12}%
-\contentsline {subsection}{\numberline {F}Elastic Constants and Free Energy}{5}{section*.13}%
-\contentsline {subsection}{\numberline {G}Surface alignment}{5}{section*.14}%
-\contentsline {section}{\numberline {IV}Theory / Methods}{7}{section*.16}%
-\contentsline {subsection}{\numberline {A}Introduction}{7}{section*.17}%
-\contentsline {subsection}{\numberline {B}Background}{7}{section*.18}%
-\contentsline {subsection}{\numberline {C}Constitutive equations and the Leslie viscosities}{7}{section*.19}%
-\contentsline {subsection}{\numberline {D}Comments and Constraints on the Leslie viscosities}{8}{section*.20}%
-\contentsline {subsection}{\numberline {E}The Parodi relation}{9}{section*.21}%
-\contentsline {subsection}{\numberline {F}Flow-alignment (``logs in rivers'')}{9}{section*.22}%
-\contentsline {subsection}{\numberline {G}Simplified flow-alignment}{10}{section*.23}%
-\contentsline {subsection}{\numberline {H}A 1-D numerical model of liquid crystal dynamics}{12}{section*.24}%
-\contentsline {subsubsection}{\numberline {1}Assumptions}{12}{section*.25}%
-\contentsline {subsection}{\numberline {I}The Leslie-Ericksen equations}{12}{section*.26}%
-\contentsline {subsection}{\numberline {J}Twist}{12}{section*.27}%
-\contentsline {subsection}{\numberline {K}Tilt}{13}{section*.28}%
-\contentsline {subsection}{\numberline {L}Flow field}{13}{section*.29}%
-\contentsline {subsection}{\numberline {M}Conoscopy}{14}{section*.30}%
-\contentsline {subsection}{\numberline {N}Simulation}{14}{section*.31}%
-\contentsline {subsection}{\numberline {O}Experimental}{15}{section*.32}%
-\contentsline {subsection}{\numberline {P}Planar alignment - rotating the cell}{16}{section*.33}%
-\contentsline {subsection}{\numberline {Q}Planar alignment - rotating the polarisers}{16}{section*.34}%
-\contentsline {subsection}{\numberline {R}Planar alignment - thickness variation}{17}{section*.35}%
-\contentsline {subsection}{\numberline {S}Vertical alignment}{18}{section*.36}%
-\contentsline {subsection}{\numberline {T}Polarisers crossed and parallel}{18}{section*.37}%
-\contentsline {subsection}{\numberline {U}Tracking conoscopic figure alignment}{18}{section*.38}%
-\contentsline {subsection}{\numberline {V}Cell fabrication}{19}{section*.39}%
-\contentsline {subsection}{\numberline {W}Microscope slide preparation}{19}{section*.40}%
-\contentsline {subsection}{\numberline {X}Cell construction}{20}{section*.41}%
-\contentsline {section}{\numberline {}References}{23}{section*.42}%
-\contentsline {section}{\numberline {V}Alex}{24}{section*.43}%
+\contentsline {section}{\numberline {I}Acknowledgements}{2}{section*.4}%
+\contentsline {title}{Surface alignment control of nematodynamics}{1}{section*.2}%
+\contentsline {abstract}{Abstract}{1}{section*.1}%
+\contentsline {section}{\numberline {II}Introduction}{5}{section*.5}%
+\contentsline {subsection}{\numberline {A}Thesis outline}{5}{section*.6}%
+\contentsline {section}{\numberline {III}The Liquid Crystalline phase of matter}{7}{section*.7}%
+\contentsline {subsection}{\numberline {A}Thermotropic liquid crystals}{7}{section*.8}%
+\contentsline {subsection}{\numberline {B}Nematic liquid crystals}{7}{section*.9}%
+\contentsline {subsection}{\numberline {C}Nematic Order}{8}{section*.10}%
+\contentsline {subsection}{\numberline {D}Optical Anisotropy}{8}{section*.11}%
+\contentsline {subsection}{\numberline {E}Dielectric Anisotropy}{9}{section*.12}%
+\contentsline {subsection}{\numberline {F}Elastic Constants and Free Energy}{9}{section*.13}%
+\contentsline {subsection}{\numberline {G}Surface alignment}{9}{section*.14}%
+\contentsline {section}{\numberline {IV}Theory / Methods}{11}{section*.16}%
+\contentsline {subsection}{\numberline {A}Introduction}{11}{section*.17}%
+\contentsline {subsection}{\numberline {B}Background}{11}{section*.18}%
+\contentsline {subsection}{\numberline {C}Constitutive equations and the Leslie viscosities}{11}{section*.19}%
+\contentsline {subsection}{\numberline {D}Comments and Constraints on the Leslie viscosities}{12}{section*.20}%
+\contentsline {subsection}{\numberline {E}The Parodi relation}{13}{section*.21}%
+\contentsline {subsection}{\numberline {F}Flow-alignment (``logs in rivers'')}{13}{section*.22}%
+\contentsline {subsection}{\numberline {G}Simplified flow-alignment}{14}{section*.23}%
+\contentsline {subsection}{\numberline {H}A 1-D numerical model of liquid crystal dynamics}{16}{section*.24}%
+\contentsline {subsubsection}{\numberline {1}Assumptions}{16}{section*.25}%
+\contentsline {subsection}{\numberline {I}The Leslie-Ericksen equations}{16}{section*.26}%
+\contentsline {subsubsection}{\numberline {1}Twist}{16}{section*.27}%
+\contentsline {subsection}{\numberline {J}Tilt}{17}{section*.28}%
+\contentsline {subsection}{\numberline {K}Flow field}{17}{section*.29}%
+\contentsline {subsection}{\numberline {L}Conoscopy}{18}{section*.30}%
+\contentsline {subsection}{\numberline {M}Simulation}{18}{section*.31}%
+\contentsline {subsection}{\numberline {N}Experimental}{19}{section*.32}%
+\contentsline {subsection}{\numberline {O}Planar alignment - rotating the cell}{20}{section*.33}%
+\contentsline {subsection}{\numberline {P}Planar alignment - rotating the polarisers}{21}{section*.34}%
+\contentsline {subsection}{\numberline {Q}Planar alignment - thickness variation}{22}{section*.35}%
+\contentsline {subsection}{\numberline {R}Vertical alignment}{23}{section*.36}%
+\contentsline {subsection}{\numberline {S}Polarisers crossed and parallel}{23}{section*.37}%
+\contentsline {subsection}{\numberline {T}Tracking conoscopic figure alignment}{23}{section*.38}%
+\contentsline {subsection}{\numberline {U}Cell fabrication}{24}{section*.39}%
+\contentsline {subsection}{\numberline {V}Microscope slide preparation}{25}{section*.40}%
+\contentsline {subsection}{\numberline {W}Cell construction}{25}{section*.41}%
+\contentsline {section}{\numberline {V}Flow alignment}{27}{section*.42}%
+\contentsline {subsection}{\numberline {A}Introduction}{27}{section*.43}%
+\contentsline {subsection}{\numberline {B}Azimuthal alignment}{27}{section*.44}%
+\contentsline {subsection}{\numberline {C}Simulated pressure driven flow}{27}{section*.45}%
+\contentsline {subsection}{\numberline {D}The Pieranski-Guyon instability}{28}{section*.46}%
+\contentsline {subsection}{\numberline {E}Tilt alignment}{29}{section*.47}%
+\contentsline {subsection}{\numberline {F}Experiment}{30}{section*.48}%
+\contentsline {subsection}{\numberline {G}Analysis}{31}{section*.49}%
+\contentsline {subsection}{\numberline {H}Director profiles}{33}{section*.50}%
+\contentsline {subsection}{\numberline {I}Torque balance}{35}{section*.51}%
+\contentsline {subsection}{\numberline {J}Experimentally varying}{35}{section*.52}%
+\contentsline {subsection}{\numberline {K}Terminating flow}{36}{section*.53}%
+\contentsline {subsection}{\numberline {L}Further simulation}{36}{section*.54}%
+\contentsline {subsection}{\numberline {M}Conclusions}{37}{section*.55}%
+\contentsline {section}{\numberline {VI}Uniform and splayed pretilt profiles}{39}{section*.56}%
+\contentsline {subsection}{\numberline {A}Introduction}{39}{section*.57}%
+\contentsline {subsection}{\numberline {B}Uniform and splayed director profiles}{39}{section*.58}%
+\contentsline {subsection}{\numberline {C}Uniform tilt alignment}{39}{section*.59}%
+\contentsline {subsection}{\numberline {D}Azimuthal rotation (uniform tilt alignment)}{39}{section*.60}%
+\contentsline {subsection}{\numberline {E}Experiment}{40}{section*.61}%
+\contentsline {subsection}{\numberline {F}Estimating the crystal pretilt angle}{42}{section*.62}%
+\contentsline {subsection}{\numberline {G}Conoscopic figure rotation}{43}{section*.63}%
+\contentsline {subsection}{\numberline {H}Uniform director profiles}{43}{section*.64}%
+\contentsline {subsection}{\numberline {I}Splayed tilt alignment experiment}{45}{section*.65}%
+\contentsline {subsection}{\numberline {J}`With' the splay}{46}{section*.66}%
+\contentsline {subsection}{\numberline {K}`Against' the splay}{47}{section*.67}%
+\contentsline {section}{\numberline {VII}Producing intermediate surface pretilt}{50}{section*.69}%
+\contentsline {subsection}{\numberline {A}Introduction}{50}{section*.70}%
+\contentsline {subsection}{\numberline {B}Small pretilt angles from a rubbed polyimide}{51}{section*.71}%
+\contentsline {subsection}{\numberline {C}Production and control of intermediate pretilt angles}{51}{section*.72}%
+\contentsline {subsection}{\numberline {D}Nano domains of planar and vertical aligning layers}{51}{section*.73}%
+\contentsline {subsection}{\numberline {E}Mixing polyimide solutions}{52}{section*.74}%
+\contentsline {subsection}{\numberline {F}POSS Nano-particle doped polyimides}{52}{section*.75}%
+\contentsline {subsection}{\numberline {G}Polymer stabilised alignment}{53}{section*.76}%
+\contentsline {subsection}{\numberline {H}Grating alignment}{53}{section*.77}%
+\contentsline {subsection}{\numberline {I}Two experimental recipes for the production of intermediate pretilt}{53}{section*.78}%
+\contentsline {subsubsection}{\numberline {1}Rubbed vertical polyimides}{53}{section*.79}%
+\contentsline {subsubsection}{\numberline {2}Bi-layer alignment surfaces}{54}{section*.80}%
+\contentsline {subsection}{\numberline {J}High throughput technique for rapid analysis of liquid crystal devices}{54}{section*.81}%
+\contentsline {subsection}{\numberline {K}High throughput technique theory}{54}{section*.82}%
+\contentsline {subsection}{\numberline {L}Experiment}{55}{section*.83}%
+\contentsline {subsection}{\numberline {M}Over-baked Nissan SE-1211 recipe}{55}{section*.84}%
+\contentsline {subsection}{\numberline {N}Over-baked Nissan SE-1211 results}{56}{section*.85}%
+\contentsline {subsection}{\numberline {O}Contact angles and surface energies}{57}{section*.86}%
+\contentsline {subsection}{\numberline {P}OWRK surface energies}{58}{section*.87}%
+\contentsline {subsection}{\numberline {Q}OWRK equation derivation}{58}{section*.88}%
+\contentsline {subsection}{\numberline {R}Surface energy results}{59}{section*.89}%
+\contentsline {subsection}{\numberline {S}Bi-layer polyimide recipe}{60}{section*.90}%
+\contentsline {subsection}{\numberline {T}Bi-layer polyimide results}{60}{section*.91}%
+\contentsline {subsection}{\numberline {U}Analysis/Conclusions}{61}{section*.92}%
+\contentsline {subsection}{\numberline {V}Diode cell}{63}{section*.93}%
+\contentsline {subsection}{\numberline {W}Introduction}{63}{section*.94}%
+\contentsline {subsubsection}{\numberline {1}The idea}{63}{section*.95}%
+\contentsline {subsection}{\numberline {X}Experimental setup}{63}{section*.96}%
+\contentsline {subsection}{\numberline {Y}Cell clamp}{63}{section*.97}%
+\contentsline {subsection}{\numberline {Z}Valve}{64}{section*.98}%
+\contentsline {subsection}{\numberline {\GenericError { }{LaTeX Error: Counter too large}{See the LaTeX manual or LaTeX Companion for explanation.}{You've lost some text. Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}Polystyrene housing}{64}{section*.99}%
+\contentsline {subsection}{\numberline {\GenericError { }{LaTeX Error: Counter too large}{See the LaTeX manual or LaTeX Companion for explanation.}{You've lost some text. Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}Data acquisition}{66}{section*.100}%
+\contentsline {subsection}{\numberline {\GenericError { }{LaTeX Error: Counter too large}{See the LaTeX manual or LaTeX Companion for explanation.}{You've lost some text. Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}Results}{67}{section*.101}%
+\contentsline {subsection}{\numberline {\GenericError { }{LaTeX Error: Counter too large}{See the LaTeX manual or LaTeX Companion for explanation.}{You've lost some text. Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}First diode behaviour}{67}{section*.102}%
+\contentsline {subsection}{\numberline {\GenericError { }{LaTeX Error: Counter too large}{See the LaTeX manual or LaTeX Companion for explanation.}{You've lost some text. Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}Second diode}{68}{section*.103}%
+\contentsline {subsection}{\numberline {\GenericError { }{LaTeX Error: Counter too large}{See the LaTeX manual or LaTeX Companion for explanation.}{You've lost some text. Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}Isotropic phase}{70}{section*.104}%
+\contentsline {subsection}{\numberline {\GenericError { }{LaTeX Error: Counter too large}{See the LaTeX manual or LaTeX Companion for explanation.}{You've lost some text. Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}Heating the cell}{71}{section*.105}%
+\contentsline {subsubsection}{\numberline {1}Isotropic experiment}{72}{section*.106}%
+\contentsline {subsection}{\numberline {\GenericError { }{LaTeX Error: Counter too large}{See the LaTeX manual or LaTeX Companion for explanation.}{You've lost some text. Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}Director profiles}{73}{section*.107}%
+\contentsline {subsection}{\numberline {\GenericError { }{LaTeX Error: Counter too large}{See the LaTeX manual or LaTeX Companion for explanation.}{You've lost some text. Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}Fully Leaky Guided Modes}{74}{section*.108}%
+\contentsline {subsection}{\numberline {\GenericError { }{LaTeX Error: Counter too large}{See the LaTeX manual or LaTeX Companion for explanation.}{You've lost some text. Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}Bend state (vertical at cell mid-plane)}{75}{section*.109}%
+\contentsline {subsection}{\numberline {\GenericError { }{LaTeX Error: Counter too large}{See the LaTeX manual or LaTeX Companion for explanation.}{You've lost some text. Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}Splay state (planar at cell mid-plane)}{76}{section*.110}%
+\contentsline {subsection}{\numberline {\GenericError { }{LaTeX Error: Counter too large}{See the LaTeX manual or LaTeX Companion for explanation.}{You've lost some text. Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}Data}{76}{section*.111}%
+\contentsline {subsection}{\numberline {\GenericError { }{LaTeX Error: Counter too large}{See the LaTeX manual or LaTeX Companion for explanation.}{You've lost some text. Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}Simulation}{77}{section*.112}%
+\contentsline {subsection}{\numberline {\GenericError { }{LaTeX Error: Counter too large}{See the LaTeX manual or LaTeX Companion for explanation.}{You've lost some text. Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}Planar}{77}{section*.113}%
+\contentsline {subsection}{\numberline {\GenericError { }{LaTeX Error: Counter too large}{See the LaTeX manual or LaTeX Companion for explanation.}{You've lost some text. Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}Vertical}{77}{section*.114}%
+\contentsline {subsection}{\numberline {\GenericError { }{LaTeX Error: Counter too large}{See the LaTeX manual or LaTeX Companion for explanation.}{You've lost some text. Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}Splayed}{78}{section*.115}%
+\contentsline {subsection}{\numberline {\GenericError { }{LaTeX Error: Counter too large}{See the LaTeX manual or LaTeX Companion for explanation.}{You've lost some text. Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}Data and simulation}{80}{section*.116}%
+\contentsline {subsection}{\numberline {\GenericError { }{LaTeX Error: Counter too large}{See the LaTeX manual or LaTeX Companion for explanation.}{You've lost some text. Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}Conclusions}{81}{section*.117}%
+\contentsline {section}{\numberline {}References}{83}{section*.118}%
+\contentsline {section}{\numberline {VIII}Alex}{85}{section*.119}%

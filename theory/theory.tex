@@ -29,18 +29,20 @@ As is described by Stewart \cite{Stewart2004}, the natural continuum variables t
 
 \noindent As is the case for any classically based continuum theory (where isothermal conditions are assumed, and therefore thermal effects are ignored), conservation laws of mass, linear momentum and angular momentum must hold. Therefore, for a volume $V$ of nematic liquid crystal bounded by the surface $S$, this rate of work postulate can mathematically be described as 
 
-\begin{equation}
-\int_V \! \rho\left(\mathbf{F}\cdot\mathbf{v}+\mathbf{K}\cdot\mathbf{w}\right)\,dV+\int_S\!\left(\mathbf{t}\cdot\mathbf{v}+\mathbf{l}\cdot\mathbf{w}\right)\,dS=\frac{D}{Dt}\int_V\!\left(\frac{1}{2}\rho\mathbf{v}\cdot\mathbf{v}+\omega_f\right)\,dV+\int_V\!\mathcal{D}\,dV
+\begin{multline}
+\int_V \! \rho\left(\mathbf{F}\cdot\mathbf{v}+\mathbf{K}\cdot\mathbf{w}\right)\,dV+\int_S\!\left(\mathbf{t}\cdot\mathbf{v}+\mathbf{l}\cdot\mathbf{w}\right)\,dS= \\ \frac{D}{Dt}\int_V\!\left(\frac{1}{2}\rho\mathbf{v}\cdot\mathbf{v}+\omega_f\right)\,dV+\int_V\!\mathcal{D}\,dV
 \label{eq:rate_of_work_hypothesis}
-\end{equation}
+\end{multline}
 
 \noindent where $\rho$ denotes the density, $\mathbf{F}$ is the external body force per unit mass, $\mathbf{v}$ is the velocity, $\mathbf{K}$ is the external body moment per unit mass, $\mathbf{w}$ is the local angular velocity of the director, $\mathbf{t}$ is the surface force per unit area, $\mathbf{l}$ is the surface moment per unit area and $\mathcal{D}$ signifies the rate of viscous dissipation per unit volume (known as the \textbf{dissipation function}).
 
 Following from the rigorous derivation provided by Stewart \cite{Stewart2004}, the dissipation function $\mathcal{D}$ (through the balance laws for mass, linear momentum and angular momentum) can be expressed as\footnote{For a rigorous analysis of equation \ref{eq:rate_of_work_hypothesis} and a full derivation of the dissipation function (equation \ref{eq:Dissipation}), the reader is directed to the \textit{Static and Dynamic Continuum Theory of Liquid Crystals} by Iain W. Stewart \cite{Stewart2004}, which gives a comprehensive mathematical introduction to the dynamic theory of nematic liquid crystals.}
 
 \begin{eqnarray}
-\nonumber\mathcal{D}&=&\alpha_1\left(n_iA_{ij}n_j\right)^2+2\left(\alpha_2+\alpha_3\right)N_iA_{ij}n_j+\alpha_4A_{ij}A_{ij}\\
-&&+\left(\alpha_5+\alpha_6\right)n_iA_{ij}A_{jk}n_k+\left(\alpha_3-\alpha_2\right)N_iN_i\geq0
+\nonumber\mathcal{D}&=&\alpha_1\left(n_iA_{ij}n_j\right)^2+ \\
+&&2\left(\alpha_2+\alpha_3\right)N_iA_{ij}n_j+\alpha_4A_{ij}A_{ij}+ \\
+&&\left(\alpha_5+\alpha_6\right)n_iA_{ij}A_{jk}n_k+ \\
+&&\left(\alpha_3-\alpha_2\right)N_iN_i\geq0
 \label{eq:Dissipation}
 \end{eqnarray}
 
@@ -273,15 +275,17 @@ g\left(\theta\right)&=&\sin^2\theta\left(\left(k_{22}-k_{33}\right)\sin^2\theta+
 g^\prime\left(\theta\right)&=&\frac{dg}{d\theta}
 \end{eqnarray}
 
-\subsection{Twist}
+\subsubsection{Twist}
 \label{sec:phi}
 
 The governing equation for the azimuthal angle $\phi$ is derived from \cite{Cornford2008} and \cite{Stewart2004},
 
-\begin{equation}
-\gamma_1 \sin^2\theta \frac{d\phi}{dt}=g\left(\theta\right)\frac{\partial^2\phi}{\partial z^2} + g'\left(\theta\right)\frac{\partial\theta}{\partial z}\frac{\partial\phi}{\partial z}-\frac{1}{2}\alpha_2\sin2\theta\left(\cos\phi\frac{\partial u_y}{\partial z}-\sin\phi\frac{\partial u_x}{\partial z}\right)
+\begin{eqnarray}
+\gamma_1 \sin^2\theta\frac{d\phi}{dt}&=&g\left(\theta\right)\frac{\partial^2\phi}{\partial z^2} + 
+g'\left(\theta\right)\frac{\partial\theta}{\partial z}\frac{\partial\phi}{\partial z}- \\
+&&\frac{1}{2}\alpha_2\sin2\theta\left(\cos\phi\frac{\partial u_y}{\partial z}-\sin\phi\frac{\partial u_x}{\partial z}\right)
 \label{eq:phi}
-\end{equation}
+\end{eqnarray}
 
 \noindent Boundary conditions and initial conditions for equation \ref{eq:phi} must be provided, giving $\phi\left(z=0,t=0\right)$, $\phi\left(z=d,t=0\right)$ and $\phi\left(z,t=0\right)$. That is, the initial azimuthal director alignment has to be provided. Generally, when simulating the response of a cell, the angles in the simulation will be those of the rubbing direction on the actual cell.
 
@@ -316,21 +320,35 @@ The last two governing equations are those for the simulated flow field and are 
 It is worth noting that the only time derivatives contained in equations \ref{eq:Gx} and \ref{eq:Gy} are those of $\theta$ and $\phi$. This dictates that if the director is not changing in time, the flow fields are also time independent. 
 Consequently, only boundary conditions for $u_x$ and $u_y$ must be prescribed. As will also be discussed later, the classical non-slip boundary condition stating that the fluid velocity at the cell walls is assumed to be zero is appropriate \cite{Cornford2008,Feynmann1964}.
 
-
-
-\begin{equation}
-G_x = \frac{\partial}{\partial z}\left(\left[\frac{1}{2}a\left(\theta\right)\cos^2\phi+b\left(\theta\right)\right]\frac{\partial u_x}{\partial z}
-+\frac{1}{4}a\left(\theta\right)\sin2\phi\frac{\partial u_y}{\partial z}-c\left(\theta\right)\cos\phi\frac{\partial \theta}{\partial t}-\frac{1}{2}\alpha_2\sin\phi\sin2\theta\frac{\partial \phi}{\partial t}\right)
+\begin{align}
+G_x &= \frac{\partial}{\partial z}\left(\left[\frac{1}{2}a\left(\theta\right)\cos^2\phi+b\left(\theta\right)\right]\frac{\partial u_x}{\partial z} \right. \nonumber \\
+&+\frac{1}{4}a\left(\theta\right)\sin2\phi\frac{\partial u_y}{\partial z} \nonumber \\
+&-c\left(\theta\right)\cos\phi\frac{\partial \theta}{\partial t} \nonumber \\
+&\left.-\frac{1}{2}\alpha_2\sin\phi\sin2\theta\frac{\partial \phi}{\partial t}\right)
 \label{eq:Gx}
-\end{equation}
+\end{align}
 
-
-
-\begin{equation}
-G_y = \frac{\partial}{\partial z}\left(\left[\frac{1}{2}a\left(\theta\right)\sin^2\phi+b\left(\theta\right)\right]\frac{\partial u_y}{\partial z}
-+\frac{1}{4}a\left(\theta\right)\sin2\phi\frac{\partial u_x}{\partial z}-c\left(\theta\right)\sin\phi\frac{\partial \theta}{\partial t}-\frac{1}{2}\alpha_2\cos\phi\sin2\theta\frac{\partial \phi}{\partial t}\right)
+\begin{align}
+G_y &= \frac{\partial}{\partial z}\left(\left[\frac{1}{2}a\left(\theta\right)\sin^2\phi+b\left(\theta\right)\right]\frac{\partial u_y}{\partial z} \right. \nonumber \\
+&+\frac{1}{4}a\left(\theta\right)\sin2\phi\frac{\partial u_x}{\partial z} \nonumber \\
+&-c\left(\theta\right)\sin\phi\frac{\partial \theta}{\partial t} \nonumber \\
+&\left.-\frac{1}{2}\alpha_2\cos\phi\sin2\theta\frac{\partial \phi}{\partial t}\right)
 \label{eq:Gy}
-\end{equation}
+\end{align}
+
+% 
+% \begin{equation}
+% G_x = \frac{\partial}{\partial z}\left(\left[\frac{1}{2}a\left(\theta\right)\cos^2\phi+b\left(\theta\right)\right]\frac{\partial u_x}{\partial z}
+% +\frac{1}{4}a\left(\theta\right)\sin2\phi\frac{\partial u_y}{\partial z}-c\left(\theta\right)\cos\phi\frac{\partial \theta}{\partial t}-\frac{1}{2}\alpha_2\sin\phi\sin2\theta\frac{\partial \phi}{\partial t}\right)
+% \label{eq:Gx}
+% \end{equation}
+% 
+% 
+% \begin{equation}
+% G_y = \frac{\partial}{\partial z}\left(\left[\frac{1}{2}a\left(\theta\right)\sin^2\phi+b\left(\theta\right)\right]\frac{\partial u_y}{\partial z}
+% +\frac{1}{4}a\left(\theta\right)\sin2\phi\frac{\partial u_x}{\partial z}-c\left(\theta\right)\sin\phi\frac{\partial \theta}{\partial t}-\frac{1}{2}\alpha_2\cos\phi\sin2\theta\frac{\partial \phi}{\partial t}\right)
+% \label{eq:Gy}
+% \end{equation}
 
 \noindent As a final note, as discussed earlier and shown in equations \ref{eq:phi} and \ref{eq:theta}, the boundary conditions for $\theta$ and $\phi$ are known (from experiment) and are input into the one dimensional model used here. As is explained in \cite{Cornford2008}, it is also reasonable to assume that the director is fixed at the cell surfaces, in a regime known as \textit{strong anchoring}. An alternative regime could also be considered, \textit{weak anchoring} (not used in this simulation) whereby information regarding $\theta$ and its derivative in $z$ and $\phi$ and its derivative in $z$ would be required\footnote{Some relevant material is included in references \cite{Cui2006} and \cite{Choate2008}.}.
 
@@ -369,9 +387,9 @@ A ray of light that passes through the focus of the cone of light at an angle of
 
 For each ray in the cone of incident light, the coefficients $E_{ss},E_{sp},E_{ps},E_{pp}$ are calculated, where $E_{sp}$ is the complex, $s$-polarised component of the electric field transmitted through the sample if the incoming ray were wholly $p$-polarised. From these, the intensity at any point on the cartesian coordinate system can be obtained \cite{Cornford2008} from,
 
-\begin{equation}
+\begin{align}
 I\left(\alpha,\psi\right)=\left|\left(E_{pp}-E_{ps}\right)\sin\left(\psi^{\prime}\right)\cos\left(\psi^{\prime}\right)-E_{ps}\cos^2\psi^{\prime}+E_{sp}\sin^2\psi^{\prime}\right|^2
-\end{equation}
+\end{align}
 
 In order to compute the interference figure, a set of points in the cartesian coordinate plain $\left(x,y\right)$ needs to be selected such that $\sin\alpha\leq\sin\text{NA}$, where NA is the numerical aperture of the cone of light \cite{Cornford2008}.
 
@@ -379,19 +397,19 @@ Figure \ref{fig:figures} shows a table of simulated conoscopic figures from the 
 
 \begin{center}
 \begin{table}[ht]
-\newcolumntype{C}{>{\centering\arraybackslash} m{2.1cm}}
+\newcolumntype{C}{>{\centering\arraybackslash} m{1cm}}
 \begin{tabular}{ccCCCCC}
 &&&&$\theta$&&\\
 &&90$^{\circ}$&85$^{\circ}$&45$^{\circ}$&5$^{\circ}$&0$^{\circ}$\\
-&\centering{90}$^{\circ}$&\includegraphics[scale=0.02]{Figures/conoscopy/table/90_90}&\includegraphics[scale=0.02]{Figures/conoscopy/table/90_85}&\includegraphics[scale=0.02]{Figures/conoscopy/table/90_45}&\includegraphics[scale=0.02]{Figures/conoscopy/table/90_05}&\includegraphics[scale=0.02]{Figures/conoscopy/table/90_00}\\
+&\centering{90}$^{\circ}$&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/90_90}&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/90_85}&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/90_45}&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/90_05}&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/90_00}\\
 
-&60$^{\circ}$&\includegraphics[scale=0.02]{Figures/conoscopy/table/60_90}&\includegraphics[scale=0.02]{Figures/conoscopy/table/60_85}&\includegraphics[scale=0.02]{Figures/conoscopy/table/60_45}&\includegraphics[scale=0.02]{Figures/conoscopy/table/60_05}&\includegraphics[scale=0.02]{Figures/conoscopy/table/60_00}\\
+&60$^{\circ}$&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/60_90}&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/60_85}&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/60_45}&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/60_05}&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/60_00}\\
 
-$\phi$&45$^{\circ}$&\includegraphics[scale=0.02]{Figures/conoscopy/table/45_90}&\includegraphics[scale=0.02]{Figures/conoscopy/table/45_85}&\includegraphics[scale=0.02]{Figures/conoscopy/table/45_45}&\includegraphics[scale=0.02]{Figures/conoscopy/table/45_05}&\includegraphics[scale=0.02]{Figures/conoscopy/table/45_00}\\
+$\phi$&45$^{\circ}$&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/45_90}&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/45_85}&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/45_45}&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/45_05}&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/45_00}\\
 
-&30$^{\circ}$&\includegraphics[scale=0.02]{Figures/conoscopy/table/30_90}&\includegraphics[scale=0.02]{Figures/conoscopy/table/30_85}&\includegraphics[scale=0.02]{Figures/conoscopy/table/30_45}&\includegraphics[scale=0.02]{Figures/conoscopy/table/30_05}&\includegraphics[scale=0.02]{Figures/conoscopy/table/30_00}\\
+&30$^{\circ}$&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/30_90}&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/30_85}&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/30_45}&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/30_05}&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/30_00}\\
 
-&0$^{\circ}$&\includegraphics[scale=0.02]{Figures/conoscopy/table/00_90}&\includegraphics[scale=0.02]{Figures/conoscopy/table/00_85}&\includegraphics[scale=0.02]{Figures/conoscopy/table/00_45}&\includegraphics[scale=0.02]{Figures/conoscopy/table/00_05}&\includegraphics[scale=0.02]{Figures/conoscopy/table/00_00}\\
+&0$^{\circ}$&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/00_90}&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/00_85}&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/00_45}&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/00_05}&\includegraphics[width=0.06\textwidth]{Figures/conoscopy/table/00_00}\\
 \end{tabular}
 \caption[Characteristic conoscopic figures]{\label{fig:figures}A table showing characteristic conoscopic figures for varying values of $\theta$ and $\phi$ from the optical simulation package. Note that the polarisers are set at $\phi+45^{\circ}$, otherwise some of the figures in the $\theta>0$ column would appear nearly or entirely black. This accounts for the rotation of the $\theta=0$ figure, which would be independent of $\phi$ if the polariser angle did not change.}
 \end{table}
@@ -412,7 +430,7 @@ Figure \ref{fig:conoscope_schem} is a schematic diagram of the experimental set 
 
 \begin{figure}
 \begin{center}
-\includegraphics{Figures/conoscopy/conoscope_setup}
+\includegraphics[width=0.48\textwidth]{Figures/conoscopy/conoscope_setup}
 \end{center}
 \caption[Schematic diagram of the conoscope setup]{\label{fig:conoscope_schem}A schematic diagram of the conoscope used in this research. Based on a designs from the literature \cite{Parry-Jones2002,Fujikawa1993} and built by Cornford in reference \cite{Cornford2008}. Here, a collimated beam passes through the polariser, main assembly and sample, before passing through the analyser and focussed on to the CCD to capture a figure.}
 \end{figure}

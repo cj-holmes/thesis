@@ -1,34 +1,11 @@
-\documentclass[prb,reprint,superscriptaddress,showpacs]{revtex4-1}
+\documentclass[prb, reprint, superscriptaddress, eqsecnum]{revtex4-1}
+
 % PAGE FORMATTING ----------------------------------------
 % Fancyheadr for customising footers and headers
 \usepackage{fancyhdr}
 \rhead{}
 \lhead{\nouppercase{\textsc{\leftmark}}}
 \renewcommand{\headrulewidth}{0pt}
-
-% Setspace - for document line spacing to be defined easily
-% \usepackage{setspace}
-% \onehalfspacing % Set spacing (\singlespacing, \onehalfspacing, \doublespacing, \setstretch{1.1})
-% 
-% % Define the look of captions (figure captions, table captions, ...)
-% \usepackage[font={onehalfspacing, small}, skip=0pt, labelfont=bf, width={0.98\textwidth}]{caption}
-
-% geometry gives flexible and complete interface to document dimensions
-% \usepackage[left = 1.5in,
-%             right = 1in,
-%             top=1in,
-%             bottom=0.8in,
-%             includefoot,
-%             headheight=13.6pt]{geometry}
-
-
-% SECTION HEADER STYLE -----------------------------------
-% Control sectional headers (section style)
-% \usepackage{sectsty}
-% \chapterfont{\large \sc \centering} % Chapter sectional headers Largefont, small caps, centred
-% \chaptertitlefont{\centering}
-% \subsubsectionfont{\centering}
-
 
 % MATHS --------------------------------------------------
 \usepackage{amsmath} % AMS mathematical facilities (aligning and formatting maths)
@@ -38,31 +15,21 @@
 % but \bm is rather more careful in the way it does things.
 \usepackage{bm}
 
-
 % FIGURE FORMATTING --------------------------------------
-% Prevent single figures taking a whole page (gives less 'float-only' pages)
+  % Prevent single figures taking a whole page (gives less 'float-only' pages)
 % The default value = 60%. Now it is set to 80%.
 % So if a figure consumes 75% of the page it will get its own float-page
 \renewcommand{\floatpagefraction}{0.8}
 
 % graphicx builds upon the graphics package
 \usepackage{graphicx}
-\usepackage{graphicx}
-    \setkeys{Gin}{width=0.4\textwidth}
-    % in your case, you'd obviously only specify the width
-    % I just used height as well for demonstration purposes.
+\setkeys{Gin}{width=0.48\textwidth} % ser default figure width
 
 % subfigure provides support for the manipulation and reference of small or ‘sub’ figures and tables
 \usepackage{subfigure}
 
-
-% TABLE FORMATTING --------------------------------------
+% TABLE FORMATTING ----------------------------------------
 \usepackage{array} % Advanced table and array formatting options
-
-
-% BIBLIOGRAPHY --------------------------------------------
-% \usepackage[square, sort&compress, numbers]{natbib}
-
 
 % HYPER-REFERENCES ----------------------------------------
 \usepackage[plainpages = false,
@@ -75,6 +42,8 @@
             citecolor = blue,
             anchorcolor = green,
             hyperindex = true]{hyperref}
+
+% END OF PREAMBLE -----------------------------------------
 
 \begin{document}
 \title{Surface alignment control of nematodynamics}
@@ -97,20 +66,17 @@ Finally, the large pretilt angles produced from the recipes mentioned above are 
 \maketitle
 
 % Front matter
-\pagenumbering{roman}  
+\pagestyle{fancy}
 \include{gumf/gumf}
 
 % Content
-\pagestyle{fancy}
-\pagenumbering{arabic}
-
 \include{introduction/introduction}
 \include{lc/lc}
 \include{theory/theory}
-% \include{45/45}
-% \include{splay_parallel/splay_parallel}
-% \include{pretilt/pretilt}
-% \include{diode/diode}
+\include{45/45}
+\include{splay_parallel/splay_parallel}
+\include{pretilt/pretilt}
+\include{diode/diode}
 % \include{conclusions/conclusions}
 % \include{publications/publications}
 

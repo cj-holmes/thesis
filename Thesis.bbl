@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{66}%
+\begin{thebibliography}{152}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -509,14 +509,14 @@
   \bibinfo {note} {The conoscopic images shown in Figure \ref {fig:con_samples}
   are calculated from the uniaxial modelling script described
   later}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Berreman}(1972)}]{Berreman1972}%
+\bibitem [{\citenamefont {Berreman}(1972{\natexlab{a}})}]{Berreman1972}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.~W.}\ \bibnamefont
   {Berreman}},\ }\href
   {http://www.opticsinfobase.org/jon/viewmedia.cfm?id=54639&amp;seq=0}
   {\bibfield  {journal} {\bibinfo  {journal} {J. Opt. Soc. Am}\ }\textbf
   {\bibinfo {volume} {62}},\ \bibinfo {pages} {502} (\bibinfo {year}
-  {1972})}\BibitemShut {NoStop}%
+  {1972}{\natexlab{a}})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Ogasawara}\ \emph {et~al.}(2001)\citenamefont
   {Ogasawara}, \citenamefont {Akizuki}, \citenamefont {Takanishi},
   \citenamefont {Ishikawa},\ and\ \citenamefont {Takezoe}}]{Ogasawara2001}%
@@ -571,6 +571,738 @@
   \bibinfo {note} {One must take care not to use the same end of the cotton bud
   twice as this can result in contamination of the solvent
   reservoir}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Jewell}\ and\ \citenamefont
+  {Sambles}(2003)}]{Jewell2003}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~a.}\ \bibnamefont
+  {Jewell}}\ and\ \bibinfo {author} {\bibfnamefont {J.~R.}\ \bibnamefont
+  {Sambles}},\ }\href {\doibase 10.1063/1.1573336} {\bibfield  {journal}
+  {\bibinfo  {journal} {Applied Physics Letters}\ }\textbf {\bibinfo {volume}
+  {82}},\ \bibinfo {pages} {3156} (\bibinfo {year} {2003})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Jewell}\ and\ \citenamefont
+  {Sambles}(2004)}]{Jewell2004}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~A.}\ \bibnamefont
+  {Jewell}}\ and\ \bibinfo {author} {\bibfnamefont {J.~R.}\ \bibnamefont
+  {Sambles}},\ }\href {\doibase 10.1063/1.1638903} {\bibfield  {journal}
+  {\bibinfo  {journal} {Applied Physics Letters}\ }\textbf {\bibinfo {volume}
+  {84}},\ \bibinfo {pages} {46} (\bibinfo {year} {2004})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Jewell}\ and\ \citenamefont
+  {Sambles}(2005)}]{Jewell2005}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~A.}\ \bibnamefont
+  {Jewell}}\ and\ \bibinfo {author} {\bibfnamefont {J.~R.}\ \bibnamefont
+  {Sambles}},\ }\href {http://www.ncbi.nlm.nih.gov/pubmed/19495154} {\bibfield
+  {journal} {\bibinfo  {journal} {Optics express}\ }\textbf {\bibinfo {volume}
+  {13}},\ \bibinfo {pages} {2627} (\bibinfo {year} {2005})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Jewell}\ and\ \citenamefont
+  {Sambles}(2002)}]{Jewell2002a}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~a.}\ \bibnamefont
+  {Jewell}}\ and\ \bibinfo {author} {\bibfnamefont {J.~R.}\ \bibnamefont
+  {Sambles}},\ }\href {\doibase 10.1063/1.1483392} {\bibfield  {journal}
+  {\bibinfo  {journal} {Journal of Applied Physics}\ }\textbf {\bibinfo
+  {volume} {92}},\ \bibinfo {pages} {19} (\bibinfo {year} {2002})}\BibitemShut
+  {NoStop}%
+\bibitem [{Note12()}]{Note12}%
+  \BibitemOpen
+  \bibinfo {note} {The HAN cell is also of commercial interest as it is one of
+  the stable states of the Zenithal Bistable Device.}\BibitemShut {Stop}%
+\bibitem [{\citenamefont {Boudreau}\ \emph {et~al.}(1999)\citenamefont
+  {Boudreau}, \citenamefont {Winter}, \citenamefont {Lillya},\ and\
+  \citenamefont {Stein}}]{Boudreau1999}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.~M.}\ \bibnamefont
+  {Boudreau}}, \bibinfo {author} {\bibfnamefont {H.~H.}\ \bibnamefont
+  {Winter}}, \bibinfo {author} {\bibfnamefont {C.~P.}\ \bibnamefont {Lillya}},
+  \ and\ \bibinfo {author} {\bibfnamefont {R.~S.}\ \bibnamefont {Stein}},\
+  }\href {http://www.springerlink.com/index/L3T356HK7JCEMPW5.pdf} {\bibfield
+  {journal} {\bibinfo  {journal} {Rheologica Acta}\ }\textbf {\bibinfo {volume}
+  {38}},\ \bibinfo {pages} {503} (\bibinfo {year} {1999})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Horn}\ \emph {et~al.}(2003)\citenamefont {Horn},
+  \citenamefont {Boudreau},\ and\ \citenamefont {Winter}}]{Horn2003}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {B.~L.~V.}\
+  \bibnamefont {Horn}}, \bibinfo {author} {\bibfnamefont {D.~M.}\ \bibnamefont
+  {Boudreau}}, \ and\ \bibinfo {author} {\bibfnamefont {H.~H.}\ \bibnamefont
+  {Winter}},\ }\href {\doibase 10.1007/s00397-003-0315-x} {\bibfield  {journal}
+  {\bibinfo  {journal} {Rheologica Acta}\ }\textbf {\bibinfo {volume} {42}},\
+  \bibinfo {pages} {585} (\bibinfo {year} {2003})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {{Van Horn}}\ and\ \citenamefont
+  {Winter}(2000)}]{VanHorn2000}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {B.~L.}\ \bibnamefont
+  {{Van Horn}}}\ and\ \bibinfo {author} {\bibfnamefont {H.~H.}\ \bibnamefont
+  {Winter}},\ }\href {\doibase 10.1007/s003970000111} {\bibfield  {journal}
+  {\bibinfo  {journal} {Rheologica Acta}\ }\textbf {\bibinfo {volume} {39}},\
+  \bibinfo {pages} {294} (\bibinfo {year} {2000})}\BibitemShut {NoStop}%
+\bibitem [{Note13()}]{Note13}%
+  \BibitemOpen
+  \bibinfo {note} {Note that here we are plotting the average azimuthal
+  distortion, and as such, the curve will never fully reach $\phi =0^{\circ }$
+  due to the thin layers at the surfaces of the cell retaining their initial
+  alignment angle. However, at very high flow rates, the vast majority of the
+  cell has rotated towards $\phi =0^{\circ }$.}\BibitemShut {Stop}%
+\bibitem [{\citenamefont {Pieranski}\ and\ \citenamefont
+  {Guyon}(1973)}]{Pieranski1973}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Pieranski}}\ and\ \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
+  {Guyon}},\ }\href {http://adsabs.harvard.edu/abs/1973SSCom..13..435P}
+  {\bibfield  {journal} {\bibinfo  {journal} {Solid State Communications}\
+  }\textbf {\bibinfo {volume} {13}},\ \bibinfo {pages} {435} (\bibinfo {year}
+  {1973})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Graf}\ \emph {et~al.}(1992)\citenamefont {Graf},
+  \citenamefont {Kneppe},\ and\ \citenamefont {Schneider}}]{Graf1992}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {H.-H.}\ \bibnamefont
+  {Graf}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Kneppe}}, \ and\
+  \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont {Schneider}},\ }\href
+  {\doibase 10.1080/00268979200102591} {\bibfield  {journal} {\bibinfo
+  {journal} {Molecular Physics}\ }\textbf {\bibinfo {volume} {77}},\ \bibinfo
+  {pages} {521} (\bibinfo {year} {1992})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {B\"{o}rzs\"{o}nyi}\ \emph {et~al.}(1998)\citenamefont
+  {B\"{o}rzs\"{o}nyi}, \citenamefont {Buka}, \citenamefont {Krekhov},\ and\
+  \citenamefont {Kramer}}]{Borzsonyi1998}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {B\"{o}rzs\"{o}nyi}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Buka}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Krekhov}}, \
+  and\ \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont {Kramer}},\ }\href
+  {http://link.aps.org/doi/10.1103/PhysRevE.58.7419} {\bibfield  {journal}
+  {\bibinfo  {journal} {Physical Review E}\ }\textbf {\bibinfo {volume} {58}},\
+  \bibinfo {pages} {7419} (\bibinfo {year} {1998})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Kemp}\ and\ \citenamefont
+  {Letcher}(1971)}]{Kemp1971}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
+  {Kemp}}\ and\ \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Letcher}},\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Physical review
+  letters}\ }\textbf {\bibinfo {volume} {27}},\ \bibinfo {pages} {1634}
+  (\bibinfo {year} {1971})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Pieranski}\ and\ \citenamefont
+  {Guyon}(1974)}]{Pieranski1974}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Pieranski}}\ and\ \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
+  {Guyon}},\ }\href {http://pra.aps.org/abstract/PRA/v9/i1/p404_1} {\bibfield
+  {journal} {\bibinfo  {journal} {Physical Review A}\ }\textbf {\bibinfo
+  {volume} {9}},\ \bibinfo {pages} {404} (\bibinfo {year} {1974})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Pieranski}(2005)}]{Pieranski2005}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Pieranski}},\ }\href@noop {} {\emph {\bibinfo {title} {{Nematic and
+  Cholesteric Liquid Crystals Concepts and Physical Properties Illustrated by
+  Experiments}}}}\ (\bibinfo  {publisher} {CRC Press},\ \bibinfo {year}
+  {2005})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Jewell}\ \emph {et~al.}(2009)\citenamefont {Jewell},
+  \citenamefont {Cornford}, \citenamefont {Yang}, \citenamefont {Cann},\ and\
+  \citenamefont {Sambles}}]{Jewell2009}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~A.}\ \bibnamefont
+  {Jewell}}, \bibinfo {author} {\bibfnamefont {S.~L.}\ \bibnamefont
+  {Cornford}}, \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont {Yang}},
+  \bibinfo {author} {\bibfnamefont {P.~S.}\ \bibnamefont {Cann}}, \ and\
+  \bibinfo {author} {\bibfnamefont {J.~R.}\ \bibnamefont {Sambles}},\ }\href
+  {\doibase 10.1103/PhysRevE.80.041706} {\bibfield  {journal} {\bibinfo
+  {journal} {Physical Review E}\ }\textbf {\bibinfo {volume} {80}},\ \bibinfo
+  {pages} {041706} (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
+\bibitem [{Note14()}]{Note14}%
+  \BibitemOpen
+  \bibinfo {note} {For this reason, the mean value of the azimuthal rotation
+  will never fully reach 0$^{\circ }$.}\BibitemShut {Stop}%
+\bibitem [{Note15()}]{Note15}%
+  \BibitemOpen
+  \bibinfo {note} {The precise location of the maxima will depend on the
+  various elastic and viscous coefficients}\BibitemShut {NoStop}%
+\bibitem [{Note16()}]{Note16}%
+  \BibitemOpen
+  \bibinfo {note} {Note that for this data set $\left (\phi _0\approx 89^{\circ
+  }\right )$ there is only a small indication of the Pieranski-Guyon
+  instability as shown in Figure \ref {fig:Pieranski_Guyon_instability}. The
+  lack of instability is likely due to the pretilt as is discussed later in
+  Section \ref {sec:45_vary_tilt}}\BibitemShut {NoStop}%
+\bibitem [{Note17()}]{Note17}%
+  \BibitemOpen
+  \bibinfo {note} {The data for this plot is not taken from the same cell that
+  the data from Figure \ref {fig:45_data_plot} is taken, but rather a new cell
+  made much later on.}\BibitemShut {Stop}%
+\bibitem [{\citenamefont {Geary}\ \emph {et~al.}(1987)\citenamefont {Geary},
+  \citenamefont {Goodby}, \citenamefont {Kmetz},\ and\ \citenamefont
+  {Patel}}]{Geary1987}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~M.}\ \bibnamefont
+  {Geary}}, \bibinfo {author} {\bibfnamefont {J.~W.}\ \bibnamefont {Goodby}},
+  \bibinfo {author} {\bibfnamefont {A.~R.}\ \bibnamefont {Kmetz}}, \ and\
+  \bibinfo {author} {\bibfnamefont {J.~S.}\ \bibnamefont {Patel}},\ }\href
+  {\doibase 10.1063/1.339124} {\bibfield  {journal} {\bibinfo  {journal}
+  {Journal of Applied Physics}\ }\textbf {\bibinfo {volume} {62}},\ \bibinfo
+  {pages} {4100} (\bibinfo {year} {1987})}\BibitemShut {NoStop}%
+\bibitem [{Note18()}]{Note18}%
+  \BibitemOpen
+  \bibinfo {note} {In Chapter \ref {cha:pretilt}, it will be seen how aligning
+  a cell in the uniform state can be used in a novel technique for measuring
+  the value of the slab tilt angle.}\BibitemShut {Stop}%
+\bibitem [{\citenamefont {Mallard}(1882)}]{Mallard1882}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
+  {Mallard}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Bull.
+  Soc. Mineral. Fr.}\ }\textbf {\bibinfo {volume} {5}},\ \bibinfo {pages} {77}
+  (\bibinfo {year} {1882})}\BibitemShut {NoStop}%
+\bibitem [{Note19()}]{Note19}%
+  \BibitemOpen
+  \bibinfo {note} {For an in depth and full analysis of this method for
+  estimating uniaxial tilt angles from the conoscopic figure, the reader is
+  directed to the publication by Van Horn and Henning Winter titled \protect
+  \textit {Analysis of the conoscopic measurement for uniaxial liquid-crystal
+  tilt angles} \cite {Horn2001}}\BibitemShut {NoStop}%
+\bibitem [{Note20()}]{Note20}%
+  \BibitemOpen
+  \bibinfo {note} {The difference in the 0 $\mu L/h$ capture between Figure
+  \ref {fig:splay_with_data} (a) and Figure \ref {fig:splay_against_data} (a)
+  is due to the experimental difficulty in rotating the cell so that flow could
+  be applied in the opposite direction. In doing so, the area of the cell being
+  sampled has changed, with variations in cell thickness causing the dark
+  fringes to move.}\BibitemShut {Stop}%
+\bibitem [{\citenamefont {Kumar}\ \emph {et~al.}(2005)\citenamefont {Kumar},
+  \citenamefont {Kim},\ and\ \citenamefont {Shi}}]{Kumar2005}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Kumar}}, \bibinfo {author} {\bibfnamefont {J.-H.}\ \bibnamefont {Kim}}, \
+  and\ \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Shi}},\ }\href
+  {\doibase 10.1103/PhysRevLett.94.077803} {\bibfield  {journal} {\bibinfo
+  {journal} {Physical Review Letters}\ }\textbf {\bibinfo {volume} {94}},\
+  \bibinfo {pages} {077803} (\bibinfo {year} {2005})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Berreman}(1972{\natexlab{b}})}]{Berreman1972a}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
+  {Berreman}},\ }\href {http://link.aps.org/doi/10.1103/PhysRevLett.28.1683}
+  {\bibfield  {journal} {\bibinfo  {journal} {Physical Review Letters}\
+  }\textbf {\bibinfo {volume} {28}},\ \bibinfo {pages} {1683} (\bibinfo {year}
+  {1972}{\natexlab{b}})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Faetti}(1987)}]{Faetti1987}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Faetti}},\ }\href {http://link.aps.org/doi/10.1103/PhysRevA.36.408}
+  {\bibfield  {journal} {\bibinfo  {journal} {Physical review A}\ }\textbf
+  {\bibinfo {volume} {36}},\ \bibinfo {pages} {408} (\bibinfo {year}
+  {1987})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Mahajan}\ and\ \citenamefont
+  {Rosenblatt}(1998)}]{Mahajan1998}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~P.}\ \bibnamefont
+  {Mahajan}}\ and\ \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
+  {Rosenblatt}},\ }\href {\doibase 10.1063/1.367883} {\bibfield  {journal}
+  {\bibinfo  {journal} {Journal of Applied Physics}\ }\textbf {\bibinfo
+  {volume} {83}},\ \bibinfo {pages} {7649} (\bibinfo {year}
+  {1998})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Filas}\ and\ \citenamefont {Patel}(1987)}]{Nov1987}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Filas}}\ and\ \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Patel}},\
+  }\href {http://link.aip.org/link/?APPLAB/50/1426/1} {\bibfield  {journal}
+  {\bibinfo  {journal} {Applied Physics Letters}\ }\textbf {\bibinfo {volume}
+  {50}},\ \bibinfo {pages} {1426} (\bibinfo {year} {1987})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Fuh}\ \emph {et~al.}(2009)\citenamefont {Fuh},
+  \citenamefont {Liu}, \citenamefont {Cheng}, \citenamefont {Ting},
+  \citenamefont {Chen}, \citenamefont {Chao}, \citenamefont {Hsu},
+  \citenamefont {Lc}, \citenamefont {Addlc},\ and\ \citenamefont
+  {Addlcs}}]{Fuh2009}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~Y.-g.}\
+  \bibnamefont {Fuh}}, \bibinfo {author} {\bibfnamefont {C.-k.}\ \bibnamefont
+  {Liu}}, \bibinfo {author} {\bibfnamefont {K.-t.}\ \bibnamefont {Cheng}},
+  \bibinfo {author} {\bibfnamefont {C.-l.}\ \bibnamefont {Ting}}, \bibinfo
+  {author} {\bibfnamefont {C.-c.}\ \bibnamefont {Chen}}, \bibinfo {author}
+  {\bibfnamefont {P.~C.-p.}\ \bibnamefont {Chao}}, \bibinfo {author}
+  {\bibfnamefont {H.-k.}\ \bibnamefont {Hsu}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Lc}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {Addlc}}, \ and\ \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Addlcs}},\ }\href {\doibase 10.1063/1.3253413} {\bibfield  {journal}
+  {\bibinfo  {journal} {Applied Physics Letters}\ }\textbf {\bibinfo {volume}
+  {95}},\ \bibinfo {pages} {161104} (\bibinfo {year} {2009})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Honma}\ and\ \citenamefont {Nose}(2007)}]{Honma2007}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Honma}}\ and\ \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Nose}},\
+  }\href {\doibase 10.1063/1.2732436} {\bibfield  {journal} {\bibinfo
+  {journal} {Journal of Applied Physics}\ }\textbf {\bibinfo {volume} {101}},\
+  \bibinfo {pages} {104903} (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Kim}\ \emph {et~al.}(2002)\citenamefont {Kim},
+  \citenamefont {Yoneya},\ and\ \citenamefont {Yokoyama}}]{Kim2002}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.-h.}\ \bibnamefont
+  {Kim}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Yoneya}}, \ and\
+  \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Yokoyama}},\ }\href
+  {\doibase 10.1038/nature01100.1.} {\bibfield  {journal} {\bibinfo  {journal}
+  {Nature}\ ,\ \bibinfo {pages} {159}} (\bibinfo {year} {2002})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Paek}\ \emph {et~al.}(1998)\citenamefont {Paek},
+  \citenamefont {Durning}, \citenamefont {Lee},\ and\ \citenamefont
+  {Lien}}]{Paek1998}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.-H.}\ \bibnamefont
+  {Paek}}, \bibinfo {author} {\bibfnamefont {C.~J.}\ \bibnamefont {Durning}},
+  \bibinfo {author} {\bibfnamefont {K.-W.}\ \bibnamefont {Lee}}, \ and\
+  \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Lien}},\ }\href {\doibase
+  10.1063/1.366825} {\bibfield  {journal} {\bibinfo  {journal} {Journal of
+  Applied Physics}\ }\textbf {\bibinfo {volume} {83}},\ \bibinfo {pages} {1270}
+  (\bibinfo {year} {1998})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Reznikov}\ \emph {et~al.}(2000)\citenamefont
+  {Reznikov}, \citenamefont {Ostroverkhova}, \citenamefont {Singer},
+  \citenamefont {Kim}, \citenamefont {Kumar}, \citenamefont {Lavrentovich},
+  \citenamefont {Wang},\ and\ \citenamefont {West}}]{Reznikov2000}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont
+  {Reznikov}}, \bibinfo {author} {\bibfnamefont {O.}~\bibnamefont
+  {Ostroverkhova}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
+  {Singer}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Kim}},
+  \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Kumar}}, \bibinfo
+  {author} {\bibfnamefont {O.}~\bibnamefont {Lavrentovich}}, \bibinfo {author}
+  {\bibfnamefont {B.}~\bibnamefont {Wang}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {West}},\ }\href
+  {http://www.ncbi.nlm.nih.gov/pubmed/20052065} {\bibfield  {journal} {\bibinfo
+   {journal} {Physical review letters}\ }\textbf {\bibinfo {volume} {84}},\
+  \bibinfo {pages} {1930} (\bibinfo {year} {2000})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Sakamoto}\ \emph {et~al.}(1996)\citenamefont
+  {Sakamoto}, \citenamefont {Arafune}, \citenamefont {Ito}, \citenamefont
+  {Ushioda}, \citenamefont {Suzuki},\ and\ \citenamefont
+  {Morokawa}}]{Sakamoto1996}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
+  {Sakamoto}}, \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Arafune}},
+  \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont {Ito}}, \bibinfo {author}
+  {\bibfnamefont {S.}~\bibnamefont {Ushioda}}, \bibinfo {author} {\bibfnamefont
+  {Y.}~\bibnamefont {Suzuki}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {S.}~\bibnamefont {Morokawa}},\ }\href {\doibase 10.1063/1.362744} {\bibfield
+   {journal} {\bibinfo  {journal} {Journal of Applied Physics}\ }\textbf
+  {\bibinfo {volume} {80}},\ \bibinfo {pages} {431} (\bibinfo {year}
+  {1996})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Jerome}(1991)}]{Search1991}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
+  {Jerome}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Rep.
+  Prog. Phys.}\ }\textbf {\bibinfo {volume} {54}},\ \bibinfo {pages} {391}
+  (\bibinfo {year} {1991})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Shah}\ and\ \citenamefont {Abbott}(2001)}]{Shah2001}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.~R.}\ \bibnamefont
+  {Shah}}\ and\ \bibinfo {author} {\bibfnamefont {N.~L.}\ \bibnamefont
+  {Abbott}},\ }\href {\doibase 10.1126/science.1062293} {\bibfield  {journal}
+  {\bibinfo  {journal} {Science (New York, N.Y.)}\ }\textbf {\bibinfo {volume}
+  {293}},\ \bibinfo {pages} {1296} (\bibinfo {year} {2001})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Yeung}\ and\ \citenamefont {Kwok}(2006)}]{Yeung2006}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.~S.-Y.}\
+  \bibnamefont {Yeung}}\ and\ \bibinfo {author} {\bibfnamefont {H.-S.}\
+  \bibnamefont {Kwok}},\ }\href {\doibase 10.1063/1.2172732} {\bibfield
+  {journal} {\bibinfo  {journal} {Applied Physics Letters}\ }\textbf {\bibinfo
+  {volume} {88}},\ \bibinfo {pages} {063505} (\bibinfo {year}
+  {2006})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Yu}\ and\ \citenamefont {Kwok}(2004)}]{Yu2004}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {X.~J.}\ \bibnamefont
+  {Yu}}\ and\ \bibinfo {author} {\bibfnamefont {H.~S.}\ \bibnamefont {Kwok}},\
+  }\href {\doibase 10.1063/1.1810215} {\bibfield  {journal} {\bibinfo
+  {journal} {Applied Physics Letters}\ }\textbf {\bibinfo {volume} {85}},\
+  \bibinfo {pages} {3711} (\bibinfo {year} {2004})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Yeung}\ \emph {et~al.}(2005)\citenamefont {Yeung},
+  \citenamefont {Xie}, \citenamefont {Kwok}, \citenamefont {Wan}, \citenamefont
+  {Tsui},\ and\ \citenamefont {Sheng}}]{Yeung2005}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.~S.-Y.}\
+  \bibnamefont {Yeung}}, \bibinfo {author} {\bibfnamefont {F.-C.}\ \bibnamefont
+  {Xie}}, \bibinfo {author} {\bibfnamefont {H.-S.}\ \bibnamefont {Kwok}},
+  \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Wan}}, \bibinfo {author}
+  {\bibfnamefont {O.}~\bibnamefont {Tsui}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {P.}~\bibnamefont {Sheng}},\ }\href {\doibase
+  10.1889/1.2036186} {\bibfield  {journal} {\bibinfo  {journal} {SID Symposium
+  Digest of Technical Papers}\ }\textbf {\bibinfo {volume} {36}},\ \bibinfo
+  {pages} {1080} (\bibinfo {year} {2005})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Janning}(1972)}]{Janning1972}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~L.}\ \bibnamefont
+  {Janning}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Applied Physics Letters}\ }\textbf {\bibinfo {volume} {21}},\ \bibinfo
+  {pages} {173} (\bibinfo {year} {1972})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Yeung}\ \emph {et~al.}(2006)\citenamefont {Yeung},
+  \citenamefont {Ho}, \citenamefont {Li}, \citenamefont {Xie}, \citenamefont
+  {Tsui}, \citenamefont {Sheng},\ and\ \citenamefont {Kwok}}]{Yeung2006a}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.~S.}\ \bibnamefont
+  {Yeung}}, \bibinfo {author} {\bibfnamefont {J.~Y.}\ \bibnamefont {Ho}},
+  \bibinfo {author} {\bibfnamefont {Y.~W.}\ \bibnamefont {Li}}, \bibinfo
+  {author} {\bibfnamefont {F.~C.}\ \bibnamefont {Xie}}, \bibinfo {author}
+  {\bibfnamefont {O.~K.}\ \bibnamefont {Tsui}}, \bibinfo {author}
+  {\bibfnamefont {P.}~\bibnamefont {Sheng}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {H.~S.}\ \bibnamefont {Kwok}},\ }\href {\doibase
+  10.1063/1.2171491} {\bibfield  {journal} {\bibinfo  {journal} {Applied
+  Physics Letters}\ }\textbf {\bibinfo {volume} {88}},\ \bibinfo {pages}
+  {051910} (\bibinfo {year} {2006})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Vaughn}\ \emph {et~al.}(2007)\citenamefont {Vaughn},
+  \citenamefont {Sousa}, \citenamefont {Kang},\ and\ \citenamefont
+  {Rosenblatt}}]{Vaughn2007}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
+  {Vaughn}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Sousa}},
+  \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Kang}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {C.}~\bibnamefont {Rosenblatt}},\ }\href {\doibase
+  10.1063/1.2737427} {\bibfield  {journal} {\bibinfo  {journal} {Applied
+  Physics Letters}\ }\textbf {\bibinfo {volume} {90}},\ \bibinfo {pages}
+  {194102} (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Wu}\ \emph {et~al.}(2008)\citenamefont {Wu},
+  \citenamefont {Wang},\ and\ \citenamefont {Fuh}}]{Wu2008}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {W.-Y.}\ \bibnamefont
+  {Wu}}, \bibinfo {author} {\bibfnamefont {C.-C.}\ \bibnamefont {Wang}}, \ and\
+  \bibinfo {author} {\bibfnamefont {A.~Y.}\ \bibnamefont {Fuh}},\ }\href
+  {http://www.ncbi.nlm.nih.gov/pubmed/18852824} {\bibfield  {journal} {\bibinfo
+   {journal} {Optics express}\ }\textbf {\bibinfo {volume} {16}},\ \bibinfo
+  {pages} {17131} (\bibinfo {year} {2008})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Ahn}\ \emph {et~al.}(2009)\citenamefont {Ahn},
+  \citenamefont {Jeong}, \citenamefont {Lee}, \citenamefont {Lee},
+  \citenamefont {Heo},\ and\ \citenamefont {Park}}]{Ahn2009}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
+  {Ahn}}, \bibinfo {author} {\bibfnamefont {Y.-C.}\ \bibnamefont {Jeong}},
+  \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Lee}}, \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {Lee}}, \bibinfo {author} {\bibfnamefont
+  {Y.}~\bibnamefont {Heo}}, \ and\ \bibinfo {author} {\bibfnamefont {J.-K.}\
+  \bibnamefont {Park}},\ }\href {http://www.ncbi.nlm.nih.gov/pubmed/19770875}
+  {\bibfield  {journal} {\bibinfo  {journal} {Optics express}\ }\textbf
+  {\bibinfo {volume} {17}},\ \bibinfo {pages} {16603} (\bibinfo {year}
+  {2009})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Lee}\ \emph {et~al.}(2009)\citenamefont {Lee},
+  \citenamefont {Kang}, \citenamefont {Clarke},\ and\ \citenamefont
+  {Rosenblatt}}]{Lee2009}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.-H.}\ \bibnamefont
+  {Lee}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Kang}}, \bibinfo
+  {author} {\bibfnamefont {C.~M.}\ \bibnamefont {Clarke}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {C.}~\bibnamefont {Rosenblatt}},\ }\href {\doibase
+  10.1063/1.3068187} {\bibfield  {journal} {\bibinfo  {journal} {Journal of
+  Applied Physics}\ }\textbf {\bibinfo {volume} {105}},\ \bibinfo {pages}
+  {023508} (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Kang}\ \emph {et~al.}(2009)\citenamefont {Kang},
+  \citenamefont {Park}, \citenamefont {Sohn}, \citenamefont {Kang},
+  \citenamefont {Rosenblatt},\ and\ \citenamefont {Lee}}]{Kang2009}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
+  {Kang}}, \bibinfo {author} {\bibfnamefont {J.~S.}\ \bibnamefont {Park}},
+  \bibinfo {author} {\bibfnamefont {E.-H.}\ \bibnamefont {Sohn}}, \bibinfo
+  {author} {\bibfnamefont {D.}~\bibnamefont {Kang}}, \bibinfo {author}
+  {\bibfnamefont {C.}~\bibnamefont {Rosenblatt}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {J.-C.}\ \bibnamefont {Lee}},\ }\href {\doibase
+  10.1016/j.polymer.2009.09.023} {\bibfield  {journal} {\bibinfo  {journal}
+  {Polymer}\ }\textbf {\bibinfo {volume} {50}},\ \bibinfo {pages} {522}
+  (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Hwang}\ \emph {et~al.}(2010)\citenamefont {Hwang},
+  \citenamefont {Jeng},\ and\ \citenamefont {Hsieh}}]{Hwang2010}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.-J.}\ \bibnamefont
+  {Hwang}}, \bibinfo {author} {\bibfnamefont {S.-C.}\ \bibnamefont {Jeng}}, \
+  and\ \bibinfo {author} {\bibfnamefont {I.-M.}\ \bibnamefont {Hsieh}},\ }\href
+  {http://www.ncbi.nlm.nih.gov/pubmed/20721039} {\bibfield  {journal} {\bibinfo
+   {journal} {Optics express}\ }\textbf {\bibinfo {volume} {18}},\ \bibinfo
+  {pages} {16507} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Jeng}\ \emph {et~al.}(2007)\citenamefont {Jeng},
+  \citenamefont {Kuo}, \citenamefont {Wang},\ and\ \citenamefont
+  {Liao}}]{Jeng2007}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.-C.}\ \bibnamefont
+  {Jeng}}, \bibinfo {author} {\bibfnamefont {C.-W.}\ \bibnamefont {Kuo}},
+  \bibinfo {author} {\bibfnamefont {H.-L.}\ \bibnamefont {Wang}}, \ and\
+  \bibinfo {author} {\bibfnamefont {C.-C.}\ \bibnamefont {Liao}},\ }\href
+  {\doibase 10.1063/1.2768309} {\bibfield  {journal} {\bibinfo  {journal}
+  {Applied Physics Letters}\ }\textbf {\bibinfo {volume} {91}},\ \bibinfo
+  {pages} {061112} (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Chen}\ and\ \citenamefont {Chu}(2008)}]{Chen2008}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.-J.}\ \bibnamefont
+  {Chen}}\ and\ \bibinfo {author} {\bibfnamefont {K.-L.}\ \bibnamefont {Chu}},\
+  }\href {\doibase 10.1063/1.2889495} {\bibfield  {journal} {\bibinfo
+  {journal} {Applied Physics Letters}\ }\textbf {\bibinfo {volume} {92}},\
+  \bibinfo {pages} {091102} (\bibinfo {year} {2008})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Hallam}(1999)}]{Hallam1999}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {B.~T.}\ \bibnamefont
+  {Hallam}},\ }\emph {\bibinfo {title} {{Grating alignment of liquid
+  crystals}}},\ \href@noop {} {Ph.D. thesis} (\bibinfo {year}
+  {1999})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Flanders}\ \emph {et~al.}(1978)\citenamefont
+  {Flanders}, \citenamefont {Shaver},\ and\ \citenamefont
+  {Smith}}]{Flanders1978}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.~C.}\ \bibnamefont
+  {Flanders}}, \bibinfo {author} {\bibfnamefont {D.~C.}\ \bibnamefont
+  {Shaver}}, \ and\ \bibinfo {author} {\bibfnamefont {H.~I.}\ \bibnamefont
+  {Smith}},\ }\href {\doibase 10.1063/1.89864} {\bibfield  {journal} {\bibinfo
+  {journal} {Applied Physics Letters}\ }\textbf {\bibinfo {volume} {32}},\
+  \bibinfo {pages} {597} (\bibinfo {year} {1978})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Zhang}\ \emph {et~al.}(2003)\citenamefont {Zhang},
+  \citenamefont {Lee}, \citenamefont {Tsui},\ and\ \citenamefont
+  {Sheng}}]{Zhang2003}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
+  {Zhang}}, \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont {Lee}}, \bibinfo
+  {author} {\bibfnamefont {O.}~\bibnamefont {Tsui}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {P.}~\bibnamefont {Sheng}},\ }\href
+  {http://link.aps.org/doi/10.1103/PhysRevLett.91.215501} {\bibfield  {journal}
+  {\bibinfo  {journal} {Physical review letters}\ }\textbf {\bibinfo {volume}
+  {91}},\ \bibinfo {pages} {215501} (\bibinfo {year} {2003})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Rastegar}\ \emph {et~al.}(2001)\citenamefont
+  {Rastegar}, \citenamefont {Skarabot}, \citenamefont {Blij},\ and\
+  \citenamefont {Rasing}}]{Rastegar2001}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {a.}~\bibnamefont
+  {Rastegar}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Skarabot}},
+  \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont {Blij}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {T.}~\bibnamefont {Rasing}},\ }\href {\doibase
+  10.1063/1.1335649} {\bibfield  {journal} {\bibinfo  {journal} {Journal of
+  Applied Physics}\ }\textbf {\bibinfo {volume} {89}},\ \bibinfo {pages} {960}
+  (\bibinfo {year} {2001})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {R\"{u}etschi}\ \emph {et~al.}(1994)\citenamefont
+  {R\"{u}etschi}, \citenamefont {Gr\"{u}tter}, \citenamefont
+  {F\"{u}nfschilling},\ and\ \citenamefont {G\"{u}ntherodt}}]{Ruetschi1994}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {R\"{u}etschi}}, \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Gr\"{u}tter}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {F\"{u}nfschilling}}, \ and\ \bibinfo {author} {\bibfnamefont {H.~J.}\
+  \bibnamefont {G\"{u}ntherodt}},\ }\href {\doibase
+  10.1126/science.265.5171.512} {\bibfield  {journal} {\bibinfo  {journal}
+  {Science (New York, N.Y.)}\ }\textbf {\bibinfo {volume} {265}},\ \bibinfo
+  {pages} {512} (\bibinfo {year} {1994})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Wang}\ \emph {et~al.}(2007)\citenamefont {Wang},
+  \citenamefont {Atherton}, \citenamefont {Zhu}, \citenamefont {Petschek},\
+  and\ \citenamefont {Rosenblatt}}]{Wang2007}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Wang}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Atherton}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Zhu}}, \bibinfo {author}
+  {\bibfnamefont {R.}~\bibnamefont {Petschek}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {C.}~\bibnamefont {Rosenblatt}},\ }\href {\doibase
+  10.1103/PhysRevE.76.021702} {\bibfield  {journal} {\bibinfo  {journal}
+  {Physical Review E}\ }\textbf {\bibinfo {volume} {76}},\ \bibinfo {pages}
+  {021702} (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Huang}\ and\ \citenamefont
+  {Rosenblatt}(2005)}]{Huang2005}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont
+  {Huang}}\ and\ \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
+  {Rosenblatt}},\ }\href {\doibase 10.1063/1.1844601} {\bibfield  {journal}
+  {\bibinfo  {journal} {Applied Physics Letters}\ }\textbf {\bibinfo {volume}
+  {86}},\ \bibinfo {pages} {011908} (\bibinfo {year} {2005})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Shioda}\ \emph {et~al.}(2003)\citenamefont {Shioda},
+  \citenamefont {Wen},\ and\ \citenamefont {Rosenblatt}}]{Shioda2003}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {Shioda}}, \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont {Wen}}, \ and\
+  \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Rosenblatt}},\ }\href
+  {\doibase 10.1103/PhysRevE.67.041706} {\bibfield  {journal} {\bibinfo
+  {journal} {Physical Review E}\ }\textbf {\bibinfo {volume} {67}},\ \bibinfo
+  {pages} {1} (\bibinfo {year} {2003})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Syed}\ and\ \citenamefont
+  {Rosenblatt}(2003)}]{Syed2003}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {I.}~\bibnamefont
+  {Syed}}\ and\ \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
+  {Rosenblatt}},\ }\href {\doibase 10.1103/PhysRevE.68.031701} {\bibfield
+  {journal} {\bibinfo  {journal} {Physical Review E}\ }\textbf {\bibinfo
+  {volume} {68}},\ \bibinfo {pages} {1} (\bibinfo {year} {2003})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Zheng}\ \emph {et~al.}(2007)\citenamefont {Zheng},
+  \citenamefont {Zheng}, \citenamefont {Lin}, \citenamefont {Wang},\ and\
+  \citenamefont {Yu}}]{Zheng2007}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
+  {Zheng}}, \bibinfo {author} {\bibfnamefont {W.}~\bibnamefont {Zheng}},
+  \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont {Lin}}, \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {Wang}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {S.}~\bibnamefont {Yu}},\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {Annual meeting of ROC TLCS}\ ,\ \bibinfo {pages} {43}}
+  (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Edwards}\ \emph {et~al.}(2010)\citenamefont
+  {Edwards}, \citenamefont {Taphouse}, \citenamefont {Cornford},\ and\
+  \citenamefont {Kitson}}]{Edwards2010}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {E.~G.}\ \bibnamefont
+  {Edwards}}, \bibinfo {author} {\bibfnamefont {T.~S.}\ \bibnamefont
+  {Taphouse}}, \bibinfo {author} {\bibfnamefont {S.~L.}\ \bibnamefont
+  {Cornford}}, \ and\ \bibinfo {author} {\bibfnamefont {S.~C.}\ \bibnamefont
+  {Kitson}},\ }\href {\doibase 10.1063/1.3279145} {\bibfield  {journal}
+  {\bibinfo  {journal} {Applied Physics Letters}\ }\textbf {\bibinfo {volume}
+  {96}},\ \bibinfo {pages} {021104} (\bibinfo {year} {2010})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Kitson}\ and\ \citenamefont
+  {Geisow}(2002)}]{Kitson2002}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Kitson}}\ and\ \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Geisow}},\ }\href {\doibase 10.1063/1.1478778} {\bibfield  {journal}
+  {\bibinfo  {journal} {Applied Physics Letters}\ }\textbf {\bibinfo {volume}
+  {80}},\ \bibinfo {pages} {3635} (\bibinfo {year} {2002})}\BibitemShut
+  {NoStop}%
+\bibitem [{Note21()}]{Note21}%
+  \BibitemOpen
+  \bibinfo {note} {Provided that sufficient alignment of the dye takes place,
+  the alignment of the dye represents the alignment of it's liquid crystal host
+  \cite {Edwards2010}}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Lueder}(2001)}]{Lueder2001}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
+  {Lueder}}\ }(\bibinfo  {publisher} {Wiley, Chichester},\ \bibinfo {year}
+  {2001})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Pidduck}\ \emph {et~al.}(1996)\citenamefont
+  {Pidduck}, \citenamefont {Bryan-Brown}, \citenamefont {Haslam},\ and\
+  \citenamefont {Bannister}}]{Pidduck1996}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~J.}\ \bibnamefont
+  {Pidduck}}, \bibinfo {author} {\bibfnamefont {G.~P.}\ \bibnamefont
+  {Bryan-Brown}}, \bibinfo {author} {\bibfnamefont {S.~D.}\ \bibnamefont
+  {Haslam}}, \ and\ \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Bannister}},\ }\href {\doibase 10.1080/02678299608032889} {\bibfield
+  {journal} {\bibinfo  {journal} {Liquid Crystals}\ }\textbf {\bibinfo {volume}
+  {21}},\ \bibinfo {pages} {759} (\bibinfo {year} {1996})}\BibitemShut
+  {NoStop}%
+\bibitem [{Note22()}]{Note22}%
+  \BibitemOpen
+  \bibinfo {note} {Provided both surfaces have been treated identically, as
+  will be discussed in the analysis (Section \ref
+  {sec:pretilt_analysis})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Cognard}(1982)}]{Cognard1982}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Cognard}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Molecular Crystals and Liquid Crystals}\ ,\ \bibinfo {pages} {1}} (\bibinfo
+  {year} {1982})}\BibitemShut {NoStop}%
+\bibitem [{Cam()}]{Cammanual}%
+  \BibitemOpen
+  \href@noop {} {\emph {\bibinfo {title} {{Operation Manual, CAM Contact angle
+  and urface tension meter, version 1.32. KSV Instruments}}}}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Owens}\ and\ \citenamefont
+  {Wendt}(1969)}]{Owens1969}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
+  {Owens}}\ and\ \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Wendt}},\
+  }\href {\doibase 10.1592/phco.30.10.1004} {\bibfield  {journal} {\bibinfo
+  {journal} {Journal of applied polymer science}\ }\textbf {\bibinfo {volume}
+  {13}},\ \bibinfo {pages} {1741} (\bibinfo {year} {1969})}\BibitemShut
+  {NoStop}%
+\bibitem [{Note23()}]{Note23}%
+  \BibitemOpen
+  \bibinfo {note} {A viewing window is milled out of both sides of the clamp to
+  allow for optical probing of the cell under flow should it be
+  required.}\BibitemShut {Stop}%
+\bibitem [{Note24()}]{Note24}%
+  \BibitemOpen
+  \bibinfo {note} {Where the manometer tubes meet the cell, the brass
+  connectors are bent through 90$^{\circ }$ so as to point vertically
+  upwards.}\BibitemShut {Stop}%
+\bibitem [{Note25()}]{Note25}%
+  \BibitemOpen
+  \bibinfo {note} {It should be noted that as six new connections have also
+  been introduced to the system, this adds more possible sites for leakage or
+  poor connections. This could easily lead to erroneous pressure
+  measurements.}\BibitemShut {Stop}%
+\bibitem [{Note26()}]{Note26}%
+  \BibitemOpen
+  \bibinfo {note} {A standard mercury thermometer was also used to monitor the
+  temperature of the hot water bath.}\BibitemShut {Stop}%
+\bibitem [{Note27()}]{Note27}%
+  \BibitemOpen
+  \bibinfo {note} {Using the same rubbing conditions as the previous cell
+  (rubbing parameter = 4.2).}\BibitemShut {Stop}%
+\bibitem [{Note28()}]{Note28}%
+  \BibitemOpen
+  \bibinfo {note} {This can not be guaranteed, as `pinning' of the director at
+  the surfaces may affect the flow}\BibitemShut {NoStop}%
+\bibitem [{Note29()}]{Note29}%
+  \BibitemOpen
+  \bibinfo {note} {A comparison of the individual left and right column heights
+  at 60 $\mu $L/h shown in both Figures \ref {fig:isotropic_check} and \ref
+  {fig:second_diode_right_to_left} also yields the same results.}\BibitemShut
+  {Stop}%
+\bibitem [{\citenamefont {Skarp}\ \emph {et~al.}(1979)\citenamefont {Skarp},
+  \citenamefont {Lagerwall}, \citenamefont {Stebler},\ and\ \citenamefont
+  {McQueen}}]{Skarp1979}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
+  {Skarp}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Lagerwall}},
+  \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont {Stebler}}, \ and\
+  \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {McQueen}},\ }\href
+  {http://www.iop.org/EJ/article/1402-4896/19/4/008/physscr_19_4_008.pdf}
+  {\bibfield  {journal} {\bibinfo  {journal} {Physica Scripta}\ }\textbf
+  {\bibinfo {volume} {19}},\ \bibinfo {pages} {339} (\bibinfo {year}
+  {1979})}\BibitemShut {NoStop}%
+\bibitem [{Note30()}]{Note30}%
+  \BibitemOpen
+  \bibinfo {note} {Note that there has been no change in the flow rate set at
+  the syringe drive}\BibitemShut {NoStop}%
+\bibitem [{Note31()}]{Note31}%
+  \BibitemOpen
+  \bibinfo {note} {Of course, much like the V and H-State reported by Jewell
+  \cite {Jewell2009}, it is likely that this system will undergo a nucleated
+  transition to a more energetically favourable director profile.}\BibitemShut
+  {Stop}%
+\bibitem [{Note32()}]{Note32}%
+  \BibitemOpen
+  \bibinfo {note} {Values of $g=9.8$ m/s$^2$ and $\rho =1020$ kg/m$^3$ from
+  Stewart \cite {Stewart2004} were used.}\BibitemShut {Stop}%
+\bibitem [{\citenamefont {Cladis}\ and\ \citenamefont
+  {Kleman}(1972)}]{Cladis1972}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Cladis}}\ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Kleman}},\ }\href {http://hal.archives-ouvertes.fr/jpa-00207284/} {\bibfield
+   {journal} {\bibinfo  {journal} {Le Journal de Physique}\ }\textbf {\bibinfo
+  {volume} {33}},\ \bibinfo {pages} {591} (\bibinfo {year} {1972})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Palffy-muhoray}\ \emph {et~al.}(1993)\citenamefont
+  {Palffy-muhoray}, \citenamefont {Sparavigna},\ and\ \citenamefont
+  {Strigazzi}}]{Palffy-muhoray1993}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Palffy-muhoray}}, \bibinfo {author} {\bibfnamefont {a.}~\bibnamefont
+  {Sparavigna}}, \ and\ \bibinfo {author} {\bibfnamefont {a.}~\bibnamefont
+  {Strigazzi}},\ }\href {\doibase 10.1080/02678299308027822} {\bibfield
+  {journal} {\bibinfo  {journal} {Liquid Crystals}\ }\textbf {\bibinfo {volume}
+  {14}},\ \bibinfo {pages} {1143} (\bibinfo {year} {1993})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Ziherl}\ and\ \citenamefont
+  {Zumer}(1996)}]{Ziherl1996}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Ziherl}}\ and\ \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Zumer}},\
+  }\href {http://www.ncbi.nlm.nih.gov/pubmed/9965232} {\bibfield  {journal}
+  {\bibinfo  {journal} {Physical review. E, Statistical physics, plasmas,
+  fluids, and related interdisciplinary topics}\ }\textbf {\bibinfo {volume}
+  {54}},\ \bibinfo {pages} {1592} (\bibinfo {year} {1996})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Atherton}()}]{Athertona}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.~J.}\ \bibnamefont
+  {Atherton}},\ }\href@noop {} {\enquote {\bibinfo {title} {{Private
+  communication}},}\ }\BibitemShut {NoStop}%
+\bibitem [{Note33()}]{Note33}%
+  \BibitemOpen
+  \bibinfo {note} {Some preliminary experiments into creating circular
+  cross-sectional flow channels have also been made as part of this study. This
+  has involved the setting of electrical wire in Polydimethylsiloxane (PDMS) (a
+  silicon based organic polymer) and drawing it out to leave a smooth flow
+  channel behind. A common problem here is that the PDMS does not always cure
+  hard and can expand and contract when pressure is applied.}\BibitemShut
+  {Stop}%
 \bibitem [{\citenamefont {Helfrich}(1969{\natexlab{b}})}]{Helfrich1969a}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {W.}~\bibnamefont

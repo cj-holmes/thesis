@@ -1,11 +1,11 @@
-\chapter{Flow alignment}
+\section{Flow alignment}
 \label{cha:45}
-\section{Introduction}
+\subsection{Introduction}
 It is fair to say that the number of predictions, implications and questions that arise from the analysis of any dynamic theory of liquid crystals seems to be almost endless. This, along with the sheer amount of experiments that one could dream up to test these predictions, makes the study of liquid crystal dynamics a vast and interesting area of research. As such, in this chapter introductory experimental work carried out on the pressure driven flow alignment of a nematic liquid crystal exhibiting planar homogeneous alignment is presented.
 
 In this study the director reorientation under pressure driven flow has been observed primarily for an initial alignment condition of $\phi_0=45^{\circ}$ (the director is aligned at $45^{\circ}$ to the direction of flow through a rubbed polymer layer). The reorientation of the director by the flow field is observed by means of optical conoscopy, and a comparison is made between the rotation of the experimental figures and the rotation of simulated figures. Simulated figures are constructed from director profiles calculated using the dynamic theory of Ericksen, Leslie and Parodi as described in Section \ref{sec:theory}. An analysis of the $\theta$ and $\phi$ director profiles as a function of position in $z$ and flow rate will also be presented. A good level of agreement between the one dimensional model and the experimental results is shown.
 
-\section{Azimuthal alignment}
+\subsection{Azimuthal alignment}
 When conducting any experiment that examines the behaviour of a nematic liquid crystal (and liquid crystals in general), there is a vast range of initial director profiles that can be chosen for a cell, with each one creating a distinct alignment state of the director for the measurement of a particular property of that liquid crystal. For example, much work has been carried out in the Exeter group on the dynamics of Hybrid Aligned Nematic (HAN) cells \cite{Jewell2003,Jewell2004,Jewell2005,Yang2007,Jewell2002a}. For HAN cells, the director is given planar alignment on one surface (conventionally by a buffed polymer layer) and vertical alignment (conventially from lecithin dissolved in ether) on the other. In HAN cells, the strength of the bend and splay distortions result in a threshold-less response to applied electric fields. This means that very small voltages will substantially distort the highly sensitive director\footnote{The HAN cell is also of commercial interest as it is one of the stable states of the Zenithal Bistable Device.}.
 
 When considering experiments involving the flow of a nematic liquid crystal, the three principal orientations of the director that one may consider, are those of the Miesowicz viscosities (shown schematically in Figure \ref{fig:eta}). Much like in the HAN cell, a liquid crystal flow cell can also be designed to have different combinations of alignment on the inner surfaces, with these different alignments allowing for examination of different flow properties of the liquid crystal. 
@@ -24,7 +24,7 @@ For flow in a cell that has an initial alignment of $\phi_0=0^{\circ}$, parallel
 
 \begin{figure}
 \begin{center}
-\includegraphics[width=0.7\textwidth]{Figures/45/vary_phi}
+\includegraphics{Figures/45/vary_phi}
 \end{center}
 \caption[Average director rotation for varying values of $\phi_0$]{\label{fig:different_phis} Computed mean azimuthal rotation of the director as a function of the volumetric flow rate for varying values of $\phi_0$. Curves are calculated for a 50 $\mu$m thick, homogeneously aligned liquid crystal cell $\left(\theta_0=90^{\circ}\right)$ with initial azimuthal alignment $\left(\phi_0\right)$ ranging from 0 to 80$^{\circ}$. The difference in distortion profile from $\phi_0=0^{\circ}$ to $\phi_0=89^{\circ}$ is clear.}
 \end{figure}
@@ -41,14 +41,14 @@ In their experiment, a sample of the nematic liquid crystal MBBA aligned at $\ph
 
 \begin{figure}
 \begin{center}
-\includegraphics[width=0.7\textwidth]{Figures/45/pieranski}
+\includegraphics{Figures/45/pieranski}
 \end{center}
 \caption[The Pieranski-Guyon instability]{\label{fig:Pieranski_Guyon_instability} The Pieranski-Guyon instability. Computed distortions are shown (as in Figure \ref{fig:different_phis}) for varying values of $\phi_0$ close to 90$^{\circ}$. As $\phi_0$ approaches 90$^{\circ}$, the Pieranski-Guyon instability is seen, whereby there is no azimuthal rotation of the director at low flow rates. This instability is explained by the stable solutions to the dynamic equations of $\phi=90^{\circ},\theta=90^{\circ}$.}
 \end{figure}
 
 As explained by Pieranski, in order for the instability to exist, there needs to be a small fluctuation of the director away from the planar homogeneous alignment condition. This small displacement then creates a torque on the director under flow, bringing, as described by Pieranski and Guyon in a later paper, the director into the flow line \cite{Pieranski1974}. Their work then goes on to show that the critical velocity for the onset of distortion can be further increased by the application of a magnetic field holding the director in the initial $\phi_0=90^{\circ}$ state. As the strength of the magnetic field is increased, the rate of shear needed for the director field to begin rotating is also increased. This is shown to be consistent with the fact that the stabilising magnetic field is trying to keep the director confined at $\phi_0=90^{\circ}$. As is also remarked upon in the paper of 1974, for initial alignment of \textit{exactly} $\phi_0=90^{\circ}$, two equivalent distortions symmetric with respect to the $x-z$ plane can take place, which leads to the formation of walls of opposite $\phi$ rotation along the flow direction. For this reason, a small azimuthal angle is introduced so that the director is not normal to flow, and is distorted only into one of the stable alignment states \cite{Pieranski1974}.
 
-\section{Tilt alignment}
+\subsection{Tilt alignment}
 \label{sec:tilt_alignment}
 As has already been described, flow aligning nematic liquid crystals have also been theoretically predicted and experimentally observed to tilt towards the steady state Leslie angle in the $x-z$ plane, $\theta_l$, whose value is given by equation \ref{eq:Leslie_angle}. As is described in both Ian Stewart's \cite{Stewart2004} and Pawel Pieranski's \cite{Pieranski2005} book, under shear flow, the director will rotate to achieve the Leslie angle throughout the depth of the sample, with the exception of two thin layers at the cell walls, where elastic forces will constrain the director to maintain it's original alignment, as is shown schematically in Figure \ref{fig:c_p} (a). This response can be described as being due to the linear, non-symmetric about $z=d/2$ velocity distribution created by the shear flow technique. In this regime, the director experiences the same velocity gradient at all points in $z$ and hence forms a uniformly tilted slab whose $\theta$ value is $\theta_l$.
 
@@ -56,8 +56,8 @@ In the case of Poiseuille or pressure driven flow (shown schematically in Figure
 
 \begin{figure}
 \begin{center}
-\subfigure[Shear driven flow]{\includegraphics[width=0.3\textwidth]{Figures/45/shear}}\hspace{0.5in}
-\subfigure[Pressure driven flow]{\includegraphics[width=0.3\textwidth]{Figures/45/pressure}}
+\subfigure[Shear driven flow]{\includegraphics[width=0.2\textwidth]{Figures/45/shear}}\hspace{0.1in}
+\subfigure[Pressure driven flow]{\includegraphics[width=0.2\textwidth]{Figures/45/pressure}}
 \end{center}
 \caption[Comparison of flow profiles. Shear flow and pressure-driven flow]{\label{fig:c_p}Schematic diagram representing the director distorting towards the Leslie angle under both sheared flow (a) and pressure driven flow (b). The symmetry of the velocity profile (shown in red) for pressure driven flow (b), results in the symmetric about $z=d/2$ director tilt profile, where the director rotates to achieve $\theta_l$ in the bottom half of the cell and $-\theta_l$ in the top half.}
 \end{figure}
@@ -68,7 +68,7 @@ A recent study by Jewell \textit{et al} \cite{Jewell2009} experimentally verifie
 
 \begin{figure}
 \begin{center}
-\includegraphics[width=0.7\textwidth]{Figures/45/sharon_flow}
+\includegraphics{Figures/45/sharon_flow}
 \end{center}
 \caption[Computed and measured velocity profiles as a function of cell depth]{\label{fig:sharon_flow}Computed and measured velocity profiles as a function of cell depth, recreated with permission from reference \cite{Jewell2009}. Here, the flow speeds of 1 $\mu$m diameter beads distributed within the homeotropically aligned liquid crystal ZLI-2806 (Merck) over a region of 160 $\mu$m $\times$ 160 $\mu$m are recorded at varying depths $\left(z\right)$. Simulated curves for 5CB (a good approximation) are also shown. This figure demonstrates the close to zero flow speeds at the glass plates for a cell under pressure driven flow.}
 \end{figure}
@@ -77,13 +77,13 @@ It is clear from Figure \ref{fig:sharon_flow} that the velocity profiles under p
 
 This chapter will now go on to detail the experimental results and analysis of conoscopic images captured for a cell aligned initially planar homogeneously at $\phi_0=45^{\circ}$ and made to flow through the application of a pressure gradient.
 
-\section{Experiment}
+\subsection{Experiment}
 \label{sec:45_experiment}
 For the experimental data that is presented in this chapter, prior to cell fabrication (as detailed previously in Chapter \ref{sec:theory}), the glass slides were spin coated with the planar aligning polyimide Optimer AL1254 (JSR corporation) at 6000 rpm for 1 minute, before being baked in an oven at 180 $^{\circ}$C for 1 hour. After baking, the cells were rubbed using a conventional rubbing machine, consisting of a translating stage and rotating drum upon which a rubbing cloth is attached. Both slides were rubbed so as to align the director at 45$^{\circ}$ to the flow direction throughout the depth of the cell. Caution must be taken to ensure that during cell fabrication, both surfaces are rubbed in the correct direction, in particular this is true when one is trying to align the director at an azimuthal angle that is neither parallel or perpendicular to one side of the cell. In this experiment, when rubbing the two plates, one must be rubbed at 45$^{\circ}$ to the flow direction and one at 135$^{\circ}$ to the flow direction. This ensures that when one plate is turned over so that the alignment layers form the inside walls of the cell, both surfaces are rubbed at 45$^{\circ}$ to the flow direction, as is shown schematically in Figures \ref{fig:rubbing} (a) and (b). A schematic diagram of the flow cell used in this experiment is also shown in Figure \ref{fig:rubbing} (c)
 
 \begin{figure}
 \begin{center}
-\includegraphics[width=0.8\textwidth]{Figures/45/rubbing}
+\includegraphics{Figures/45/rubbing}
 \end{center}
 \caption[Rubbing directions for $\phi_0=45^{\circ}$]{\label{fig:rubbing}(a) One glass slide is rubbed at 45$^{\circ}$ and the other is rubbed at 135$^{\circ}$. (b) When the inner surfaces are brought together to make a cell, both surfaces are rubbed at 45$^{\circ}$ to the flow direction. (c) A completed cell with inlet pipe attached and rubbing direction indicated by the individual nematic molecules.}
 \end{figure}
@@ -92,19 +92,19 @@ The flow cell is then connected to the syringe drive as detailed in Chapter \ref
 
 \begin{figure}
 \begin{center}
-\subfigure[0 $\mu$L/h]{\includegraphics[width=0.17\textwidth]{Figures/45/data00l}}
-\subfigure[5 $\mu$L/h]{\includegraphics[width=0.17\textwidth]{Figures/45/data01}}
-\subfigure[10 $\mu$L/h]{\includegraphics[width=0.17\textwidth]{Figures/45/data02}}
-\subfigure[15 $\mu$L/h]{\includegraphics[width=0.17\textwidth]{Figures/45/data03}}
-\subfigure[20 $\mu$L/h]{\includegraphics[width=0.17\textwidth]{Figures/45/data04}}
-\subfigure[25 $\mu$L/h]{\includegraphics[width=0.17\textwidth]{Figures/45/data05l}}
-\subfigure[30 $\mu$L/h]{\includegraphics[width=0.17\textwidth]{Figures/45/data06}}
-\subfigure[35 $\mu$L/h]{\includegraphics[width=0.17\textwidth]{Figures/45/data07}}
-\subfigure[40 $\mu$L/h]{\includegraphics[width=0.17\textwidth]{Figures/45/data08}}
-\subfigure[45 $\mu$L/h]{\includegraphics[width=0.17\textwidth]{Figures/45/data09}}
-\subfigure[50 $\mu$L/h]{\includegraphics[width=0.17\textwidth]{Figures/45/data10l}}
-\subfigure[55 $\mu$L/h]{\includegraphics[width=0.17\textwidth]{Figures/45/data11}}
-\subfigure[]{\includegraphics[width=0.17\textwidth]{Figures/45/coord}}
+\subfigure[0 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/data00l}}
+\subfigure[5 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/data01}}
+\subfigure[10 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/data02}}
+\subfigure[15 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/data03}}
+\subfigure[20 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/data04}}
+\subfigure[25 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/data05l}}
+\subfigure[30 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/data06}}
+\subfigure[35 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/data07}}
+\subfigure[40 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/data08}}
+\subfigure[45 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/data09}}
+\subfigure[50 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/data10l}}
+\subfigure[55 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/data11}}
+\subfigure[]{\includegraphics[width=0.15\textwidth]{Figures/45/coord}}
 \end{center}
 \caption[Experimental conoscopic figures as a function of flow rate ($\phi_0=45^{\circ}$)]{\label{fig:45_data} Experimental conoscopic interference figures for the cell rubbed at $\phi_0=45^{\circ}$. Here, the rotation of the conoscopic figure as a function of the volumetric flow rate set by the syringe drive (shown in the individual figure caption) is observed. Figures (a), (f) and (k) also depict the azimuthal angle of the conoscopic figure as measured relative to the flow direction from the automated routine described by Figure \ref{fig:rotation1}. Figure (m) also shows the flow direction and initial rubbing direction.}
 \end{figure}
@@ -113,14 +113,14 @@ Once the images are captured, the method described in Chapter \ref{sec:theory} i
 
 \begin{figure}
 \begin{center}
-\subfigure[]{\includegraphics[width=0.38\textwidth]{Figures/45/rotation/1aa}}\hspace{0.3in}
-\subfigure[]{\includegraphics[width=0.38\textwidth]{Figures/45/rotation/2aa}}
-\subfigure[]{\includegraphics[width=0.38\textwidth]{Figures/45/rotation/3aa}}\hspace{0.3in}
-\subfigure[]{\includegraphics[width=0.38\textwidth]{Figures/45/rotation/4aa}}
-\subfigure[]{\includegraphics[width=0.38\textwidth]{Figures/45/rotation/5aa}}\hspace{0.3in}
-\subfigure[]{\includegraphics[width=0.38\textwidth]{Figures/45/rotation/6aa}}
-\subfigure[]{\includegraphics[width=1\textwidth]{Figures/45/lines}}
-\subfigure[]{\includegraphics[width=1\textwidth]{Figures/45/angles}}
+\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/45/rotation/1aa}}\hspace{0.3in}
+\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/45/rotation/2aa}}
+\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/45/rotation/3aa}}\hspace{0.3in}
+\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/45/rotation/4aa}}
+\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/45/rotation/5aa}}\hspace{0.3in}
+\subfigure[]{\includegraphics[width=0.2\textwidth]{Figures/45/rotation/6aa}}
+\subfigure[]{\includegraphics[width=0.48\textwidth]{Figures/45/lines}}
+\subfigure[]{\includegraphics[width=0.48\textwidth]{Figures/45/angles}}
 \end{center}
 \caption[Conoscopic figure automated rotation tracking ($\phi_0=45^{\circ}$)]{\label{fig:rotation1} The automated tracking of conoscopic figure rotation. Here, the initial guess (a) and subsequent iterations (b - f) of the azimuthal alignment are shown, along with the pixel intensities of the test lines for the 50 $\mu L/h$ flow conoscopic figure taken from Figure \ref{fig:45_data}. After five iterations, the best fit has been achieved, measuring an angle of $\phi\approx13^{\circ}$. Figure (g) shows all of the angles calculated from the automated fitting routine plotted in a line, (h) shows lines drawn at the angles shown in (g) on top of the experimental conoscopic figures from Figure \ref{fig:45_data}. It is clear that the output from the automated routine for calculating the angle of the conoscopic figure has produced accurate results.}
 \end{figure}
@@ -129,14 +129,14 @@ A plot of the rotation angle, $\psi$ (measured from the figure's $x$ axis, or th
 
 \begin{figure}
 \begin{center}
-\includegraphics[width=0.65\textwidth]{Figures/45/45_data1}
+\includegraphics{Figures/45/45_data1}
 \end{center}
 \caption[Conoscopic figure rotation as a function of volumetric flow rate ($\phi_0=45^{\circ}$)]{\label{fig:45_data_plot}A plot of the conoscopic figure azimuthal angle $\psi$, as a function of volumetric flow rate set at the syringe drive. Simulated conoscopic figure rotation is also depicted by the solid red line (obtained using the same automated routine). The simulated maximum azimuthal distortion at $z=d/2$ is also shown as a function of the volumetric flow rate (dashed black line).}
 \end{figure}
 
 These results will now be discussed and analysed in the following section.
 
-\section{Analysis}
+\subsection{Analysis}
 \label{sec:analysis}
 It is shown in Figure \ref{fig:45_data_plot} that there is good agreement between the rotation of the experimental conoscopic figures and the rotation of the simulated conoscopic figures as a function of the volumetric flow rate. The same non-linear shape to the curve is seen for both data sets, with rotation occurring slowly at lower flow rates, before rotating rapidly in the 5 - 35 $\mu$L/h region, before slowing down at the highest flow rates, as the director rotates towards $\phi=0^{\circ}$. The simulated conoscopic figures that produce the modelled curve in Figure \ref{fig:45_data_plot} can be seen along with the experimental conoscopic figures in Figure \ref{fig:45_model_data}, again, along with the calculated volumetric flow rate from the model. The qualitative similarity between the experimental and simulated conoscopic figures is clear. As the volumetric flow rate is increased, a rotation of the conoscopic figure is seen, starting from an initial alignment of 45$^{\circ}$ and rotating at high flow rates to achieve an angle that is approaching being parallel to the flow direction.
 
@@ -146,8 +146,8 @@ Another important exercise when simulating the dynamic response of the director 
 
 \begin{figure}
 \begin{center}
-\subfigure[Mean azimuthal distortion]{\includegraphics[width=0.49\textwidth]{Figures/45/averagetwist_conrotation}}
-\subfigure[Model convergence]{\includegraphics[width=0.49\textwidth]{Figures/45/convergance}}
+\subfigure[Mean azimuthal distortion]{\includegraphics[width=0.45\textwidth]{Figures/45/averagetwist_conrotation}}
+\subfigure[Model convergence]{\includegraphics[width=0.45\textwidth]{Figures/45/convergance}}
 \end{center}
 \caption[Simulated conoscopic figure rotation and convergance of model]{\label{fig:simulations} (a) A plot of the simulated mean azimuthal distortion of the director in the cell (lines) and the rotation of the corresponding simulated conoscopic figures (points). Here, the Pieranski-Guyon instability is also seen in the conoscopic figure rotation (red line and circles). (b) Model convergence. Computed distortions are shown for varying values of the multiplication factor $\chi$ (or time) given for the model to reach steady state. Clearly, large changes are seen at low time factors (essentially the director has not yet reached steady state). As the time factor is increased, convergance is rapidly reached, where no change in the mean azimuthal rotation is seen for factors of $\chi=10$ and $\chi=20$ (best shown in the expanded section of the graph).}
 \end{figure}
@@ -163,9 +163,9 @@ Figure \ref{fig:twist_tilt_profile}(b) shows the tilt profile as a function of c
 
 \begin{figure}
 \begin{center}
-\subfigure[Twist profile]{\includegraphics[width=0.49\textwidth]{Figures/45/twist_profile}}
-\subfigure[Tilt profile]{\includegraphics[width=0.49\textwidth]{Figures/45/tilt_profile}}
-\subfigure[Velocity profile]{\includegraphics[width=0.49\textwidth]{Figures/45/velocity_profile}}
+\subfigure[Twist profile]{\includegraphics[width=0.3\textwidth]{Figures/45/twist_profile}}
+\subfigure[Tilt profile]{\includegraphics[width=0.3\textwidth]{Figures/45/tilt_profile}}
+\subfigure[Velocity profile]{\includegraphics[width=0.3\textwidth]{Figures/45/velocity_profile}}
 \end{center}
 \caption[Simulated twist, tilt and velocity profiles ($\phi_0=45^{\circ}$)]{\label{fig:twist_tilt_profile} Azimuthal `twist' (a), zenith `tilt' (b) and velocity profiles (c) as a function of cell depth and volumetric flow rate (calculated from the simulated pressure gradient). All three figures show curves at regular intervals from blue (no flow) to yellow (maximum flow), going through orange. (a) Azimuthal rotation is simulated to be symmetric about $z=d/2$ with the whole cell rotating towards $\phi=0^{\circ}$ apart from at the cell boundaries. (b) Tilt distortions are also seen to be symmetric about $z=d/2$ as schematically shown in Figure \ref{fig:c_p} (b), with the director saturating at the Leslie angle in the bottom and top halves of the cell. (c) Simulated, symmetric about $z=d/2$, velocity profiles. For the maximum volumetric flow rate, a fluid velocity of approximately 500 $\mu m/s$ is shown at $z=d/2$.}
 \end{figure}
@@ -191,25 +191,25 @@ Note that in a cell where the director is confined to be uniformly aligned at ex
 
 \begin{figure}
 \begin{center}
-\includegraphics[width=0.65\textwidth]{Figures/45/leslie_angle}
+\includegraphics{Figures/45/leslie_angle}
 \end{center}
 \caption[Simulated tilt angle of the director saturating at $\theta_l$ at $z=d/4$ and $z=3d/4$]{\label{fig:leslie_angle}A plot showing the simulated tilt angle at $z=d/4$ (red line) and $z=3d/4$ (blue line) approaching saturation at the Leslie angle (dashed lines) as a function of the volumetric flow rate. The black line shows the mathematical mean value of the tilt angle.}
 \end{figure}
 
 \begin{figure}
 \begin{center}
-\subfigure[ 0 $\mu$L/h]{\includegraphics[width=0.18\textwidth]{Figures/45/data00}}
-\subfigure[ 0 $\mu$L/h]{\includegraphics[width=0.18\textwidth]{Figures/45/model/00}}\\
-\subfigure[ 10 $\mu$L/h]{\includegraphics[width=0.18\textwidth]{Figures/45/data02}}
-\subfigure[ 10 $\mu$L/h]{\includegraphics[width=0.18\textwidth]{Figures/45/model/15}}\\
-\subfigure[ 20 $\mu$L/h]{\includegraphics[width=0.18\textwidth]{Figures/45/data04}}
-\subfigure[ 20 $\mu$L/h]{\includegraphics[width=0.18\textwidth]{Figures/45/model/31}}\\
-\subfigure[ 30 $\mu$L/h]{\includegraphics[width=0.18\textwidth]{Figures/45/data06}}
-\subfigure[ 30 $\mu$L/h]{\includegraphics[width=0.18\textwidth]{Figures/45/model/47}}\\
-\subfigure[ 40 $\mu$L/h]{\includegraphics[width=0.18\textwidth]{Figures/45/data08}}
-\subfigure[ 40 $\mu$L/h]{\includegraphics[width=0.18\textwidth]{Figures/45/model/63}}\\
-\subfigure[ 50 $\mu$L/h]{\includegraphics[width=0.18\textwidth]{Figures/45/data10}}
-\subfigure[ 50 $\mu$L/h]{\includegraphics[width=0.18\textwidth]{Figures/45/model/79}}
+\subfigure[ 0 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/data00}}
+\subfigure[ 0 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/model/00}}\\
+\subfigure[ 10 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/data02}}
+\subfigure[ 10 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/model/15}}\\
+\subfigure[ 20 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/data04}}
+\subfigure[ 20 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/model/31}}\\
+\subfigure[ 30 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/data06}}
+\subfigure[ 30 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/model/47}}\\
+\subfigure[ 40 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/data08}}
+\subfigure[ 40 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/model/63}}\\
+\subfigure[ 50 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/data10}}
+\subfigure[ 50 $\mu$L/h]{\includegraphics[width=0.15\textwidth]{Figures/45/model/79}}
 \end{center}
 \caption[Comparison between experimental and simulated conoscopic figures ($\phi_0=45^{\circ}$)]{\label{fig:45_model_data} A comparison between the experimental and simulated conoscopic figures. Experimental figures are shown in the column on the left and simulated figures are shown in the column on the right. Both are shown for the volumetric flow rate given in the individual figure caption.}
 \end{figure}
@@ -221,14 +221,14 @@ As expected, for the case where the director is initially aligned at $\phi_0\app
 
 
 
-\section{Terminating flow}
+\subsection{Terminating flow}
 \label{sec:stop_flow}
 As was mentioned in Section \ref{sec:analysis}, when the flow is stopped, there is no longer any flow induced torque acting on the director. As such, the competing torques are no longer in balance, with the only component of torque coming from the elastic restoration of the surface aligning layer. At the cell boundary, the director is strongly anchored to be aligned at $\phi=45^{\circ}$, but away from the cell boundaries, at high flow rates, the director is rotated into the flow direction as shown in Figure \ref{fig:twist_tilt_profile}(a). The resulting reaction when the flow is terminated is for the director to rotate back to its initial alignment angle of $\phi_0=45^{\circ}$ under force from the elastic distortion created by the flow alignment. Figure \ref{fig:time_relax} (b) shows a plot of the conoscopic figure rotation angle as a function of time, with $t=0$ being the moment that the flow is terminated\footnote{The data for this plot is not taken from the same cell that the data from Figure \ref{fig:45_data_plot} is taken, but rather a new cell made much later on.}. Inherently, it is difficult to make this measurement due to the conoscopic figure rotating back to it's initial alignment within approximately 15 seconds. Figure capture and storage was not possible on this time scale. In order to take these measurements, a video of the rotation was captured, whereby a cocktail stick was introduced into the field of view at the same time that the flow was terminated. This way, when playing back the footage, $t=0$ could be identified.
 
 \begin{figure}
 \begin{center}
-\subfigure[]{\includegraphics[width=0.55\textwidth]{Figures/45/0,45,90}}
-\subfigure[]{\includegraphics[width=0.55\textwidth]{Figures/45/time_relax}}
+\subfigure[]{\includegraphics[width=0.4\textwidth]{Figures/45/0,45,90}}
+\subfigure[]{\includegraphics[width=0.4\textwidth]{Figures/45/time_relax}}
 \end{center}
 \caption[Conoscopic figure rotation for different $\phi_0$ and terminating flow]{\label{fig:time_relax} (a) Data taken from cells fabricated in this study. For cells initially rubbed at $\phi_0\approx89^{\circ}$, $\phi_0=45^{\circ}$ and $\phi_0=0^{\circ}$ (the value of $\psi$ at 0 $\mu$L/h), rotation of the conoscopic figure is observed. For the cell with initial alignment of $\phi_0=0^{\circ}$, no rotation of the conoscopic figure is observed. This is explained by the fact that the director is initially in the steady state condition. (b) Relaxation of the conoscopic figure. Flow is switched off (from a volumetric rate of 100 $\mu$L/h) and the figure's rotation angle $\psi$ is plotted as a function of time. Time = 0 s indicates the moment at which the pump is stopped. It is demonstrated that the figure rotates back to it's initial alignment of $\phi_0\approx45^{\circ}$ within approximately 20 seconds of the pump being switched off. Note that this data is taken from a different cell than the one used to extract the data for Figure \ref{fig:45_data_plot}.}
 \end{figure}
@@ -236,7 +236,7 @@ As was mentioned in Section \ref{sec:analysis}, when the flow is stopped, there 
 
 Figure \ref{fig:time_relax} shows that within approximately 15 seconds, the director has rotated back to the original alignment state, and we also observe that the conoscopic figure has returned to its initial image. As mentioned in Pieranski's paper of 1974 \cite{Pieranski1974}, the result that the conoscopic figure returns to the initial state when the flow is stopped is essential in describing the process which leads to the observed flow alignment. In this case, it is clear that no permanent deformation of the aligning layer has occurred due to the pressure induced flow in the cell.
 
-\section{Further simulation}
+\subsection{Further simulation}
 \label{sec:45_vary_tilt}
 The one dimensional model used for the simulation of the director distortion in this chapter can also be used to easily simulate pressure driven flow under different director alignment conditions. As a tool, it is extremely powerful and useful in enabling the user to edit all of the parameters and subsequently simulate the corresponding director dynamics under flow. As will be discussed much later in this Thesis (Chapter \ref{cha:pretilt}) the application and control of surface pretilt of the director can be used to have desirable effects on LCD response and dynamic behaviour, along with the methods and techniques that can be used to produce such pretilt angles. 
 
@@ -245,8 +245,8 @@ This section gives a brief introduction to the effect that pretilt can have on t
  
 \begin{figure}
 \begin{center}
-\subfigure[]{\includegraphics[width=0.49\textwidth]{Figures/45/vary_tilt}}
-\subfigure[]{\includegraphics[width=0.49\textwidth]{Figures/45/pieranski_pretilt}}
+\subfigure[]{\includegraphics[width=0.4\textwidth]{Figures/45/vary_tilt}}
+\subfigure[]{\includegraphics[width=0.4\textwidth]{Figures/45/pieranski_pretilt}}
 \end{center}
 \caption[Simulations of applied pretilt on the Pieranski-Guyon instability]{\label{fig:45_vary_tilt} (a) A plot of the computed mean azimuthal rotation of the director as a function of volumetric flow rate and pretilt angle for an azimuthal alignment of $\phi_0=45^{\circ}$. The legend shows the amount of pretilt, \textit{in this case measured from the surface}, in the splayed geometry (the director is always planar at $z=d/2$). As the amount of pretilt is increased, the transient portion of the curve steepens, and much of the director rotation is achieved at lower flow rates. (b) The same result is shown for the Pieranski-Guyon instability. Here, a pretilt angle of 1$^{\circ}$ removes all trace of the threshold velocity. This result comes from the fact that the initial azimuthal torque on the director is larger for a starting condition of higher pretilt.}
 \end{figure}
@@ -257,7 +257,7 @@ This simulated response makes good quantitative sense if the argument behind flo
 
 The effect of pretilt angle on flow will be discussed at length in the next chapter, whereby different arrangements of pretilt can be shown to have a striking effect on the overall director response to flow.
 
-\section{Conclusions}
+\subsection{Conclusions}
 This chapter has looked at the pressure driven flow alignment of the liquid crystal 5CB originally aligned planar homogeneously at an azimuthal angle of $45^{\circ}$ to the direction of flow. Conoscopy has been used to measure the average azimuthal alignment of the sample as a function of the volumetric flow rate set at the syringe drive and has been compared to simulation from the one dimensional dynamic model based on the theory of Ericksen and Leslie. 
 
 Conoscopic figure rotation suggests that under flow, the director has rotated to achieve an angle close to the direction of the flow, whilst conoscopic figure translation suggests that the director has tilted to form a splayed director profile saturating at the Leslie angle of opposite signs in both halves of the cell. This result is in good agreement with the simulation.
