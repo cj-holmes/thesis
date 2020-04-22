@@ -7,6 +7,11 @@
 \lhead{\nouppercase{\textsc{\leftmark}}}
 \renewcommand{\headrulewidth}{0pt}
 
+% SECTION FORMATTING
+% Change section numbers to be arabic (actual numbers)
+\renewcommand\thesection{\arabic{section}}
+\renewcommand\thesubsection{\thesection.\arabic{subsection}}
+
 % MATHS --------------------------------------------------
 \usepackage{amsmath} % AMS mathematical facilities (aligning and formatting maths)
 
@@ -77,24 +82,10 @@ Finally, the large pretilt angles produced from the recipes mentioned above are 
 \include{splay_parallel/splay_parallel}
 \include{pretilt/pretilt}
 \include{diode/diode}
-% \include{conclusions/conclusions}
-% \include{publications/publications}
+\include{conclusions/conclusions}
+\include{publications/publications}
 
 % References
-% \bibliographystyle{bibliography/ESExeter.bst}
 \bibliography{bibliography/library}
-
-% Thanks to Alex
-\section{Alex}
-\begin{figure}[h]
-\begin{center}
-\includegraphics[width=0.4\textwidth]{figures/alex.jpg}
-\end{center}
-\end{figure}
-
-\begin{center}
-Alex - thank you for your help, advice and friendship during my time at Exeter. You are sorely missed.
-\end{center}
-
 
 \end{document}
