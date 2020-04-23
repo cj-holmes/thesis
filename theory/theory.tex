@@ -29,10 +29,12 @@ As is described by Stewart \cite{Stewart2004}, the natural continuum variables t
 
 \noindent As is the case for any classically based continuum theory (where isothermal conditions are assumed, and therefore thermal effects are ignored), conservation laws of mass, linear momentum and angular momentum must hold. Therefore, for a volume $V$ of nematic liquid crystal bounded by the surface $S$, this rate of work postulate can mathematically be described as 
 
-\begin{multline}
-\int_V \! \rho\left(\mathbf{F}\cdot\mathbf{v}+\mathbf{K}\cdot\mathbf{w}\right)\,dV+\int_S\!\left(\mathbf{t}\cdot\mathbf{v}+\mathbf{l}\cdot\mathbf{w}\right)\,dS= \\ \frac{D}{Dt}\int_V\!\left(\frac{1}{2}\rho\mathbf{v}\cdot\mathbf{v}+\omega_f\right)\,dV+\int_V\!\mathcal{D}\,dV
+\begin{widetext}
+\begin{equation}
+\int_V \! \rho\left(\mathbf{F}\cdot\mathbf{v}+\mathbf{K}\cdot\mathbf{w}\right)\,dV+\int_S\!\left(\mathbf{t}\cdot\mathbf{v}+\mathbf{l}\cdot\mathbf{w}\right)\,dS=\frac{D}{Dt}\int_V\!\left(\frac{1}{2}\rho\mathbf{v}\cdot\mathbf{v}+\omega_f\right)\,dV+\int_V\!\mathcal{D}\,dV
 \label{eq:rate_of_work_hypothesis}
-\end{multline}
+\end{equation}
+\end{widetext}
 
 \noindent where $\rho$ denotes the density, $\mathbf{F}$ is the external body force per unit mass, $\mathbf{v}$ is the velocity, $\mathbf{K}$ is the external body moment per unit mass, $\mathbf{w}$ is the local angular velocity of the director, $\mathbf{t}$ is the surface force per unit area, $\mathbf{l}$ is the surface moment per unit area and $\mathcal{D}$ signifies the rate of viscous dissipation per unit volume (known as the \textbf{dissipation function}).
 
@@ -119,7 +121,7 @@ As is carried through the rest of this thesis, the Euler angles $\theta\left(z,t
 
 \begin{figure}
 \begin{center}
-\includegraphics{Figures/Theory/coords}
+\includegraphics[width=0.3\textwidth]{Figures/Theory/coords}
 \end{center}
 \caption[Coordinate system]{\label{fig:coords}Coordinate system used throughout this thesis. The tilt angle $\theta$ is defined to be measured from the $z$ axis and the twist angle $\phi$ is defined to be the angle between the projection of $\mathbf{n}$ on to the $x-y$ plane and the $x$ axis}
 \end{figure}
@@ -182,8 +184,8 @@ However, it can be seen that if the Leslie viscosities $\alpha_2$ and $\alpha_3$
 
 \begin{figure}
 \begin{center}
-\subfigure[$\theta=90,\hspace{0.5cm}\phi=90$]{\includegraphics[width=0.3\textwidth]{Figures/Theory/ss_1}}\hspace{0.7in}
-\subfigure[$\theta=\theta_l,\hspace{0.5cm}\phi=0$]{\includegraphics[width=0.3\textwidth]{Figures/Theory/ss_2}}
+\subfigure[$\theta=90,\hspace{0.5cm}\phi=90$]{\includegraphics[width=0.2\textwidth]{Figures/Theory/ss_1}}\hspace{0.2in}
+\subfigure[$\theta=\theta_l,\hspace{0.5cm}\phi=0$]{\includegraphics[width=0.2\textwidth]{Figures/Theory/ss_2}}
 \end{center}
 \caption[Steady state alignment angles of a nematic liquid crystal]{\label{fig:ss} Visual schematic depictions of the steady state alignment angles available to the director under a highly simplified shear flow. (a) shows the alignment angles of $\theta=90^{\circ}$ and $\phi=90^{\circ}$, which are available for any values of the Leslie viscosities. (b) shows the alignment angles of $\theta=\theta_l$ and $\phi=0^{\circ}$, which are only available for \textit{flow-aligning} liquid crystals $\left(\alpha_2\alpha_3>0\right)$.}
 \end{figure}
@@ -212,7 +214,7 @@ Importantly, if the values of $\alpha_2$ and $\alpha_3$ differ in sign, the only
 \noindent Here we see that for $\alpha_2<\alpha_3<0$, the steady state Leslie angle will be valued somewhere between $\theta=90^{\circ}$ and $\theta=45^{\circ}$, which is a relatively small angular deviation away from planar alignment. Conversely, in the case of $\alpha_3<\alpha_2>0$, the Leslie angle will be valued between $\theta=45^{\circ}$ and $\theta=0^{\circ}$, which is a relatively large distortion away from planar alignment. It is purely this torque balance, created by the differing relative strengths of $\alpha_2$ and $\alpha_3$ which create the steady state Leslie angle.
 
 The values of the Leslie viscosity coefficients for three common nematic liquid crystals are given in Table \ref{tab:visc}. It can be seen for the experimental viscosities given in Table \ref{tab:visc}, that 5CB, MBBA and PAA are all Type I \textit{flow-aligning}.
-\\
+
 \begin{table}[ht]
 \centering  % used for centering table
 \begin{tabular}{l|c|cccccc} 
@@ -280,12 +282,14 @@ g^\prime\left(\theta\right)&=&\frac{dg}{d\theta}
 
 The governing equation for the azimuthal angle $\phi$ is derived from \cite{Cornford2008} and \cite{Stewart2004},
 
-\begin{eqnarray}
-\gamma_1 \sin^2\theta\frac{d\phi}{dt}&=&g\left(\theta\right)\frac{\partial^2\phi}{\partial z^2} + 
+\begin{widetext}
+\begin{equation}
+\gamma_1 \sin^2\theta\frac{d\phi}{dt}=g\left(\theta\right)\frac{\partial^2\phi}{\partial z^2} + 
 g'\left(\theta\right)\frac{\partial\theta}{\partial z}\frac{\partial\phi}{\partial z}- \\
-&&\frac{1}{2}\alpha_2\sin2\theta\left(\cos\phi\frac{\partial u_y}{\partial z}-\sin\phi\frac{\partial u_x}{\partial z}\right)
+\frac{1}{2}\alpha_2\sin2\theta\left(\cos\phi\frac{\partial u_y}{\partial z}-\sin\phi\frac{\partial u_x}{\partial z}\right)
 \label{eq:phi}
-\end{eqnarray}
+\end{equation}
+\end{widetext}
 
 \noindent Boundary conditions and initial conditions for equation \ref{eq:phi} must be provided, giving $\phi\left(z=0,t=0\right)$, $\phi\left(z=d,t=0\right)$ and $\phi\left(z,t=0\right)$. That is, the initial azimuthal director alignment has to be provided. Generally, when simulating the response of a cell, the angles in the simulation will be those of the rubbing direction on the actual cell.
 
@@ -387,9 +391,11 @@ A ray of light that passes through the focus of the cone of light at an angle of
 
 For each ray in the cone of incident light, the coefficients $E_{ss},E_{sp},E_{ps},E_{pp}$ are calculated, where $E_{sp}$ is the complex, $s$-polarised component of the electric field transmitted through the sample if the incoming ray were wholly $p$-polarised. From these, the intensity at any point on the cartesian coordinate system can be obtained \cite{Cornford2008} from,
 
-\begin{align}
+\begin{widetext}
+\begin{equation}
 I\left(\alpha,\psi\right)=\left|\left(E_{pp}-E_{ps}\right)\sin\left(\psi^{\prime}\right)\cos\left(\psi^{\prime}\right)-E_{ps}\cos^2\psi^{\prime}+E_{sp}\sin^2\psi^{\prime}\right|^2
-\end{align}
+\end{equation}
+\end{widetext}
 
 In order to compute the interference figure, a set of points in the cartesian coordinate plain $\left(x,y\right)$ needs to be selected such that $\sin\alpha\leq\sin\text{NA}$, where NA is the numerical aperture of the cone of light \cite{Cornford2008}.
 
