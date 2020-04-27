@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.16)  23 APR 2020 22:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.16)  27 APR 2020 21:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -643,24 +643,24 @@ LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
 
 LaTeX Warning: Reference `fig:eta' on page 11 undefined on input line 149.
 
-<figures/introduction/eta1.pdf, id=850, 525.32864pt x 658.45584pt>
-File: figures/introduction/eta1.pdf Graphic file (type pdf)
-<use figures/introduction/eta1.pdf>
-Package pdftex.def Info: figures/introduction/eta1.pdf  used on input line 153.
+<figures/introduction/eta1.png, id=850, 657.45625pt x 823.075pt>
+File: figures/introduction/eta1.png Graphic file (type png)
+<use figures/introduction/eta1.png>
+Package pdftex.def Info: figures/introduction/eta1.png  used on input line 153.
 
-(pdftex.def)             Requested size: 76.49689pt x 95.88055pt.
-<figures/introduction/eta2.pdf, id=851, 525.32864pt x 658.45584pt>
-File: figures/introduction/eta2.pdf Graphic file (type pdf)
-<use figures/introduction/eta2.pdf>
-Package pdftex.def Info: figures/introduction/eta2.pdf  used on input line 154.
+(pdftex.def)             Requested size: 76.49689pt x 95.7631pt.
+<figures/introduction/eta2.png, id=852, 657.45625pt x 823.075pt>
+File: figures/introduction/eta2.png Graphic file (type png)
+<use figures/introduction/eta2.png>
+Package pdftex.def Info: figures/introduction/eta2.png  used on input line 154.
 
-(pdftex.def)             Requested size: 76.49689pt x 95.88055pt.
-<figures/introduction/eta3.pdf, id=852, 525.32864pt x 658.45584pt>
-File: figures/introduction/eta3.pdf Graphic file (type pdf)
-<use figures/introduction/eta3.pdf>
-Package pdftex.def Info: figures/introduction/eta3.pdf  used on input line 155.
+(pdftex.def)             Requested size: 76.49689pt x 95.7631pt.
+<figures/introduction/eta3.png, id=853, 657.45625pt x 823.075pt>
+File: figures/introduction/eta3.png Graphic file (type png)
+<use figures/introduction/eta3.png>
+Package pdftex.def Info: figures/introduction/eta3.png  used on input line 155.
 
-(pdftex.def)             Requested size: 76.49689pt x 95.88055pt.
+(pdftex.def)             Requested size: 76.49689pt x 95.7631pt.
 
 LaTeX Warning: Reference `fig:eta' on page 11 undefined on input line 160.
 
@@ -679,13 +679,9 @@ ar}}}{11}{figure.6}\protected@file@percent }
 ical}}}{11}{figure.6}\protected@file@percent }
 \@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {Tilt
 ed}}}{11}{figure.6}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces  A schema
-tic diagram representing the relationship between the flow direction (red arrow
-s) and the alignment of the director for the principal Miesowicz viscosities, $
-\eta _1,\eta _2,\eta _3$.}}{11}{figure.7}\protected@file@percent }
-\newlabel{fig:eta}{{7}{11}{A schematic diagram representing the relationship be
-tween the flow direction (red arrows) and the alignment of the director for the
- principal Miesowicz viscosities, $\eta _1,\eta _2,\eta _3$}{figure.7}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Caption}}
+{11}{figure.7}\protected@file@percent }
+\newlabel{fig:eta}{{7}{11}{Caption}{figure.7}{}}
 \@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {$\et
 a _1$}}}{11}{figure.7}\protected@file@percent }
 \@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {$\et
@@ -702,19 +698,8 @@ clusion: multiple pdfs with page group included in a single page
 
 pdfTeX warning: pdflatex.exe (file ./figures/introduction/tilted.pdf): PDF incl
 usion: multiple pdfs with page group included in a single page
-> <./figures/introduction/eta1.pdf
-
-pdfTeX warning: pdflatex.exe (file ./figures/introduction/eta1.pdf): PDF inclus
-ion: multiple pdfs with page group included in a single page
-> <./figures/introduction/eta2.pdf
-
-pdfTeX warning: pdflatex.exe (file ./figures/introduction/eta2.pdf): PDF inclus
-ion: multiple pdfs with page group included in a single page
-> <./figures/introduction/eta3.pdf
-
-pdfTeX warning: pdflatex.exe (file ./figures/introduction/eta3.pdf): PDF inclus
-ion: multiple pdfs with page group included in a single page
->]
+> <./figures/introduction/eta1.png> <./figures/introduction/eta2.png> <./figure
+s/introduction/eta3.png>]
 \openout2 = `theory/theory.aux'.
 
  (./theory/theory.tex
@@ -727,12 +712,12 @@ Underfull \hbox (badness 5592) in paragraph at lines 22--23
 LaTeX Warning: Reference `fig:eta' on page 13 undefined on input line 74.
 
 [13]
-<Figures/Theory/coords.pdf, id=929, 225.0012pt x 196.7459pt>
+<Figures/Theory/coords.pdf, id=930, 225.0012pt x 196.7459pt>
 File: Figures/Theory/coords.pdf Graphic file (type pdf)
 <use Figures/Theory/coords.pdf>
 Package pdftex.def Info: Figures/Theory/coords.pdf  used on input line 124.
 (pdftex.def)             Requested size: 153.00156pt x 133.78543pt.
-<Figures/Theory/river.png, id=931, 412.6617pt x 306.78615pt>
+<Figures/Theory/river.png, id=932, 412.6617pt x 306.78615pt>
 File: Figures/Theory/river.png Graphic file (type png)
 <use Figures/Theory/river.png>
 Package pdftex.def Info: Figures/Theory/river.png  used on input line 135.
@@ -798,9 +783,9 @@ Overfull \hbox (32.85959pt too wide) in paragraph at lines 220--230
 pdfTeX warning: pdflatex.exe (file ./figures/Theory/ss_2.pdf): PDF inclusion: m
 ultiple pdfs with page group included in a single page
 >]
-Underfull \hbox (badness 1270) in paragraph at lines 294--295
-\OT1/cmr/m/n/10 tion [][]4.30[][] must be pro-vided, giv-ing $\OML/cmm/m/it/10 
-^^^ []$\OT1/cmr/m/n/10 ,
+Underfull \hbox (badness 2913) in paragraph at lines 294--295
+\OT1/cmr/m/n/10 tion [][]35[][] must be pro-vided, giv-ing $\OML/cmm/m/it/10 ^^
+^ []$\OT1/cmr/m/n/10 ,
  []
 
 [17]
@@ -3238,28 +3223,28 @@ ingle page
 LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
  on input line 281.
 
-<Figures/Diode/second_diode/conoscopy/data_1.jpg, id=5230, 237.88875pt x 237.88
+<Figures/Diode/second_diode/conoscopy/data_1.jpg, id=5229, 237.88875pt x 237.88
 875pt>
 File: Figures/Diode/second_diode/conoscopy/data_1.jpg Graphic file (type jpg)
 <use Figures/Diode/second_diode/conoscopy/data_1.jpg>
 Package pdftex.def Info: Figures/Diode/second_diode/conoscopy/data_1.jpg  used 
 on input line 288.
 (pdftex.def)             Requested size: 101.99844pt x 101.99977pt.
-<Figures/Diode/second_diode/conoscopy/data_2.jpg, id=5231, 238.8925pt x 237.888
+<Figures/Diode/second_diode/conoscopy/data_2.jpg, id=5230, 238.8925pt x 237.888
 75pt>
 File: Figures/Diode/second_diode/conoscopy/data_2.jpg Graphic file (type jpg)
 <use Figures/Diode/second_diode/conoscopy/data_2.jpg>
 Package pdftex.def Info: Figures/Diode/second_diode/conoscopy/data_2.jpg  used 
 on input line 289.
 (pdftex.def)             Requested size: 101.99844pt x 101.56781pt.
-<Figures/Diode/second_diode/conoscopy/model_1.jpg, id=5232, 419.5675pt x 421.57
+<Figures/Diode/second_diode/conoscopy/model_1.jpg, id=5231, 419.5675pt x 421.57
 5pt>
 File: Figures/Diode/second_diode/conoscopy/model_1.jpg Graphic file (type jpg)
 <use Figures/Diode/second_diode/conoscopy/model_1.jpg>
 Package pdftex.def Info: Figures/Diode/second_diode/conoscopy/model_1.jpg  used
  on input line 290.
 (pdftex.def)             Requested size: 101.99844pt x 102.4859pt.
-<Figures/Diode/second_diode/conoscopy/model_2.jpg, id=5233, 396.48125pt x 397.4
+<Figures/Diode/second_diode/conoscopy/model_2.jpg, id=5232, 396.48125pt x 397.4
 85pt>
 File: Figures/Diode/second_diode/conoscopy/model_2.jpg Graphic file (type jpg)
 <use Figures/Diode/second_diode/conoscopy/model_2.jpg>
@@ -3458,10 +3443,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 11926 strings out of 482530
- 230494 string characters out of 5949330
- 480768 words of memory out of 5000000
- 26310 multiletter control sequences out of 15000+600000
+ 11923 strings out of 482530
+ 230365 string characters out of 5949330
+ 480693 words of memory out of 5000000
+ 26307 multiletter control sequences out of 15000+600000
  544014 words of font info for 63 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  34i,13n,45p,2504b,727s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3498,10 +3483,10 @@ m/cmti10.pfb><c:/Users/Chris/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmti9.pfb><c:/Users/Chris/AppData/Roaming/TinyTeX/texmf-dist/fo
 nts/type1/public/lm/lmr12.pfb><c:/Users/Chris/AppData/Roaming/TinyTeX/texmf-dis
 t/fonts/type1/public/lm/lmri10.pfb>
-Output written on Thesis.pdf (87 pages, 28584420 bytes).
+Output written on Thesis.pdf (87 pages, 28481783 bytes).
 PDF statistics:
  5898 PDF objects out of 6186 (max. 8388607)
- 4511 compressed objects within 46 object streams
+ 4508 compressed objects within 46 object streams
  794 named destinations out of 1000 (max. 500000)
  2615 words of extra memory for PDF output out of 10000 (max. 10000000)
 
