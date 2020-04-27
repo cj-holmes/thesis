@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.16)  27 APR 2020 21:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.16)  27 APR 2020 21:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -406,10 +406,10 @@ Package: changepage 2009/10/20 v1.0c check page and change page layout
 \cp@tempcnt=\count276
 )
 Class revtex4-1 Info: Unrecognized array package. Please update this document c
-lass! (Proceeding with fingers crossed.) on input line 55.
-Class revtex4-1 Info: cite was not loaded (OK!) on input line 55.
-Class revtex4-1 Info: mcite was not loaded (OK!) on input line 55.
-Class revtex4-1 Info: multicol was not loaded (OK!) on input line 55.
+lass! (Proceeding with fingers crossed.) on input line 57.
+Class revtex4-1 Info: cite was not loaded (OK!) on input line 57.
+Class revtex4-1 Info: mcite was not loaded (OK!) on input line 57.
+Class revtex4-1 Info: multicol was not loaded (OK!) on input line 57.
 
 (c:/Users/Chris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backen
 d-pdfmode.def
@@ -423,22 +423,22 @@ x) (./theory/theory.aux) (./45/45.aux)
 (./publications/publications.aux))
 \openout1 = `Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
 
 (c:/Users/Chris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epsto
 pdf-base.sty
@@ -462,7 +462,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-Package hyperref Info: Link coloring ON on input line 55.
+Package hyperref Info: Link coloring ON on input line 57.
 
 (c:/Users/Chris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.s
 ty
@@ -478,20 +478,20 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count278
 )
-LaTeX Info: Redefining \ref on input line 55.
-LaTeX Info: Redefining \pageref on input line 55.
-LaTeX Info: Redefining \nameref on input line 55.
+LaTeX Info: Redefining \ref on input line 57.
+LaTeX Info: Redefining \pageref on input line 57.
+LaTeX Info: Redefining \nameref on input line 57.
  (./Thesis.out) (./Thesis.out)
 \@outlinefile=\write4
 \openout4 = `Thesis.out'.
 
-Class revtex4-1 Info: Taking \maketitle back from hyperref on input line 55.
+Class revtex4-1 Info: Taking \maketitle back from hyperref on input line 57.
 \openout3 = `ThesisNotes.bib'.
 
 <figures/crest.jpg, id=498, 558.085pt x 708.6475pt>
 File: figures/crest.jpg Graphic file (type jpg)
 <use figures/crest.jpg>
-Package pdftex.def Info: figures/crest.jpg  used on input line 60.
+Package pdftex.def Info: figures/crest.jpg  used on input line 62.
 (pdftex.def)             Requested size: 101.99844pt x 129.50821pt.
  [1{c:/Users/Chris/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pd
 ftex.map} <./figures/crest.jpg>]
@@ -1772,7 +1772,7 @@ tiple pdfs with page group included in a single page
 >]
 
 LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
- on input line 109.
+ on input line 111.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
@@ -3427,14 +3427,14 @@ Underfull \hbox (badness 1331) in paragraph at lines 552--557
  []
 
 [85] [86]) [87]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 121.
  (./Thesis.aux (./gumf/gumf.aux)
 (./introduction/introduction.aux) (./lc/lc.aux) (./theory/theory.aux)
 (./45/45.aux) (./splay_parallel/splay_parallel.aux) (./pretilt/pretilt.aux)
 (./diode/diode.aux) (./conclusions/conclusions.aux)
 (./publications/publications.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 119.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 121.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 121.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
 (rerunfilecheck)             Checksum: A3D50F2896BE84BE9CE23B9297EA5B00;9163.
 
